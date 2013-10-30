@@ -1,4 +1,4 @@
-##Historias de emprendedores y lean startups
+##Historias de emprendedores y Lean Startups
 
 ###SnapTax
 En el 2009, una startup decidió tratar algo realmente audaz. Querían liberar a los que pagan impuestos de las costosas tiendas de impuesto al automatizar el proceso de recolectar información tipicamente encontrada en formularios W-2 (en USA, el resúmen de final de año que la mayoría de los empleados reciben de sus empleadores que resume sus tasas de impuestos del año). La startup rápidamente se encontró con dificultades. A pesar que muchos clientes tenían acceso a impresoras/scanners en sus casas u oficinas, pocos sabían cómo usar esos dispositivos. Después de numerosas conversaciones con clientes potenciales, el equipo se iluminó con la idea de hacer que los clientes saquen fotos a los formularios directamente desde sus teléfonos. En el proceso de probar este concepto, los clientes preguntaron algo inesperado: será posible terminar *el proceso entero de devolución de impuestos* desde el teléfono mismo?
@@ -21,4 +21,4 @@ Como Scott (fundador de Intuit) dijo,
 
 [...]
 
-**Intuit invirtió en sistemas que incrementaron la velocidad en la que los tests podían ser construídos, puestos en producción y analizados**
+**Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción y analizadas**
