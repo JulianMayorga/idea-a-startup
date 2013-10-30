@@ -1,0 +1,21 @@
+# Outline Tesis
+
+- Introducción
+    - Historias de emprendedores y lean startups
+    - Beneficios del método Lean Startup
+- Marco Teórico
+    - Descripción del método Lean Startup
+        - MVP: Minimo Producto Viable
+        - Bucle Construir -> Medir -> Aprender
+    - Rol del Ingeniero en Lean Startup
+        - Maximizar aprendizaje
+            - Metricas accionables
+            - Pruebas A/B
+        - Minimizar tiempo en bucle
+            - TDD: Desarrollo guiado por pruebas
+            - Puesta en producción continua
+            - Usar código libre
+- Marco Práctico
+    - Modulo para trackeo de metricas accionables
+    - Modulo para pruebas A/B
+    - Desarrollo de puesta en producción continua
