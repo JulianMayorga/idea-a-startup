@@ -1,6 +1,8 @@
-##Historias de emprendedores y Lean Startups
+##Principios de Lean Startup ejemplificados con casos reales
 
-###SnapTax
+###Emprendedores hay por todos lados: SnapTax
+Para ilustrar uno de los principios más importantes de Lean Startup, el cual es *"Emprendedores hay por todos lados"*; se va a contar la historia de una startup del área de servicios financieros personales, llamada SnapTax:
+
 En el 2009, una startup decidió tratar algo realmente audaz. Querían liberar a los que pagan impuestos de las costosas tiendas de impuesto al automatizar el proceso de recolectar información tipicamente encontrada en formularios W-2 (en USA, el resúmen de final de año que la mayoría de los empleados reciben de sus empleadores que resume sus tasas de impuestos del año). La startup rápidamente se encontró con dificultades. A pesar que muchos clientes tenían acceso a impresoras/scanners en sus casas u oficinas, pocos sabían cómo usar esos dispositivos. Después de numerosas conversaciones con clientes potenciales, el equipo se iluminó con la idea de hacer que los clientes saquen fotos a los formularios directamente desde sus teléfonos. En el proceso de probar este concepto, los clientes preguntaron algo inesperado: será posible terminar *el proceso entero de devolución de impuestos* desde el teléfono mismo?
 
 Esa no era una tarea fácil. La preparación tradicional de impuestos requiere que los consumidores pasen con dificultad a través de cientos de preguntas, muchos formularios y mucho papelerío. Esta startup intentó algo novedoso al decidir sacar al mercado una versión inicial del producto que podía hacer mucho menos que el paquete completo de impuestos. La versión inicial funcionó sólo para consumidores con un resultado de impuestos muy simple, y sólo funcionaba en California.
@@ -13,13 +15,19 @@ Sin embargo, el nombre de la compañía te puede sorprender. SnapTax fue desarro
 
 El equipo que construyó SnapTax tampoco se parece mucho a la imagen típica de emprendedores. Ellos no trabajan en un garaje o comen *ramen noodles*. A su compañía no le faltan recursos. Ellos reciben salario y beneficios. Ellos van a trabajar a la oficina todos los días. A pesar de eso ellos son emprendedores.
 
-###Intuit
+**No necesitás trabajar en un garaje para estar en una startup.**
+
+###Construir-medir-aprender: Intuit
+Para ilustrar un principio muy importante de toda Lean Startup, el cual es el bucle *"Construir-medir-aprender"*, se va a contar la historia de cómo una conocida empresa americana llamada Intuit comenzó a correr cientos de experimentos para probar cada elemento de su visión.
+
 Uno de sus productos insignia es TurboTax. Porque TurboTax hace la mayoría de sus ventas en época de impuestos de USA, solía tener una cultura extremadamente conservadora. Al transcurrir el año, los equipos de marketing y producto concebían una iniciativa importante que sería puesta en marcha justo a tiempo para época de impuestos. Ahora ellos prueban mas de quinientos cambios diferentes en una época de impuestos de dos meses y medio. El equipo puede hacer un cambio en vivo en su sitio un Jueves, correrlo todo el fin de semana, leer los resultados el Lunes y llegar a conclusiones al empezar el próximo Jueves; después construyen nuevas pruebas ese mismo dia y lanzan el próximo conjunto de pruebas a la noche.
 
 Como Scott (fundador de Intuit) dijo,
 
 > "Hombre, la cantidad de aprendizaje que obtienen es inmenso ahora. Y lo que hace es desarrollar emprendedores, porque cuando tenés solo una prueba, no tenés emprendedores, tenés políticos, porque tenés que vender. A partir de cientos de buenas ideas, tenés que vender la tuya. Entonces construís una sociedad de políticos y vendedores. Cuando tenés quinientas pruebas corriendo, entonces las ideas de todos pueden correr. Y después creás emprendedores que corren y aprenden y pueden probar de vuelta y aprender nuevamente, todo lo contrario que una sociedad de políticos. Entonces estamos tratado de implementar eso a través de nuestra organización, usando ejemplos que no tienen nada que ver con tecnología de punta, como el ejemplo del sitio web. Hoy en día todo negocio tiene un sitio web. No necesitás estar en tecnología de punta para usar ciclos rápidos de testing."
 
-[...]
+**Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción, medidas y analizadas.**
 
-**Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción y analizadas**
+###Aprendizaje validado: IMVU
+
+[Contar historia de IMVU]
