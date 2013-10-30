@@ -1,2 +1,2 @@
-##Minimizar tiempo en bucle
+###Minimizar tiempo en bucle
 [Contenido]
