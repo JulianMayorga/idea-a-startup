@@ -1,3 +1,4 @@
+resumen/resumen.txt
 introduccion/introduccion.txt
 introduccion/historias.txt
 introduccion/beneficios.txt
@@ -13,7 +14,8 @@ marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/minimizar-tiempo-bucle.txt
 marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/tdd.txt
 marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/puesta-produccion-continua.txt
 marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/codigo-libre.txt
-marco-practico/marco-practico.txt
-marco-practico/modulo-metricas-accionables.txt
-marco-practico/modulo-pruebas-ab.txt
-marco-practico/desarrollo-puesta-produccion-continua.txt
+desarrollo-ingenieria/desarrollo-ingenieria.txt
+desarrollo-ingenieria/modulo-metricas-accionables.txt
+desarrollo-ingenieria/modulo-pruebas-ab.txt
+desarrollo-ingenieria/desarrollo-puesta-produccion-continua.txt
+conclusion/conclusion.txt
