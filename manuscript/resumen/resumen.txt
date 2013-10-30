@@ -1,5 +1,5 @@
-#Resúmen
-El presente Trabajo Final tiene como objetivo tanto el aporte en materia de Ingeniería como la divulgación de material en habla hispana de un método, que tiene como misión mejorar las chances de éxito en productos innovadores, llamado Lean Startup.
+#Resumen
+El presente Trabajo Final tiene como objetivo tanto el aporte en materia de Ingeniería como la divulgación de material en habla hispana de un método, que tiene como misión mejorar las chances de éxito en productos innovadores, llamado [Lean Startup] [lean-startup-link] [^lean-startup].
 
 Para entender con ejemplos el método se presentan historias de empresas y emprendedores innovadores que aplicaron la filosofía de Lean Startup.
 
@@ -10,3 +10,6 @@ En el marco teórico se describen los componentes que forman parte de Lean Start
 El desarrollo de ingeniería consiste en la implementación de sistemas que incrementen la velocidad en la que las hipótesis puedan ser construídas, puestas en producción y analizadas.
 
 Como conclusión de este trabajo, ...
+
+[lean-startup-link]: http://theleanstartup.com "Lean Startup"
+[^lean-startup]: Lean Startup es una marca registrada cuyo propietario es Eric Ries.
