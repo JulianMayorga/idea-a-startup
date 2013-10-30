@@ -1,1 +1,12 @@
-#Resumen
+#Resúmen
+El presente Trabajo Final tiene como objetivo mejorar las chances de éxito en productos innovadores al presentar una metodología llamada Lean Startup. El trabajo realiza aportes en materia de ingeniería a la metodología.
+
+Para entender con ejemplos la metodología se presenta historias de empresas y emprendedores innovadores que aplicaron la filosofía de Lean Startup.
+
+Se presentan los beneficios tangibles que ofrece el método de innovación estudiado.
+
+En el marco teórico se describen los componentes que forman parte de la metodología y se analiza el rol que debe cumplir un ingeniero en empresas que apliquen el método Lean Startup.
+
+El desarrollo de ingeniería consiste en la implementación de sistemas que incrementen la velocidad en la que las pruebas puedan ser construídas, puestas en producción y analizadas.
+
+Como conclusión de este trabajo, ...
