@@ -1,2 +1,2 @@
-###Bucle Construir -> Medir -> Aprender
-[Contenido]
+###Bucle Construir - Medir - Aprender
+![Construir-medir-aprender](images/Construir-medir-aprender.png "Bucle construir-medir-aprender")

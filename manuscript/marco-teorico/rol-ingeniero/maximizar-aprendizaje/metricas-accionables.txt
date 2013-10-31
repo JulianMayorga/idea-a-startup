@@ -1,2 +1,2 @@
 ####Metricas accionables
-[Contenido]
+![Metricas accionables](images/Metricas_accionables.png)
