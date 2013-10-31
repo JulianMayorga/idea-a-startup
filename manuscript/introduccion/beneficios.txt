@@ -1,4 +1,8 @@
 ##Beneficios del método Lean Startup
+Los beneficios principales que se obtienen al aplicar la metodología son claves para el funcionamiento de toda startup, ellos son: [^benefits-lean-startup]
+
 - Ser mas innovador
 - Dejar de desperdiciar el tiempo de las personas
 - Ser mas exitoso
+
+[^benefits-lean-startup]: http://theleanstartup.com/#benefits
