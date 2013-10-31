@@ -1,5 +1,22 @@
 ##Principios de Lean Startup ejemplificados con casos reales
 
+###Emprendedurismo es administración: IMVU
+Para ejemplificar que el emprendedurismo es administración se van a citar las palabras del autor de Lean Startup, Eric Ries:
+
+>El emprendedurismo es una especie de administración. No, no leíste mal. Tenemos asociaciones salvajemente divergentes sobre esas dos palabras, *emprendedurismo* y *administración*. Últimamente, parece que una es *cool*, innovadora y emocionante y la otra es aburrida, seria y sosa. Es tiempo de dejar atrás esos preconceptos.
+
+>Dejame contarte la historia de una startup. Es 2004, y un grupo de fundadores recién han comenzado una nueva compañía. Su compañía anterior falló muy públicamente. Su credibilidad está en su nivel mas bajo. Tienen una visión enorme: cambiar la forma en la que la gente se comunica al usar una nueva tecnología llamada avatars (recuerden. esto era antes de la taquillera película de James Cameron). Están siguiendo a un visionario llamado Will Harvey, que pinta una imagen irresistible: personas conectándose con sus amigos, pasando el rato online, usando avatares para darles una combinación de conexión íntima y anonimidad segura. Aún mejor, en vez de tener que construir toda la ropa, muebles y accesorios que estos avatares necesitarían para anexar a sus vidas digitales, los clientes serían enlistados para construir esas cosas y venderlas unos a otros.
+
+>El reto de ingeniería ante ellos es inmenso: crear mundos virtuales, contenido generados por usuarios, un motor de e-commerce, micropagos y por último, pero no menos importante, la tecnología tridimensional de avatares que pueda correr en la PC de cualquiera.
+
+>Estoy en esta historia. Soy un cofundador y Director de Tecnología de esta compañía, que es llamada IMVU. En este punto de nuestras carreras, mis cofundadores y yo estamos determinados a cometer nuevos errores. Hacemos todo mal: en vez de gastar años perfeccionando nuestra tecnología, construímos un producto mínimo viable, un producto precoz que es terrible, lleno de errores y problemas de estabilidad trabamos-tu-computadora-si-en-serio. Después lo enviamos a producción a los clientes antes que esté listo. Y cobramos dinero por él. Después de asegurar los clientes iniciales, cambiamos el producto constantemente -demasiado rápido en comparación con los standares tradicionales- enviando a producción nuevas versiones del producto decenas de veces cada día.
+
+>Realmente teníamos clientes en esos días iniciales -verdaderos pioneros visionarios- y hablábamos con ellos seguido y les pedíamos feedback. Pero enfáticamente *no* hicimos lo que ellos decían. Vimos sus aportes como sólo una fuente de información sobre el producto y visión general. De hecho, era mucho más probable que corriésemos experimentos en nuestros clientes antes que satisfacer sus caprichos.
+
+>El pensamiento tradicional de negocios dice que este enfoque no debería funcionar, pero funciona, y no necesitás creerme. Como verás a través del libro Lean Startup, este enfoque que iniciamos en IMVU se ha convertido en la base para un nuevo movimiento de emprendedores alrededor del mundo. Se basa en varias ideas de administración, incluídas *lean manufacturing*, pensamiento de diseño, desarrollo de clientes, y desarrollo ágil. Representa un nuevo enfoque a la creación de innovación continua. Es llamado Lean Startup. [^snaptax-lean-startup]
+
+**Una startup es una institución, no sólo un producto, entonces requiere administración, una nueva clase de administración específicamente orientada a su contexto. [^entrepreneurship-is-management-blog]**
+
 ###Emprendedores hay por todos lados: SnapTax
 Para ilustrar uno de los principios más importantes de Lean Startup, el cual es *"Emprendedores hay por todos lados"*; se va a contar la historia de una startup del área de servicios financieros personales, llamada SnapTax:
 
@@ -15,7 +32,7 @@ Sin embargo, el nombre de la compañía te puede sorprender. SnapTax fue desarro
 
 El equipo que construyó SnapTax tampoco se parece mucho a la imagen típica de emprendedores. Ellos no trabajan en un garaje o comen *ramen noodles*. A su compañía no le faltan recursos. Ellos reciben salario y beneficios. Ellos van a trabajar a la oficina todos los días. A pesar de eso ellos son emprendedores.
 
-**No necesitás trabajar en un garaje para estar en una startup.**
+**No necesitás trabajar en un garaje para estar en una startup.[^entrepreneurs-are-everywhere]**
 
 ###Construir-medir-aprender: Intuit
 Para ilustrar un principio muy importante de toda Lean Startup, el cual es el bucle *"Construir-medir-aprender"*, se va a contar la historia de cómo una conocida empresa americana llamada Intuit comenzó a correr cientos de experimentos para probar cada elemento de su visión.
@@ -24,10 +41,14 @@ Uno de sus productos insignia es TurboTax. Porque TurboTax hace la mayoría de s
 
 Como Scott (fundador de Intuit) dijo,
 
-> "Hombre, la cantidad de aprendizaje que obtienen es inmenso ahora. Y lo que hace es desarrollar emprendedores, porque cuando tenés solo una prueba, no tenés emprendedores, tenés políticos, porque tenés que vender. A partir de cientos de buenas ideas, tenés que vender la tuya. Entonces construís una sociedad de políticos y vendedores. Cuando tenés quinientas pruebas corriendo, entonces las ideas de todos pueden correr. Y después creás emprendedores que corren y aprenden y pueden probar de vuelta y aprender nuevamente, todo lo contrario que una sociedad de políticos. Entonces estamos tratado de implementar eso a través de nuestra organización, usando ejemplos que no tienen nada que ver con tecnología de punta, como el ejemplo del sitio web. Hoy en día todo negocio tiene un sitio web. No necesitás estar en tecnología de punta para usar ciclos rápidos de testing."
+> "Hombre, la cantidad de aprendizaje que obtienen es inmenso ahora. Y lo que hace es desarrollar emprendedores, porque cuando tenés solo una prueba, no tenés emprendedores, tenés políticos, porque tenés que vender. A partir de cientos de buenas ideas, tenés que vender la tuya. Entonces construís una sociedad de políticos y vendedores. Cuando tenés quinientas pruebas corriendo, entonces las ideas de todos pueden correr. Y después creás emprendedores que corren y aprenden y pueden probar de vuelta y aprender nuevamente, todo lo contrario que una sociedad de políticos. Entonces estamos tratado de implementar eso a través de nuestra organización, usando ejemplos que no tienen nada que ver con tecnología de punta, como el ejemplo del sitio web. Hoy en día todo negocio tiene un sitio web. No necesitás estar en tecnología de punta para usar ciclos rápidos de testing." [^intuit-lean-startup]
 
 **Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción, medidas y analizadas.**
 
-###Aprendizaje validado: IMVU
+[^snaptax-lean-startup]: Libro "The Lean Startup", sección "The snaptax story"
 
-[Contar historia de IMVU]
+[^entrepreneurship-is-management-blog]: http://www.startuplessonslearned.com/2011/01/why-we-need-to-teach-mbas-about-modern.html
+
+[^entrepreneurs-are-everywhere]: http://www.startuplessonslearned.com/2011/06/open-innovation-in-dc.html
+
+[^intuit-lean-startup]: Libro "The Lean Startup", sección "A seven thousand person lean startup"
