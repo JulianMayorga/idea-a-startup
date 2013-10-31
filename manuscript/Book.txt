@@ -4,8 +4,8 @@ marco-teorico/marco-teorico.txt
 marco-teorico/metodo-lean-startup/historias.txt
 marco-teorico/metodo-lean-startup/beneficios.txt
 marco-teorico/metodo-lean-startup/metodo-lean-startup.txt
-marco-teorico/metodo-lean-startup/mvp.txt
 marco-teorico/metodo-lean-startup/construir-medir-aprender.txt
+marco-teorico/metodo-lean-startup/mvp.txt
 marco-teorico/rol-ingeniero/rol-ingeniero.txt
 marco-teorico/rol-ingeniero/maximizar-aprendizaje/maximizar-aprendizaje.txt
 marco-teorico/rol-ingeniero/maximizar-aprendizaje/metricas-accionables.txt
