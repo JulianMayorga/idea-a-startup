@@ -1,4 +1,3 @@
-resumen/resumen.txt
 introduccion/introduccion.txt
 marco-teorico/marco-teorico.txt
 marco-teorico/metodo-lean-startup/historias.txt
@@ -19,3 +18,4 @@ desarrollo-ingenieria/modulo-metricas-accionables.txt
 desarrollo-ingenieria/modulo-pruebas-ab.txt
 desarrollo-ingenieria/desarrollo-puesta-produccion-continua.txt
 conclusion/conclusion.txt
+resumen/resumen.txt
