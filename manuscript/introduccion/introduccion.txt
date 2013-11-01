@@ -1,7 +1,13 @@
 #Introducción
 
-Quizás seas una de las muchas personas que tienen ideas innovadoras, que quieren crear el próximo twitter o facebook, si es así probablemente se te haya cruzado por la cabeza dedicar todo tu tiempo a ese sueño. Pero la dura realidad es que es un sueño muy dificil de conseguir, las estadísticas dicen que 9 de cada 10 startups que reciben dinero de inversores fracasan.
+Quizás seas una de las muchas personas que tienen ideas innovadoras, que quieren crear el próximo twitter o facebook, si es así probablemente se te haya cruzado por la cabeza dedicar todo tu tiempo a ese sueño. Pero la dura realidad es que es un sueño muy dificil de conseguir, las estadísticas dicen que nueve de cada diez startups que reciben dinero de inversores fracasan.
 
-Pero no te preocupés, todavía hay esperanzas de alcanzar tu sueño. En los últimos años muchas startups exitosas han utilizado una metodología de negocios que inició Eric Ries, llamada Lean Startup, la cual responde las preguntas esenciales ¿Cómo mejorar la probabilidad de éxito de productos innovadores?, y ¿Cómo se puede aprender más rápido y mejor sobre los aspectos que funcionan, y descartar los que no son útiles? Gracias al método propuesto por Eric Ries, 4 de cada 10 lean startups tienen éxito.
+Pero no te preocupés, todavía hay esperanzas de alcanzar tu sueño. En los últimos años muchas startups exitosas han utilizado una metodología de negocios que inició Eric Ries, llamada Lean Startup, la cual responde las preguntas esenciales *¿Cómo mejorar la probabilidad de éxito de productos innovadores?*, y *¿Cómo se puede aprender más rápido y mejor sobre los aspectos que funcionan, y descartar los que no son útiles?* Gracias al método propuesto por Eric Ries, cuatro de cada diez *lean startups* tienen éxito.
+
+Ya que se ha mencionado más de una vez el término startup, es oportuno definirlo, para ello se va a proveer la definición dada por el autor de Lean Startup:
+
+>Una startup es una institución humana diseñada para lanzar un nuevo producto o servicio bajo condiciones de incertidumbre extrema.[^definicion-startup]
 
 En el presente trabajo se van a desarrollar las características del movimiento Lean Startup, ya afianzado en la cultura emprendedora de los Estados Unidos. Luego se va a analizar el rol del Ingeniero de Software en este tipo de startups, para finalizar con el desarrollo de software implementado de acuerdo a las especificaciones de la metodología propuesta por Eric Ries.
+
+[^definicion-startup]: http://www.startuplessonslearned.com/2010/06/what-is-startup.html

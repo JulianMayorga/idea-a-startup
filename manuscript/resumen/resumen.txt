@@ -18,3 +18,5 @@ Se presentaron los beneficios tangibles que ofrece la metodología de innovació
 También se describieron los componentes que forman parte de Lean Startup, el bucle construir-medir-aprender y el mínimo producto viable, o MVP. Se analizó el rol que debe cumplir un ingeniero en empresas que apliquen el método, el cual es minimizar el tiempo total en el bucle, y maximizar el aprendizaje al final del mismo.
 
 El desarrollo de ingeniería consistió en la implementación de módulos que incrementen la velocidad en la que puedan ser construídas hipótesis sobre un negocio, para luego ponerlas en producción y analizar sus resultados.
+
+Como conclusión del trabajo, ...
