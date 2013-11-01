@@ -1,2 +1,2 @@
 ####Pruebas A/B
-![Pruebas A-B](images/Pruebas_A-B.png)
+![Pruebas A/B](images/Pruebas_A-B.png)

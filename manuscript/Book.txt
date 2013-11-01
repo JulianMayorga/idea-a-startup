@@ -7,8 +7,8 @@ marco-teorico/metodo-lean-startup/construir-medir-aprender.txt
 marco-teorico/metodo-lean-startup/mvp.txt
 marco-teorico/rol-ingeniero/rol-ingeniero.txt
 marco-teorico/rol-ingeniero/maximizar-aprendizaje/maximizar-aprendizaje.txt
-marco-teorico/rol-ingeniero/maximizar-aprendizaje/metricas-accionables.txt
 marco-teorico/rol-ingeniero/maximizar-aprendizaje/pruebas-ab.txt
+marco-teorico/rol-ingeniero/maximizar-aprendizaje/metricas-accionables.txt
 marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/minimizar-tiempo-bucle.txt
 marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/tdd.txt
 marco-teorico/rol-ingeniero/minimizar-tiempo-bucle/puesta-produccion-continua.txt
