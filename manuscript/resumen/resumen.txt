@@ -1,15 +1,20 @@
 #Resumen
-El presente Trabajo Final tiene como objetivo tanto el aporte en materia de Ingeniería como la divulgación de material en habla hispana de un método, que tiene como misión mejorar las chances de éxito en productos innovadores, llamado [Lean Startup] [lean-startup-link] [^lean-startup].
+El presente Trabajo Final tenía como objetivo tanto el aporte en materia de Ingeniería como la divulgación de material en habla hispana de un método, que tiene como misión mejorar las chances de éxito en productos innovadores, llamado Lean Startup.
 
-Para entender con ejemplos el método se presentan historias de empresas y emprendedores innovadores que aplicaron la filosofía de Lean Startup.
+Para entender el método a través de ejemplos se presentaron historias de empresas y emprendedores innovadores que aplicaron la filosofía de Lean Startup, para así entender los cinco principios fundamentales de la metodología, que son:
 
-Se presentan los beneficios tangibles que ofrece la metodología de innovación estudiada.
+- Emprendedores hay por todos lados
+- Emprendedurismo es administración
+- Aprendizaje validado
+- Contabilización de innovación
+- Construir-medir-aprender
 
-En el marco teórico se describen los componentes que forman parte de Lean Startup y se analiza el rol que debe cumplir un ingeniero en empresas que apliquen el método.
+Se presentaron los beneficios tangibles que ofrece la metodología de innovación estudiada, los cuales son:
 
-El desarrollo de ingeniería consiste en la implementación de sistemas que incrementen la velocidad en la que las hipótesis puedan ser construídas, puestas en producción y analizadas.
+- Ser mas innovador
+- Dejar de desperdiciar el tiempo de las personas
+- Ser mas exitoso
 
-Como conclusión de este trabajo, ...
+También se describieron los componentes que forman parte de Lean Startup, el bucle construir-medir-aprender y el mínimo producto viable, o MVP. Se analizó el rol que debe cumplir un ingeniero en empresas que apliquen el método, el cual es minimizar el tiempo total en el bucle, y maximizar el aprendizaje al final del mismo.
 
-[lean-startup-link]: http://theleanstartup.com "Lean Startup"
-[^lean-startup]: Lean Startup es una marca registrada cuyo propietario es Eric Ries.
+El desarrollo de ingeniería consistió en la implementación de módulos que incrementen la velocidad en la que puedan ser construídas hipótesis sobre un negocio, para luego ponerlas en producción y analizar sus resultados.
