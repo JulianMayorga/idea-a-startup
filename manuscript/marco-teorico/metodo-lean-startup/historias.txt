@@ -55,10 +55,10 @@ Como Scott (fundador de Intuit) dijo,
 
 **Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción, medidas y analizadas.**
 
-[^snaptax-lean-startup]: Libro "The Lean Startup", sección "The snaptax story"
+[^snaptax-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "The snaptax story"
 
 [^entrepreneurship-is-management-blog]: http://www.startuplessonslearned.com/2011/01/why-we-need-to-teach-mbas-about-modern.html
 
 [^entrepreneurs-are-everywhere]: http://www.startuplessonslearned.com/2011/06/open-innovation-in-dc.html
 
-[^intuit-lean-startup]: Libro "The Lean Startup", sección "A seven thousand person lean startup"
+[^intuit-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "A seven thousand person lean startup"
