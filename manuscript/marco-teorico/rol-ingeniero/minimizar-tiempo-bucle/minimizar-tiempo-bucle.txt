@@ -1,2 +1,0 @@
-###Minimizar tiempo en bucle
-![Minimizar tiempo bucle](images/Minimizar_tiempo_bucle.png)

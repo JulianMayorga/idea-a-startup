@@ -1,2 +1,0 @@
-###MVP: Minimo Producto Viable
-![MVP](images/MVP.png "MVP")

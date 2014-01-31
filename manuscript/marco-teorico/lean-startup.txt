@@ -1,4 +1,13 @@
-##Principios de Lean Startup ejemplificados con casos reales
+##Lean Startup
+
+###Beneficios del método Lean Startup
+Los beneficios principales que se obtienen al aplicar la metodología son claves para el funcionamiento de toda startup, ellos son: [^benefits-lean-startup]
+
+- Ser mas innovador
+- Dejar de desperdiciar el tiempo de las personas
+- Ser mas exitoso
+
+###Principios de Lean Startup ejemplificados con casos reales
 
 La filosofía Lean Startup posee cinco principios, los cuales son:
 
@@ -10,7 +19,7 @@ La filosofía Lean Startup posee cinco principios, los cuales son:
 
 Para ilustrar algunos de estos principios se va a contar cómo diferentes startups han utilizado la metodología, para así facilitar la comprensión de estos principios fundamentales.
 
-###Emprendedurismo es administración: IMVU
+####Emprendedurismo es administración: IMVU
 Para ejemplificar que el *"emprendedurismo es administración"* se van a citar las palabras del autor de Lean Startup, Eric Ries:
 
 >El emprendedurismo es una especie de administración. No, no leíste mal. Tenemos asociaciones salvajemente divergentes sobre esas dos palabras, *emprendedurismo* y *administración*. Últimamente, parece que una es *cool*, innovadora y emocionante y la otra es aburrida, seria y sosa. Es tiempo de dejar atrás esos preconceptos.
@@ -27,7 +36,7 @@ Para ejemplificar que el *"emprendedurismo es administración"* se van a citar l
 
 **Una startup es una institución, no sólo un producto, entonces requiere administración, una nueva clase de administración específicamente orientada a su contexto. [^entrepreneurship-is-management-blog]**
 
-###Emprendedores hay por todos lados: SnapTax
+####Emprendedores hay por todos lados: SnapTax
 Para ilustrar uno de los principios más importantes de Lean Startup, el cual es *"Emprendedores hay por todos lados"*; se va a contar la historia de una startup del área de servicios financieros personales, llamada SnapTax:
 
 En el 2009, una startup decidió tratar algo realmente audaz. Querían liberar a los que pagan impuestos de las costosas tiendas de impuesto al automatizar el proceso de recolectar información tipicamente encontrada en formularios W-2 (es el resúmen de final de año que la mayoría de los empleados de USA reciben de sus empleadores, resume sus tasas de impuestos del año). La startup rápidamente se encontró con dificultades. A pesar que muchos clientes tenían acceso a impresoras/scanners en sus casas u oficinas, pocos sabían cómo usar esos dispositivos. Después de numerosas conversaciones con clientes potenciales, el equipo se iluminó con la idea de hacer que los clientes saquen fotos a los formularios directamente desde sus teléfonos. En el proceso de probar este concepto, los clientes preguntaron algo inesperado: ¿será posible terminar *el proceso entero de devolución de impuestos* desde el teléfono mismo?
@@ -44,7 +53,7 @@ El equipo que construyó SnapTax tampoco se parece mucho a la imagen típica de 
 
 **No necesitás trabajar en un garaje para estar en una startup.[^entrepreneurs-are-everywhere]**
 
-###Construir-medir-aprender: Intuit
+####Construir-medir-aprender: Intuit
 Para ilustrar un principio muy importante de toda Lean Startup, el cual es el bucle *"Construir-medir-aprender"*, se va a contar la historia de cómo una conocida empresa americana llamada Intuit comenzó a correr cientos de experimentos para probar cada elemento de su visión.
 
 Uno de sus productos insignia es TurboTax. Porque TurboTax hace la mayoría de sus ventas en época de impuestos de USA, solía tener una cultura extremadamente conservadora. Al transcurrir el año, los equipos de marketing y producto concebían una iniciativa importante que sería puesta en marcha justo a tiempo para época de impuestos. Ahora ellos prueban mas de quinientos cambios diferentes en una época de impuestos de dos meses y medio. El equipo puede hacer un cambio en vivo en su sitio un Jueves, correrlo todo el fin de semana, leer los resultados el Lunes y llegar a conclusiones al empezar el próximo Jueves; después construyen nuevas pruebas ese mismo dia y lanzan el próximo conjunto de pruebas a la noche.
@@ -62,3 +71,13 @@ Como Scott (fundador de Intuit) dijo,
 [^entrepreneurs-are-everywhere]: http://www.startuplessonslearned.com/2011/06/open-innovation-in-dc.html
 
 [^intuit-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "A seven thousand person lean startup"
+
+###Descripción del método Lean Startup
+
+####Bucle Construir - Medir - Aprender
+![Construir-medir-aprender](images/Construir-medir-aprender.png "Bucle construir-medir-aprender")
+
+####MVP: Minimo Producto Viable
+![MVP](images/MVP.png "MVP")
+
+[^benefits-lean-startup]: http://theleanstartup.com/#benefits

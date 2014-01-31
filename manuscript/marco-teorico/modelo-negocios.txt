@@ -1,0 +1,41 @@
+##Canvas de Modelos de Negocios
+
+###Introducción
+
+* El término modelo de negocios describe cómo una organización crea, entrega y captura valor. [^definicion] El concepto de modelo de negocios no es algo novedoso, pero en los últimos años surgió una nueva herramienta para describir, analizar y diseñar modelos de negocios, llamado Lienzo de Modelo de Negocios (o Business Model Canvas).
+
+###Por qué canvas
+
+* Lenguaje común para describir modelos de negocios
+* Innovaciones clave en la historia se pueden explicar con este modelo
+
+###Qué es canvas
+
+* El lienzo provee nueve bloques de construcción que describen el modelo de negocios de una compañía, los bloques son:
+1. Segmentos de clientes
+2. Propuestas de valor
+3. Canales
+4. Relaciones con clientes
+5. Flujos de ganancias
+6. Recursos clave
+7. Actividades clave
+8. Sociedades clave
+9. Estructura de costos
+
+Los nueve bloques están organizados en el lienzo de una manera particular, la cual permite que sea sencillo visualizar el modelo de negocios en un rápido vistazo.
+
+![lienzo-modelo-negocios.jpg](images/lienzo-modelo-negocios.jpg)
+
+###Cómo utilizarlo
+
+El lienzo de modelos de negocios se utiliza en todo tipo de compañías, no sólo en startups. Debido a que hay patrones que siempre se repiten, y bloques que no son tan necesarios en startups, Ash Maurya diseñó una versión adaptada del lienzo, llamado "Lean Canvas". [^lean-canvas]
+
+La misma agrega un enfoque en el problema que se está tratando de resolver, mucho más que la solución planteada. Esto se debe a que un emprendedor debe enfocarse mucho más en el problema a resolver que en la solución.
+
+<q>A los clientes no les importa tu solución. Les importan sus problemas.</q> &mdash; Dave McClure, 500 Startups
+
+![lean-canvas.png](images/lean-canvas.png)
+
+
+[^definicion]: Libro "Business Model Generation", capítulo "Canvas", sección "Definition of a Business Model"; de Alexander Osterwalder
+[^lean-canvas]: Libro "Running Lean", capítulo "Step 1: Document Your Plan A", sección "Capture Your Business Model Hypotheses"; de Ash Maurya

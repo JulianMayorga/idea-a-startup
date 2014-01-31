@@ -1,2 +1,0 @@
-####Puesta en producción continua
-[Contenido]

@@ -1,0 +1,40 @@
+##Desarrollo de clientes
+
+###Introducción
+
+* Vimos qué es una startup y por qué son dificiles
+* Vamos a ver un patrón propuesto para tener éxito en startups, que ha sido creado a partir de cómo han llegado a ser exitosas varias startups
+
+###Desarrollo de clientes en bullet points
+
+This process is used to discover and validate the following business-related information: [^cust-dev]
+
+* A product solves a problem for an identifiable group of users (Customer Discovery)
+* The market is saleable and large enough that a viable business might be built (Customer Validation)
+* The business is scalable through a repeatable sales and marketing roadmap (Company Creation)
+* Company departments and operational processes are created to support scale (Company Building)
+
+###Desarrollo de clientes en palabras de su creador
+
+<q>El núcleo de Desarrollo de Clientes es dichosamente simple: **Productos desarrollados por fundadores que salen a enfrentarse a los clientes temprano y seguido, ganan.**</q> &mdash; Steve Blank [^definicion-simple]
+
+<q>**Los ganadores reconocen su "visión" como una serie de hipótesis no probadas** que necesitan "prueba de clientes". Ellos buscan revelaciones implacablemente, y ajustan su camino en dias o semanas, no meses o años, para preservar dinero y eliminar el tiempo perdido construyendo funcionalidad que los clientes no necesitan.</q> &mdash; Steve Blank [^hipotesis-no-probadas]
+
+###Desarrollo de clientes en una imagen
+(Agregar que estos guesses se solucionan saliendo del edificio)
+
+![business-model-guesses.jpg](images/business-model-guesses.jpg)
+
+###Resumen
+
+* Customer Development
+	* Por qué
+	* Cómo
+	* Qué
+* Próximo capitulo es [...]
+
+[^cust-dev]: Libro "Entrepreneurs Guide to Customer Development", capítulo "Customer Development", sección "What Customer Development is"
+
+[^definicion-simple]: Libro "The Startup Owner's Manual", capítulo "Introduction", sección "The Four Steps: A New Path" por Steve Blank
+
+[^hipotesis-no-probadas]: Libro "The Startup Owner's Manual", capítulo "Introduction", sección "A Repeatable Path" por Steve Blank

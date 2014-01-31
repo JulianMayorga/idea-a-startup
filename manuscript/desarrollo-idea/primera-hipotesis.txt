@@ -1,0 +1,4 @@
+##Primera hipótesis
+Aceptación por parte del usuario y propuesta de valor
+
+* Creo landing page en vez de perder tiempo y recursos en una aplicación web que no se si va a ser usada o no

@@ -1,2 +1,0 @@
-##Módulo para trackeo de metricas accionables
-[Contenido]
