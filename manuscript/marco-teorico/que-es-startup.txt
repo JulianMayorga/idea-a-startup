@@ -10,42 +10,58 @@ Primero voy a mostrar la definición de startup según respetables diccionarios,
 
 Para comenzar la búsqueda de una definición de startup voy a recurrir a las definiciones de diccionario. Se hace visible que se trata de un término novedoso cuando el mismo no está definido en el diccionario de la Real Academia Española (RAE).
 
-Startup: <q>?</q>
+C> *Definición de startup desconocida hasta ahora*
 
 Al tratarse de un término novedoso, que está de moda en países de habla inglesa, es una buena idea buscar la definición en un respetable diccionario anglosajón. Afortunadamente Longman tiene una entrada para la palabra startup, y con la misma podemos llegar a la primera definición:
 
-Startup: <q>Una nueva pequeña compañía o negocio, especialmente aquellas cuyo trabajo involucra computadoras o internet: una startup de internet.</q>— Diccionario Longman [^definicion-longman]
+A> ##Startup
+A>
+A> C> *Una nueva pequeña compañía o negocio, especialmente aquellas cuyo trabajo involucra computadoras o internet: una startup de internet.*
+A> C>
+A> C> -- Diccionario Longman [^definicion-longman]
 
 Entonces una startup es una compañía nueva, que está metida en el mundo de las computadoras. Pero esta es una definición muy amplia, vamos a expandirla teniendo en cuenta las opiniones de los expertos en la materia.
 
 ####Definición basada en objetivo principal
 Steve Blank es un reconocido emprendedor de Silicon Valley, que ha fundado ocho startups y ha trabajado mas de treinta años en tecnología. Es reconocido por crear la metodología llamada Desarrollo de Clientes (Customer Development), el cual comenzó el movimiento Lean Startup. [^steve-blank] Su definición es la siguiente:
 
-Startup: <q>Una startup es una compañía, una sociedad u organización temporaria diseñada para buscar un modelo de negocios repetible y escalable.</q> — Steve Blank [^definicion-blank]
+C> *Una startup es una compañía, una sociedad u organización temporaria diseñada para buscar un modelo de negocios repetible y escalable.*
+C>
+C> -- Steve Blank [^definicion-blank]
 
 Lo único que comparte con la definición de Longman es que una startup es una compañía, no limita startups a empresas nuevas, ni al sector tecnológico. Además, menciona el objetivo principal de las mismas: buscar un modelo de negocios repetible y escalable, lo cual es una característica única de las startups.
 
 Hasta ahora podemos construir la definición de la siguiente manera:
 
-Startup: <q>Compañía **diseñada para buscar un modelo de negocios**.</q>
+A> ##Startup 
+A>
+A> C> *Compañía **diseñada para buscar un modelo de negocios**.*
 
 ####Definición basada en innovación e incertidumbre
 Eric Ries, al igual que Steve Blank, es un emprendedor de Silicon Valley y también un reconocido autor por comenzar el movimiento Lean Startup, una estrategia de negocios que promueve a las startups a distribuir sus recursos lo más eficientemente posible. [^eric-ries] Propone la siguiente definición:
 
-Startup: <q>una institución humana diseñada para crear nuevos productos y servicios bajo condiciones de incertidumbre extrema.</q> — Eric Ries [^definicion-ries]
+C> *una institución humana diseñada para crear nuevos productos y servicios bajo condiciones de incertidumbre extrema.*
+C>
+C> -- Eric Ries [^definicion-ries]
 
 Aporta un nuevo objetivo de las startups y también presenta el contexto en el que se dan las mismas. Su objetivo es crear nuevos productos y servicios, y su contexto es uno de incertidumbre extrema. Agregando el punto de vista de Eric Ries a la definición de startup tendríamos que:
 
-Startup: <q>Compañía diseñada para buscar un modelo de negocios, **que crea nuevos productos y servicios y opera bajo condiciones de incertidumbre extrema**.</q>
+A> ##Startup
+A>
+A> C> *Compañía diseñada para buscar un modelo de negocios, **que crea nuevos productos y servicios y opera bajo condiciones de incertidumbre extrema**.*
 
 ####Definición basada en crecimiento
 Paul Graham es un emprendedor exitoso y unos de los fundadores de [Y Combinator](http://ycombinator.com/), una reconocida inversora de startups. Su concepto de startup es:
 
-<q>Una startup es una compañía diseñada para crecer rápido.</q> — Paul Graham [^definicion-graham]
+C> *Una startup es una compañía diseñada para crecer rápido.*
+C>
+C> -- Paul Graham [^definicion-graham]
 
 Según Graham, lo que hace a una startup es su capacidad de crecer rápido. Una startup no necesita ser nueva o involucrar computadoras, no necesariamente tiene que buscar un modelo de negocio o crear productos y servicios nuevos. Si una compañía está diseñada para un crecimiento vertiginoso puede considerarse como startup. Para finalizar la definición de startup, vamos a agregar el aporte de Graham.
 
-**Definición final de startup:** <q>Compañía diseñada para buscar un modelo de negocios **y crecer rápidamente**, que crea nuevos productos y servicios y opera bajo condiciones de incertidumbre extrema.</q>
+A> ##Definición final de startup
+A>
+A> C> *Compañía diseñada para buscar un modelo de negocios **y crecer rápidamente**, que crea nuevos productos y servicios y opera bajo condiciones de incertidumbre extrema.*
 
 ###Comparaciones
 Teniendo la palabra startup definida y para mejorar el entendimiento del concepto voy a comparar las características de las mismas con modelos de organizaciones conocidos popularmente, como lo son las pequeñas y medianas empresas (PyMES), y las empresas propiamente dichas.

@@ -16,9 +16,13 @@ This process is used to discover and validate the following business-related inf
 
 ###Desarrollo de clientes en palabras de su creador
 
-<q>El núcleo de Desarrollo de Clientes es dichosamente simple: **Productos desarrollados por fundadores que salen a enfrentarse a los clientes temprano y seguido, ganan.**</q> &mdash; Steve Blank [^definicion-simple]
+C> *El núcleo de Desarrollo de Clientes es dichosamente simple: **Productos desarrollados por fundadores que salen a enfrentarse a los clientes temprano y seguido, ganan**.*
+C>
+C> -- Steve Blank [^definicion-simple]
 
-<q>**Los ganadores reconocen su "visión" como una serie de hipótesis no probadas** que necesitan "prueba de clientes". Ellos buscan revelaciones implacablemente, y ajustan su camino en dias o semanas, no meses o años, para preservar dinero y eliminar el tiempo perdido construyendo funcionalidad que los clientes no necesitan.</q> &mdash; Steve Blank [^hipotesis-no-probadas]
+C> ***Los ganadores reconocen su "visión" como una serie de hipótesis no probadas** que necesitan "prueba de clientes". Ellos buscan revelaciones implacablemente, y ajustan su camino en dias o semanas, no meses o años, para preservar dinero y eliminar el tiempo perdido construyendo funcionalidad que los clientes no necesitan.*
+C>
+C> -- Steve Blank [^hipotesis-no-probadas]
 
 ###Desarrollo de clientes en una imagen
 (Agregar que estos guesses se solucionan saliendo del edificio)
