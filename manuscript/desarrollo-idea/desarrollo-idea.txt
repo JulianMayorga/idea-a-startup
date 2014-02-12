@@ -1,1 +1,99 @@
 #Desarrollo de Idea
+
+##Visión
+(Tiene que ser amplia, porque todavía no hay definido nada del modelo de negocios, y si definimos un objetivo muy específico seguramente el mismo va a cambiar)
+
+"Yo creo que los programadores web van a dedicar 25 minutos por dia a [nombre-startup] porque consideran esencial invertir tiempo a su crecimiento profesional"
+
+##Problema
+
+(Hay que empezar por un objetivo más alcanzable que la visión propuesta)
+
+Un subconjunto de la visión "es esencial invertir tiempo al crecimiento profesional de programadores" es "practicar TDD te mejora como profesional". Un problema asociado a esta subvisión es **Aprender TDD es dificil**.
+
+##Solución
+
+Una solución propuesta al problema planteado es:
+
+Aprendé a programar TDD con
+
+* lecciones cortas
+* práctica constante
+* pair programming
+* ver cómo diferentes personas solucionan el mismo problema
+* visualizar proceso de tdd fácilmente, podés rebobinar y adelantar
+* recibir y dar feedback en sesiones TDD propias y ajenas
+
+[Aplicar innovators dna a esta idea]
+
+[Elegir un feature a probar]
+
+##Hipótesis
+
+Armado de hipótesis
+
+1. Definir entidades que participan: [Desarrolladores web entre 18 y 50 años que quieran agregar testeo a sus herramientas]
+2. Definir valor dado a cada entidad: [Aprender TDD día a día]
+3. Definir MVP final: [Sitio que ofrezca diariamente objetivos cortos que te hagan mejorar en TDD. Estos objetivos cortos pueden ser: kata, lección online, pair programming, ver kata de otros, etc.]
+4. ¿Dónde hay riesgo?: [Usuario puede sentir que no progresa diariamente. Puede ser difícil juntar a personas en el mismo horario a hacer pair programming.]
+
+###Hipótesis de valor
+
+**Aprender TDD día a día**
+
+###Hipótesis de crecimiento
+
+Crecimiento pago: Costo de adquisición por usuario < Valor de vida por usuario. La suma positiva de ingresos crea fondos para publicidad.
+
+###Canvas de hipótesis no testeadas
+
+![DailyTDD.jpg](images/canvas-daily-tdd.jpg "Canvas")
+
+##Primer paso: Testear Problem Solution Fit
+
+(Es lo mismo que testear hipótesis de valor)
+
+###Landing page
+
+![Learn TDD Landing Page](images/learn-tdd-screenshot.png "Landing page")
+
+* entrevistas
+    * En persona
+* encuestas
+    * Por mail
+
+Preguntas:
+
+* Has practicado TDD antes?
+    * Si
+        * Donde?
+        * Cómo aprendiste?
+        * Fue dificil aprender?
+    * No
+        * Por qué te gustaria aprender?
+* Sabes angularjs?
+    * Te gustaria aprender?
+
+##Segundo paso: Testear Product Market Fit
+
+Primer MVP
+
+* Plunker embebido en single page app
+
+###Paso siguiente: Pivot o Seguir con otras hipótesis
+
+Hacer pivot si producto no es adecuado
+Si validó MVP seguir testeando otra hipótesis:
+
+* Pricing?
+* Canal de distribucion? Usar linea de comando en vez de webapp?
+
+##Tercer paso: Testear hipótesis de crecimiento
+
+(una vez que todas las hipótesis de Canvas estan validadas)
+
+Hipótesis de crecimiento:
+
+[Crecimiento pago], a diferencia de sticky o viral
+
+Producto real

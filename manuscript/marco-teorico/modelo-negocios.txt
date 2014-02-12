@@ -32,7 +32,9 @@ El lienzo de modelos de negocios se utiliza en todo tipo de compañías, no sól
 
 La misma agrega un enfoque en el problema que se está tratando de resolver, mucho más que la solución planteada. Esto se debe a que un emprendedor debe enfocarse mucho más en el problema a resolver que en la solución.
 
-<q>A los clientes no les importa tu solución. Les importan sus problemas.</q> &mdash; Dave McClure, 500 Startups
+C> *A los clientes no les importa tu solución. Les importan sus problemas.*
+C>
+C> -- Dave McClure, 500 Startups
 
 ![lean-canvas.png](images/lean-canvas.png)
 
