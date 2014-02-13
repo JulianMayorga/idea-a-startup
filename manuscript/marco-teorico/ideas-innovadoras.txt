@@ -1,1 +1,23 @@
 ##Ideas innovadoras
+
+La innovación impulsa la humanidad hacia adelante con una rapidez incomparable. Pensar de manera diferente es lo que encendió la mente de muchísimos ingenieros a cambiar el mundo como lo conocemos. Ellos impulsaron la transición del papel y lápiz hacia máquinas de escribir, de máquinas de escribir hacia computadoras, y de computadoras hacia tablets y smartphones, y seguramente de smartphones hacia algo aún más novedoso. Innovación es lo que iluminó a Henry Ford e hizo que dejemos de lado los caballos para empezar a andar en autos.
+
+La capacidad de innovar debería ser un utensilio infaltable en la caja de herramientas de todo ingeniero.
+
+Los productos de la innovación son visibles diariamente, pero ¿qué hace a una idea innovadora?. ¿Innovar es tarea de unos selectos visionarios en todo el mundo?. ¿O todos podemos ser innovadores?. ¿Cómo podemos llegar a tener ideas que cambien a la realidad que conocemos? Estas preguntas han sido formuladas, estudiadas por años y respondidas en el libro Innovator's DNA [^innovators-dna].
+
+Después de ocho años de estudios sobre las personas más innovadoras del mundo&mdash;Creadores de compañías como Apple, eBay, Amazon o Salesforce&mdash;la conclusión del libro Innovator's DNA es que hay patrones recurrentes en personas innovadoras, habilidades que comparten estos innovadores, una especie de ADN en común.
+
+Hay cinco habilidades principales que hacen a un innovador, llamadas habilidades de descubrimiento, las cuales son:
+
+* **Asociar**: Es la más importante de las cinco habilidades, el desarrollo de las otras cuatro es para mejorar el pensamiento asociativo. Asociar conecta ideas totalmente diferentes entre sí, e impulsa a la creación de ideas novedosas, formadas en la intersección de conceptos disímiles.
+* *Preguntar*: Los innovadores están cuestionando el presente que conocemos. Preguntas como ¿Que pasaría si ...? o ¿Por qué pasa ...? impulsan nuevos descubrimientos.
+* *Observar*: Se llega a nuevos descubrimientos observando el mundo que nos rodea, los sistemas dentro de supersistemas, las relaciones entre los elementos dentro del sistema. Los innovadores son observadores permanentes.
+* *Networking*: Conectándose con diferentes personas y ámbitos es como los innovadores llegan a nuevas ideas. Se innova encontrando ideas a través de las conexiones con personas con un punto de vista diferente al propio, probando las ideas con estas personas.
+* *Experimentar*: El campo de prueba de las ideas es la experimentación. Con experimentos se llega a conocimientos y enseñanzas imposibles de ver en el mundo de los pensamientos.
+
+Un pensador se puede convertir en innovador a través de la aplicación de estas habilidades, lo cual significa que se puede trabajar para ser más innovador. La capacidad de innovar no es una característica genética, se puede mejorar a través de la práctica.
+
+Tomarse el trabajo de aplicar una, dos o todas estas habilidades a la hora de crear una nueva idea puede significar grandes cargas de innovación adicionadas a la misma. Es bueno tener en cuenta que con un esfuerzo mínimo se le puede dar forma a las ideas aplicando estas cinco herramientas, y así sumar innovación disruptiva a nuestras ideas.
+
+[^innovators-dna]: "The Innovator's DNA", por Clayton Christensen, Harvard Business Review Press.
