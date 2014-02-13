@@ -27,7 +27,7 @@ C> -- Steve Blank [^hipotesis-no-probadas]
 ###Desarrollo de clientes en una imagen
 (Agregar que estos guesses se solucionan saliendo del edificio)
 
-![business-model-guesses.jpg](images/business-model-guesses.jpg)
+![Hipótesis no testeadas](images/business-model-guesses.jpg)
 
 ###Resumen
 

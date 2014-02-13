@@ -47,7 +47,7 @@ Crecimiento pago: Costo de adquisición por usuario < Valor de vida por usuario.
 
 ###Canvas de hipótesis no testeadas
 
-![DailyTDD.jpg](images/canvas-daily-tdd.jpg "Canvas")
+![Hipótesis no testeadas](images/canvas-daily-tdd.jpg "Canvas")
 
 ##Primer paso: Testear Problem Solution Fit
 

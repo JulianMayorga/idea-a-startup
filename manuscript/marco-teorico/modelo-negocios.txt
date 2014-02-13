@@ -24,7 +24,7 @@
 
 Los nueve bloques están organizados en el lienzo de una manera particular, la cual permite que sea sencillo visualizar el modelo de negocios en un rápido vistazo.
 
-![lienzo-modelo-negocios.jpg](images/lienzo-modelo-negocios.jpg)
+![Canvas de modelos de negocios](images/lienzo-modelo-negocios.jpg)
 
 ###Cómo utilizarlo
 
@@ -36,7 +36,7 @@ C> *A los clientes no les importa tu solución. Les importan sus problemas.*
 C>
 C> -- Dave McClure, 500 Startups
 
-![lean-canvas.png](images/lean-canvas.png)
+![Lean canvas](images/lean-canvas.png)
 
 
 [^definicion]: Libro "Business Model Generation", capítulo "Canvas", sección "Definition of a Business Model"; de Alexander Osterwalder
