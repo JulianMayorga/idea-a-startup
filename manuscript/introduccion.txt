@@ -1,13 +1,46 @@
 #Introducción
 
-Quizás seas una de las muchas personas que tienen ideas innovadoras, que quieren crear el próximo twitter o facebook, si es así probablemente se te haya cruzado por la cabeza dedicar todo tu tiempo a ese sueño. Pero la dura realidad es que es un sueño muy dificil de conseguir, las estadísticas dicen que nueve de cada diez startups que reciben dinero de inversores fracasan.
+C> *Las compañías innovadoras y en expansión generan crecimiento económico y empleos que, sucesivamente, mejoran extremadamente la vida de las personas.* [^ahlstrom]
 
-Pero no te preocupés, todavía hay esperanzas de alcanzar tu sueño. En los últimos años muchas startups exitosas han utilizado una metodología de negocios que inició Eric Ries, llamada Lean Startup, la cual responde las preguntas esenciales *¿Cómo mejorar la probabilidad de éxito de productos innovadores?*, y *¿Cómo se puede aprender más rápido y mejor sobre los aspectos que funcionan, y descartar los que no son útiles?* Gracias al método propuesto por Eric Ries, cuatro de cada diez *lean startups* tienen éxito.
+La innovación puede brindar incalculables beneficios para la sociedad. Productos novedosos generan empleos, reducen costos y amplían el alcance de soluciones para los sectores más desprotegidos de la sociedad.
 
-Ya que se ha mencionado más de una vez el término startup, es oportuno definirlo, para ello se va a proveer la definición dada por el autor de Lean Startup:
+El aporte de la ingeniería y la informática a la sociedad en los últimos años es innegable. Google, Apple, Wikipedia, Amazon y muchas otras compañías tecnológicas tienen un enorme nivel de crecimiento impulsado por innovación constante, el cual se traduce directamente en mejoras en el mundo que vivimos.
 
->Una startup es una institución humana diseñada para lanzar un nuevo producto o servicio bajo condiciones de incertidumbre extrema.[^definicion-startup]
+##Planteo problema
 
-En el presente trabajo se van a desarrollar las características del movimiento Lean Startup, ya afianzado en la cultura emprendedora de los Estados Unidos. Luego se va a analizar el rol del Ingeniero de Software en este tipo de startups, para finalizar con el desarrollo de software implementado de acuerdo a las especificaciones de la metodología propuesta por Eric Ries.
+Como estudiante de Ingeniería en Informática siempre me he planteado cuál es el rol del Ingeniero en la innovación. ¿Será un rol técnico, como implementación de soluciones? ¿O también puede ser la resolución de problemas?
 
-[^definicion-startup]: http://www.startuplessonslearned.com/2010/06/what-is-startup.html
+En el mundo de la programación existen muchas metodologías para manejar proyectos, dos de los métodos más utilizados son el desarrollo en cascada y las metodologías ágiles.
+
+![](images/metodologia-cascada.jpg)
+
+El modelo en cascada es un proceso secuencial que se ajusta muy bien a situaciones en las que se cuenta con un problema conocido y una solución conocida. Un ejemplo en el que el modelo en cascada es adecuado es en el desarrollo de una nueva versión de un producto ya existente, por ejemplo el desarrollo de una nueva versión de Microsoft Word, o el desarrollo de una nueva versión del juego de fútbol FIFA.
+
+![](images/metodologia-agil.jpg)
+
+Las metodologías ágiles son métodos iterativos e incrementales que se ajustan muy bien a situaciones en las que se cuenta con un problema conocido y una solución desconocida. Un ejemplo en el que las metodologías ágiles son adecuadas es en proyectos en los que los requerimientos y la solución evolucionan con el tiempo, por ejemplo siempre que se desarrolla software a medida para clientes.
+
+![](images/metodologia-lean.jpg)
+
+La pregunta es ¿qué metodología utilizar cuando tanto el problema como la solución son desconocidas? En proyectos innovadores no se conocen de entrada estas dos variables, por lo tanto la respuesta a la pregunta inicial es relevante en ámbitos de innovación. El objetivo del presente trabajo final es responder a esta pregunta.
+
+##Contexto del trabajo final
+
+* Cuándo:
+    * Ahora es más barato que nunca innovar con tecnología gracias a cloud y acceso a información
+    * En mundo y en argentina hay varios incentivos para ideas innovadoras
+
+##Metodología usada
+
+* Cómo: Estudio bibliográfico, síntesis de metodologías en guía paso a paso, ejemplo práctica de esa síntesis
+
+##Limitaciones
+
+* Enfoque en creación de startups, NO en lo que sigue, que es gestion de startup convertida en empresa
+* Uso de metodología no garantiza éxito en startups, hay muchos otros factores involucrados
+
+##Qué pretende dejar al lector este trabajo final
+* Pasar de "Los ingenieros resuelven los problemas correctamente" a "Los ingenieros descubren los problemas correctos y los resuelven correctamente"
+* Despertar espíritu emprendedor
+
+[^ahlstrom]: Innovation and Growth, David Ahlstrom, Academy of Management
