@@ -27,8 +27,10 @@ La pregunta es ¿qué metodología utilizar cuando tanto el problema como la sol
 ##Contexto del trabajo final
 
 * Cuándo:
-    * Ahora es más barato que nunca innovar con tecnología gracias a cloud y acceso a información
+    * Ahora es más barato que nunca innovar con tecnología gracias a cloud y acceso a información [link](http://www.rackspace.com/blog/newsarticles/88-per-cent-of-cloud-users-point-to-cost-savings-according-to-rackspace-survey/)
     * En mundo y en argentina hay varios incentivos para ideas innovadoras
+        * http://www.agencia.mincyt.gob.ar/frontend/agencia/fondo/fonsoft
+        * http://www.industria.gob.ar/emprendedorismo/
 
 ##Metodología usada
 
@@ -43,4 +45,4 @@ La pregunta es ¿qué metodología utilizar cuando tanto el problema como la sol
 * Pasar de "Los ingenieros resuelven los problemas correctamente" a "Los ingenieros descubren los problemas correctos y los resuelven correctamente"
 * Despertar espíritu emprendedor
 
-[^ahlstrom]: Innovation and Growth, David Ahlstrom, Academy of Management
+[^ahlstrom]: Libro "Innovation and Growth" de David Ahlstrom, Academy of Management
