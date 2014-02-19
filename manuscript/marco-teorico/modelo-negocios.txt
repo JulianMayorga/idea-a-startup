@@ -1,42 +1,52 @@
-##Canvas de Modelos de Negocios
+##Lienzo de Modelos de Negocios
+
+La primera herramienta que todo emprendedor moderno debe conocer es el Lienzo de Modelos de Negocios, el cual le permite describir en una sola hoja cómo funciona su startup.
 
 ###Introducción
 
-* El término modelo de negocios describe cómo una organización crea, entrega y captura valor. [^definicion] El concepto de modelo de negocios no es algo novedoso, pero en los últimos años surgió una nueva herramienta para describir, analizar y diseñar modelos de negocios, llamado Lienzo de Modelo de Negocios (o Business Model Canvas).
+El término modelo de negocios describe cómo una organización crea, entrega y captura valor[^definicion]. El concepto de modelo de negocios no es algo novedoso, pero en los últimos años surgió una nueva herramienta para describir, analizar y diseñar modelos de negocios, llamado Lienzo de Modelo de Negocios, o "Business Model Canvas" en inglés.
 
-###Por qué canvas
+###Problema que soluciona
 
-* Lenguaje común para describir modelos de negocios
-* Innovaciones clave en la historia se pueden explicar con este modelo
+Un frecuente primer paso a la hora de comenzar un emprendimiento es describirlo a través de un plan de negocios de cientos de páginas. El problema de estos planes de negocios es que son difíciles de comprender al cien por ciento, debido a su longitud; y lo más probable es que sean  tediosos de mantener actualizados a medida que evoluciona el negocio que describen.
 
-###Qué es canvas
+El lienzo de modelos de negocios surge como solución al problema de complejidad que presentan los planes de negocios. Constituyen un lenguaje común para describir modelos de negocios.
 
-* El lienzo provee nueve bloques de construcción que describen el modelo de negocios de una compañía, los bloques son:
-1. Segmentos de clientes
-2. Propuestas de valor
-3. Canales
-4. Relaciones con clientes
-5. Flujos de ganancias
-6. Recursos clave
-7. Actividades clave
-8. Sociedades clave
-9. Estructura de costos
+###Cómo está constituído
+
+El lienzo provee nueve bloques de construcción que describen el modelo de negocios de una compañía.
 
 Los nueve bloques están organizados en el lienzo de una manera particular, la cual permite que sea sencillo visualizar el modelo de negocios en un rápido vistazo.
 
-![Canvas de modelos de negocios](images/lienzo-modelo-negocios.jpg)
+![Canvas de modelos de negocios](images/canvas.jpg)
 
-###Cómo utilizarlo
+1. Segmentos de clientes: Son los clientes de la organización
+2. Propuestas de valor: Problemas solucionados y necesidades satisfechas por la compañía
+3. Canales: Vías de comunicación, distribución y ventas por las que se entrega la propuesta de valor a los clientes
+4. Relaciones con clientes: Relación que se mantiene con cada segmento de clientes
+5. Flujos de ganancias: Se obtienen gracias a la propuesta de valor entregada a clientes
+6. Recursos clave: Bienes requeridos para ofrecer servicios y generar productos
+7. Actividades clave: Realizadas para obtener los otros elementos del modelo de negocios
+8. Sociedades clave: Sociedades entabladas para realizar actividades y conseguir recursos externos a la empresa
+9. Estructura de costos: Costos asociados al funcionamiento de los otros bloques de negocio
+
+El objetivo de una startup es buscar su modelo de negocios, y el lienzo sirve para definir elementos del modelo de negocios de una startup. Por lo tanto el lienzo es una excelente herramienta para seguir la evolución en el tiempo de ésta búsqueda.
+
+####Lienzo adaptado a startups
 
 El lienzo de modelos de negocios se utiliza en todo tipo de compañías, no sólo en startups. Debido a que hay patrones que siempre se repiten, y bloques que no son tan necesarios en startups, Ash Maurya diseñó una versión adaptada del lienzo, llamado "Lean Canvas". [^lean-canvas]
 
-La misma agrega un enfoque en el problema que se está tratando de resolver, mucho más que la solución planteada. Esto se debe a que un emprendedor debe enfocarse mucho más en el problema a resolver que en la solución.
+La misma agrega un enfoque en el problema que se está tratando de resolver, mucho más que en la solución planteada. Esto se debe a que un emprendedor debe enfocarse mucho más en el problema a resolver que en la solución.
 
 C> *A los clientes no les importa tu solución. Les importan sus problemas.*
 C>
 C> -- Dave McClure, 500 Startups
 
-![Lean canvas](images/lean-canvas.png)
+![Lean canvas](images/lean-canvas.jpg)
+
+###Cómo utilizarlo
+
+En el siguiente capítulo se explorará la técnica de Desarrollo de Clientes, metodología que demuestra cómo utilizar el lienzo de modelos de negocios para encontrar un problema que valga la pena solucionar.
 
 
 [^definicion]: Libro "Business Model Generation", capítulo "Canvas", sección "Definition of a Business Model"; de Alexander Osterwalder
