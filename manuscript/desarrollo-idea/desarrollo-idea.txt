@@ -9,20 +9,27 @@
 
 (Hay que empezar por un objetivo más alcanzable que la visión propuesta)
 
-Un subconjunto de la visión "es esencial invertir tiempo al crecimiento profesional de programadores" es "practicar TDD te mejora como profesional". Un problema asociado a esta subvisión es **Aprender TDD es dificil**.
+
+Un subconjunto de la visión "es esencial invertir tiempo al crecimiento profesional de programadores" es "los programadores van a leer código en [nombre-startup]  porque deberian aprender a escribir código de la forma que se aprende a escribir Español: leyendo buenos ejemplos". Un problema asociado a esta subvisión es **Leer código es dificil**.
 
 ##Solución
 
 Una solución propuesta al problema planteado es:
 
-Aprendé a programar TDD con
+App en la que se pueda:
 
-* lecciones cortas
-* práctica constante
-* pair programming
-* ver cómo diferentes personas solucionan el mismo problema
-* visualizar proceso de tdd fácilmente, podés rebobinar y adelantar
-* recibir y dar feedback en sesiones TDD propias y ajenas
+* Seleccionar código y hacer preguntas sobre él
+* Subrayar código
+* Tomar notas sobre fragmentos de código, visibles para todo el mundo
+* Hacer diagramas sobre fragmentos de código
+* Conectar fragmentos de código con ejemplos del mismo en jsFiddle o afines
+* Buscar uso en el código de palabras clave
+* Ver rápidamente documentación de palabras
+* Hacer walkthroughs sobre el código para que otros lo vean
+* Escribir tests para codigo
+* Refactorear fragmentos de código (¿igual a feature jsFiddle?)
+* Armar versiones simplificadas del código
+* Remover una implementación y reimplementarla hasta que los tests pasen de nuevo
 
 [Aplicar innovators dna a esta idea]
 
@@ -32,14 +39,14 @@ Aprendé a programar TDD con
 
 Armado de hipótesis
 
-1. Definir entidades que participan: [Desarrolladores web entre 18 y 50 años que quieran agregar testeo a sus herramientas]
-2. Definir valor dado a cada entidad: [Aprender TDD día a día]
-3. Definir MVP final: [Sitio que ofrezca diariamente objetivos cortos que te hagan mejorar en TDD. Estos objetivos cortos pueden ser: kata, lección online, pair programming, ver kata de otros, etc.]
-4. ¿Dónde hay riesgo?: [Usuario puede sentir que no progresa diariamente. Puede ser difícil juntar a personas en el mismo horario a hacer pair programming.]
+1. Definir entidades que participan: [Desarrolladores entre 18 y 50 años que quieran aprender código de calidad leyendo]
+2. Definir valor dado a cada entidad: [Mejorar como programadores? Aprender sobre librerias open source q usan en el trabajo? Contribuir al entendimiento de códigos libres]
+3. Definir MVP final: [Ya descrito en solución]
+4. ¿Dónde hay riesgo?: [Al usuario puede no interesarle leer código. Puede preferir leer código en github. Puede preferir leer código de una manera menos estructurada.]
 
 ###Hipótesis de valor
 
-**Aprender TDD día a día**
+**Mejorar entendimiento del código libre que usan**
 
 ###Hipótesis de crecimiento
 
