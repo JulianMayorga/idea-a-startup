@@ -1,0 +1,7 @@
+frontmatter.txt
+resumen.txt
+introduccion.txt
+mainmatter.txt
+marco-teorico/marco-teorico.txt
+marco-teorico/ideas-innovadoras.txt
+marco-teorico/que-es-startup.txt

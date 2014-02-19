@@ -6,7 +6,7 @@ La innovación puede brindar incalculables beneficios para la sociedad. Producto
 
 El aporte de la ingeniería y la informática a la sociedad en los últimos años es innegable. Google, Apple, Wikipedia, Amazon y muchas otras compañías tecnológicas tienen un enorme nivel de crecimiento impulsado por innovación constante, el cual se traduce directamente en mejoras en el mundo que vivimos.
 
-##Planteo problema
+##Planteo del problema
 
 Como estudiante de Ingeniería en Informática siempre me he planteado cuál es el rol del Ingeniero en la innovación. ¿Será un rol técnico, como implementación de soluciones? ¿O también puede ser la resolución de problemas?
 
@@ -26,23 +26,33 @@ La pregunta es ¿qué metodología utilizar cuando tanto el problema como la sol
 
 ##Contexto del trabajo final
 
-* Cuándo:
-    * Ahora es más barato que nunca innovar con tecnología gracias a cloud y acceso a información [link](http://www.rackspace.com/blog/newsarticles/88-per-cent-of-cloud-users-point-to-cost-savings-according-to-rackspace-survey/)
-    * En mundo y en argentina hay varios incentivos para ideas innovadoras
-        * http://www.agencia.mincyt.gob.ar/frontend/agencia/fondo/fonsoft
-        * http://www.industria.gob.ar/emprendedorismo/
+El mejor momento para innovar es ahora, gracias a innovaciones e incentivos a nivel global y nacional.
+
+Cloud computing redujo los costos de servidores al mínimo, y su elasticidad permite aumentar la capacidad de los mismos a niveles inimaginables previamente [^cloud-costos].
+
+No sólo hay bajos costos iniciales y alta escalabilidad gracias a Cloud Computing, sino que en Argentina hay incentivos para emprendedores, que proveen tanto financiamiento[^fonsoft] como asesoramiento gratuito[^industria-gob].
 
 ##Metodología usada
 
-* Cómo: Estudio bibliográfico, síntesis de metodologías en guía paso a paso, ejemplo práctica de esa síntesis
+Para desarrollar el Trabajo Final realicé un estudio bibliográfico de diferentes ideologías en el ámbito de la innovación y la ingeniería de software.
+
+Sintetizé los conocimientos adquiridos en una guía práctica que indica cómo avanzar cuando se quiere transformar una idea en una startup exitosa.
+
+Para ejemplificar el camino que se puede recorrer para desarrollar una idea hice un caso práctico, el cual reúne tanto las metodologías de administración como las técnicas de Ingeniería de Software esenciales para un proyecto innovador.
 
 ##Limitaciones
 
-* Enfoque en creación de startups, NO en lo que sigue, que es gestion de startup convertida en empresa
-* Uso de metodología no garantiza éxito en startups, hay muchos otros factores involucrados
+Este trabajo final se limita al proceso de creación de startups, no a la administración de empresas. Una startup no es lo mismo que una empresa, una startup se convierte en una empresa cuando tiene aceitados todos sus procesos.
 
-##Qué pretende dejar al lector este trabajo final
-* Pasar de "Los ingenieros resuelven los problemas correctamente" a "Los ingenieros descubren los problemas correctos y los resuelven correctamente"
-* Despertar espíritu emprendedor
+En el trabajo se define una metodología de trabajo que reduce la probabilidad de fallar en una startup, pero es necesario aclarar que el uso de ninguna metodología **no** garantiza el éxito en el desarrollo de startups, debido a que entran en juego muchos factores, como habilidades de personas, comunicación de equipo, etc.
+
+##Que pretendo dejar al lector
+
+Si el lector se tiene que dejar un concepto del presente trabajo, el mismo sería el cambio de mentalidad sobre el rol de los Ingenieros en startups.
+
+Los Ingenieros no sólo resuelven problemas correctamente, **los Ingenieros tienen que descubrir los problemas correctos** y resolverlos correctamente.
 
 [^ahlstrom]: Libro "Innovation and Growth" de David Ahlstrom, Academy of Management
+[^cloud-costos]: http://www.rackspace.com/blog/newsarticles/88-per-cent-of-cloud-users-point-to-cost-savings-according-to-rackspace-survey/
+[^fonsoft]: http://www.agencia.mincyt.gob.ar/frontend/agencia/fondo/fonsoft
+[^industria-gob]: http://www.industria.gob.ar/emprendedorismo/

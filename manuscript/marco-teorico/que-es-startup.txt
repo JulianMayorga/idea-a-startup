@@ -63,31 +63,12 @@ A> ##Definición final de startup
 A>
 A> C> *Compañía diseñada para buscar un modelo de negocios **y crecer rápidamente**, que crea nuevos productos y servicios y opera bajo condiciones de incertidumbre extrema.*
 
-###Comparaciones
-Teniendo la palabra startup definida y para mejorar el entendimiento del concepto voy a comparar las características de las mismas con modelos de organizaciones conocidos popularmente, como lo son las pequeñas y medianas empresas (PyMES), y las empresas propiamente dichas.
-
-####Diferencia de startup con PyME
-Una PyME generalmente tiene como objetivo obtener ganancias, y para lograr esto utiliza un modelo de negocios existente. Crea productos o servicios ya existentes, y puede utilizar diferentes estrategias para diferenciarse de la competencia, ya sea con branding, precio, calidad, etc. Generalmente son creadas pensando en un crecimiento estable, no vertiginoso como es el caso de las startups.
-
-####Diferencia de startup con empresa
-Una empresa tiene como principal objetivo maximizar sus ganancias, y para lograrlo utiliza modelos de negocio preestablecidos. Crean productos o servicios ya existentes generalmente, pero también tienen recursos para lograr innovación sostenida sobre los mismos (mejorando calidad, bajando costos, etc.). Tienen un crecimiento estable en algunos casos, y bajos en otros, debido a que la mayor cantidad de crecimiento la han logrado para convertirse en empresas grandes.
-
-####Resúmen de diferencias
-En la siguiente tabla se pueden observar a simple vista las diferencias principales entre startup, PyME y empresa:
-
-|Tipo       |Objetivo                    |Innovación    |Crecimiento|
-|-----------|----------------------------|--------------|-----------|
-|**Startup**|Encontrar modelo de negocios|Disruptiva    |Rápido     |
-|**PyME**   |Obtener ganacias            |Baja          |Bajo       |
-|**Empresa**|Maximizar ganancias         |Sustentable   |Estable    |
-
-
 ###Conclusión
 
 Una startup, a diferencia de una PyME o empresa, es una compañía diseñada para buscar un modelo de negocios y crecer rápidamente, que crea nuevos productos y servicios y opera bajo condiciones de incertidumbre extrema.
 
-[^eric-ries]: <a href="http://en.wikipedia.org/wiki/Eric_Ries">http://en.wikipedia.org/wiki/Eric_Ries</a>
-[^steve-blank]: <a href="http://en.wikipedia.org/wiki/Steve_Blank">http://en.wikipedia.org/wiki/Steve_Blank</a>
+[^eric-ries]: http://en.wikipedia.org/wiki/Eric_Ries
+[^steve-blank]: http://en.wikipedia.org/wiki/Steve_Blank
 [^definicion-longman]: http://www.ldoceonline.com/dictionary/start-up_2
 [^definicion-blank]: http://steveblank.com/2012/03/05/search-versus-execute/
 [^definicion-ries]: The Lean Startup, Introducción, sección The Lean Startup Method
