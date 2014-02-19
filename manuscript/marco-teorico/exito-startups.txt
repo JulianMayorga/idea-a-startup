@@ -1,6 +1,12 @@
 ##La gran mayoría de las startups fallan
-[Quora](http://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail)
 
-* Comenzar una startup es difícil, es común escuchar que solo 1 de cada 10 tiene éxito. Aprender sobre los casos de éxito puede mejorar la probabilidad de éxito a la hora de comenzar una startup.
-* Datos que soportan que 1 de cada 10 startups fallan.
-* Aprender sobre Lean Startup para mejorar % de exito.
+Ahora que ya hablé de ideas innovadoras y startups exitosas que crecen vertiginosamente&mdash;el costado atractivo de las startups&mdash;voy a encargarme del costado no tan ameno: construir una startup es **muy difícil**.
+
+Los números hablan por sí mismos, **nueve de cada diez startups no tienen éxito** [^fallan-uno] [^fallan-dos].
+
+Es importante saber que la tasa de fallo es alta si uno quiere seguir el camino del emprendedurismo, y poder armarse de equipamiento y herramientas adecuadas para el mismo. Aprender sobre los casos de éxito es una buena forma de recolectar herramientas necesarias a la hora de construir una startup.
+
+A continuación se detallarán diferentes metodologías que ayudarán al lector si decide emprender el camino de su propia startup.
+
+[^fallan-uno]: http://www.effectuation.org/paper/failing-firms-and-successful-entrepreneurs-serial-entrepreneurship-simple-machine
+[^fallan-dos]: http://www.altassets.net/knowledge-bank/investor-performance-in-israeli-high-tech.html
