@@ -1,8 +1,12 @@
 ##Desarrollo de clientes
 
+C> *Encontrás tu milésimo cliente solo después de tu centésimo y tu centésimo después del décimo. Tu décimo después del primero. Empezá ahí
+C>
+C> -- Asif Mandozai
+
 ###Introducción
 
-* Vimos qué es una startup y por qué son dificiles
+* Vimos qué es un lienzo, ahora veremos cómo usarlo para testear y validar sus diferentes bloques hasta encontrar el modelo de negocios de nuestra startup.
 * Vamos a ver un patrón propuesto para tener éxito en startups, que ha sido creado a partir de cómo han llegado a ser exitosas varias startups
 
 ###Desarrollo de clientes en bullet points
@@ -27,7 +31,7 @@ C> -- Steve Blank [^hipotesis-no-probadas]
 ###Desarrollo de clientes en una imagen
 (Agregar que estos guesses se solucionan saliendo del edificio)
 
-![Hipótesis no testeadas](images/business-model-guesses.jpg)
+![Hipótesis no testeadas](images/hipotesis-no-testeadas.jpg)
 
 ###Resumen
 

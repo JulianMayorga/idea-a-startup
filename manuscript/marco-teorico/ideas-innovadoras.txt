@@ -1,5 +1,9 @@
 ##Ideas innovadoras
 
+C> *Si siempre hacés lo que siempre hiciste, siempre vas a obtener lo que siempre obtenés*
+C>
+C> -- Albert Einstein
+
 La innovación impulsa la humanidad hacia adelante con una rapidez incomparable. Pensar de manera diferente es lo que encendió la mente de muchísimos ingenieros a cambiar el mundo como lo conocemos. Ellos impulsaron la transición del papel y lápiz hacia máquinas de escribir, de máquinas de escribir hacia computadoras, y de computadoras hacia tablets y smartphones, y seguramente de smartphones hacia algo aún más novedoso. Innovación es lo que iluminó a Henry Ford e hizo que dejemos de lado los caballos para empezar a andar en autos.
 
 La capacidad de innovar debería ser un utensilio infaltable en la caja de herramientas de todo ingeniero.

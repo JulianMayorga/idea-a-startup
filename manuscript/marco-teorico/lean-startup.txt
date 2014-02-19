@@ -1,5 +1,9 @@
 ##Lean Startup
 
+C> *¿Por qué usar el enfoque Lean? La vida es muy corta para construir algo que nadie quiere*
+C>
+C> -- Ash Maurya
+
 ###Beneficios del método Lean Startup
 Los beneficios principales que se obtienen al aplicar la metodología son claves para el funcionamiento de toda startup, ellos son: [^benefits-lean-startup]
 

@@ -1,5 +1,9 @@
 ##La gran mayoría de las startups fallan
 
+C> *No te preocupés por fallar, sólo tenés que acertar una vez*
+C>
+C> -- Drew Houston, fundador de Dropbox
+
 Ahora que ya hablé de ideas innovadoras y startups exitosas que crecen vertiginosamente&mdash;el costado atractivo de las startups&mdash;voy a encargarme del costado no tan ameno: construir una startup es **muy difícil**.
 
 Los números hablan por sí mismos, **nueve de cada diez startups no tienen éxito** [^fallan-uno] [^fallan-dos].

@@ -1,5 +1,9 @@
 ##¿Qué es una startup?
 
+C> *El valor de una idea yace en el uso de ella*
+C>
+C> -- Thomas Edison
+
 Startup es un término de moda en las charlas de tecnología actuales, compañías como Facebook, Twitter o LinkedIn son ejemplos de startups exitosas. Muchas personas tienen definiciones diferentes a la hora de decir exactamente qué es una startup, así que construiré una definicion que tome en cuenta los puntos más importantes de las diferentes asepciones.
 
 Primero voy a mostrar la definición de startup según respetables diccionarios, después según referentes del mundo startup y antes de llegar a la definición final, voy a explorar las diferencias de startup con PyME y empresa.

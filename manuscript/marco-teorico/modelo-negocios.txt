@@ -1,5 +1,9 @@
 ##Lienzo de Modelos de Negocios
 
+C> *No se trata de ideas. Se trata de llevarlas a cabo*
+C>
+C> -- Scott Belsky, cofundador de Behance
+
 La primera herramienta que todo emprendedor moderno debe conocer es el Lienzo de Modelos de Negocios, el cual le permite describir en una sola hoja cómo funciona su startup.
 
 ###Introducción
