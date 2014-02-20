@@ -1,8 +1,6 @@
-frontmatter.txt
 agradecimientos.txt
 resumen.txt
 introduccion.txt
-mainmatter.txt
 marco-teorico/marco-teorico.txt
 marco-teorico/ideas-innovadoras.txt
 marco-teorico/que-es-startup.txt
@@ -23,6 +21,5 @@ desarrollo-idea/segunda-medir.txt
 desarrollo-idea/segunda-aprender.txt
 desarrollo-idea/mvp.txt
 desarrollo-idea/proximos-pasos.txt
-backmatter.txt
 conclusion.txt
 bibliografia.txt
