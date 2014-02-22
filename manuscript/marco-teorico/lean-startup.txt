@@ -4,14 +4,25 @@ C> *¿Por qué usar el enfoque Lean? La vida es muy corta para construir algo qu
 C>
 C> -- Ash Maurya
 
+###Introducción
+
+En los últimos dos capítulos presenté cómo describir una startup utilizando el Lienzo de Modelos de Negocios y cómo el Desarrollo de Clientes lo utiliza para validar todos los aspectos del negocio.
+
+En este capítulo presentaré el método Lean Startup, utilizado por cada vez más startups en todo el mundo. El mismo se basa en la filosofía de "salir del edificio" del Desarrollo de Clientes, agregandole prácticas que elevan la agilidad y el nivel de experimentación al máximo.
+
+Comenzaré enumerando los beneficios de la metodología. Después mostraré los principios fundamentales de la misma, junto con ejemplos de casos reales para bajar los conceptos a la realidad.
+
+Para describir cómo operar una Lean Startup describiré el método con tres conceptos fundamentales; la unión del Desarrollo de Clientes con las Metodologías Ágiles, el bucle Construir-Medir-Aprender y el Mínimo Producto Viable.
+
 ###Beneficios del método Lean Startup
-Los beneficios principales que se obtienen al aplicar la metodología son claves para el funcionamiento de toda startup, ellos son: [^benefits-lean-startup]
 
-- Ser mas innovador
-- Dejar de desperdiciar el tiempo de las personas
-- Ser mas exitoso
+Los beneficios principales que se obtienen al aplicar la metodología son metas que toda startup desea, ellos son: 
 
-###Principios de Lean Startup ejemplificados con casos reales
+* Ser mas innovador
+* Dejar de desperdiciar el tiempo de las personas
+* Ser mas exitoso [^benefits-lean-startup]
+
+###Principios de Lean Startup
 
 La filosofía Lean Startup posee cinco principios, los cuales son:
 
@@ -21,67 +32,150 @@ La filosofía Lean Startup posee cinco principios, los cuales son:
 4. Contabilización de innovación
 5. Construir-medir-aprender
 
-Para ilustrar algunos de estos principios se va a contar cómo diferentes startups han utilizado la metodología, para así facilitar la comprensión de estos principios fundamentales.
+Para facilitar la comprensión de estos principios con casos reales contaré cómo diferentes startups han utilizado la metodología.
 
-####Emprendedurismo es administración: IMVU
-Para ejemplificar que el *"emprendedurismo es administración"* se van a citar las palabras del autor de Lean Startup, Eric Ries:
+####Emprendedurismo es administración
 
->El emprendedurismo es una especie de administración. No, no leíste mal. Tenemos asociaciones salvajemente divergentes sobre esas dos palabras, *emprendedurismo* y *administración*. Últimamente, parece que una es *cool*, innovadora y emocionante y la otra es aburrida, seria y sosa. Es tiempo de dejar atrás esos preconceptos.
+Para ejemplificar que el *"emprendedurismo es administración"* se citará al autor de Lean Startup, Eric Ries:
 
->Dejame contarte la historia de una startup. Es 2004, y un grupo de fundadores recién han comenzado una nueva compañía. Su compañía anterior falló muy públicamente. Su credibilidad está en su nivel mas bajo. Tienen una visión enorme: cambiar la forma en la que la gente se comunica al usar una nueva tecnología llamada avatars (recuerden. esto era antes de la taquillera película de James Cameron). Están siguiendo a un visionario llamado Will Harvey, que pinta una imagen irresistible: personas conectándose con sus amigos, pasando el rato online, usando avatares para darles una combinación de conexión íntima y anonimidad segura. Aún mejor, en vez de tener que construir toda la ropa, muebles y accesorios que estos avatares necesitarían para anexar a sus vidas digitales, los clientes serían enlistados para construir esas cosas y venderlas unos a otros.
+A> El emprendedurismo es una especie de administración. No, no leíste mal. Tenemos asociaciones salvajemente divergentes sobre esas dos palabras, *emprendedurismo* y *administración*. Últimamente, parece que una es *cool*, innovadora y emocionante y la otra es aburrida, seria y sosa. Es tiempo de dejar atrás esos preconceptos.
+A>
+A> Dejame contarte la historia de una startup. Es 2004, y un grupo de fundadores recién han comenzado una nueva compañía. Su compañía anterior falló muy públicamente. Su credibilidad está en su nivel mas bajo. Tienen una visión enorme: cambiar la forma en la que la gente se comunica al usar una nueva tecnología llamada avatars (recuerden. esto era antes de la taquillera película de James Cameron). Están siguiendo a un visionario llamado Will Harvey, que pinta una imagen irresistible: personas conectándose con sus amigos, pasando el rato online, usando avatares para darles una combinación de conexión íntima y anonimidad segura. Aún mejor, en vez de tener que construir toda la ropa, muebles y accesorios que estos avatares necesitarían para anexar a sus vidas digitales, los clientes serían enlistados para construir esas cosas y venderlas unos a otros.
+A>
+A> El reto de ingeniería ante ellos es inmenso: crear mundos virtuales, contenido generado por usuarios, un motor de e-commerce, micropagos y por último, pero no menos importante, la tecnología tridimensional de avatares que pueda correr en la PC de cualquiera.
+A>
+A> Estoy en esta historia. Soy un cofundador y Director de Tecnología de esta compañía, que es llamada IMVU. En este punto de nuestras carreras, mis cofundadores y yo estamos determinados a cometer nuevos errores. Hacemos todo mal: en vez de gastar años perfeccionando nuestra tecnología, construímos un producto mínimo viable, un producto precoz que es terrible, lleno de errores y problemas de estabilidad trabamos-tu-computadora-si-en-serio. Después lo enviamos a producción a los clientes antes que esté listo. Y cobramos dinero por él. Después de asegurar los clientes iniciales, cambiamos el producto constantemente -demasiado rápido en comparación con los estándares tradicionales- enviando a producción nuevas versiones del producto decenas de veces cada día.
+A>
+A> Realmente teníamos clientes en esos días iniciales -verdaderos pioneros visionarios, hablábamos con ellos seguido y les pedíamos feedback. Pero enfáticamente *no* hicimos lo que ellos decían. Vimos sus aportes como sólo una fuente de información sobre el producto y visión general. De hecho, era mucho más probable que corriéramos experimentos en nuestros clientes antes que satisfacer sus caprichos.
+A>
+A> El pensamiento tradicional de negocios dice que este enfoque no debería funcionar, pero funciona, y no necesitás creerme. Como verás a través del libro Lean Startup, este enfoque que iniciamos en IMVU se ha convertido en la base para un nuevo movimiento de emprendedores alrededor del mundo. Se basa en varias ideas de administración, incluídas *lean manufacturing*, pensamiento de diseño, desarrollo de clientes, y desarrollo ágil. Representa un nuevo enfoque a la creación de innovación continua. Es llamado Lean Startup. [^entrepreneurship-management-book]
 
->El reto de ingeniería ante ellos es inmenso: crear mundos virtuales, contenido generado por usuarios, un motor de e-commerce, micropagos y por último, pero no menos importante, la tecnología tridimensional de avatares que pueda correr en la PC de cualquiera.
+En pocas palabras: **Una startup es una institución, no sólo un producto, entonces requiere administración, una nueva clase de administración específicamente orientada a su contexto.**
 
->Estoy en esta historia. Soy un cofundador y Director de Tecnología de esta compañía, que es llamada IMVU. En este punto de nuestras carreras, mis cofundadores y yo estamos determinados a cometer nuevos errores. Hacemos todo mal: en vez de gastar años perfeccionando nuestra tecnología, construímos un producto mínimo viable, un producto precoz que es terrible, lleno de errores y problemas de estabilidad trabamos-tu-computadora-si-en-serio. Después lo enviamos a producción a los clientes antes que esté listo. Y cobramos dinero por él. Después de asegurar los clientes iniciales, cambiamos el producto constantemente -demasiado rápido en comparación con los estándares tradicionales- enviando a producción nuevas versiones del producto decenas de veces cada día.
+####Emprendedores hay por todos lados
 
->Realmente teníamos clientes en esos días iniciales -verdaderos pioneros visionarios-, hablábamos con ellos seguido y les pedíamos feedback. Pero enfáticamente *no* hicimos lo que ellos decían. Vimos sus aportes como sólo una fuente de información sobre el producto y visión general. De hecho, era mucho más probable que corriéramos experimentos en nuestros clientes antes que satisfacer sus caprichos.
+Uno de los principios más importantes de Lean Startup es *"Emprendedores hay por todos lados"*. Para entenderlo con una historia de éxito mostraré la historia de una startup del área de servicios financieros personales llamada SnapTax:
 
->El pensamiento tradicional de negocios dice que este enfoque no debería funcionar, pero funciona, y no necesitás creerme. Como verás a través del libro Lean Startup, este enfoque que iniciamos en IMVU se ha convertido en la base para un nuevo movimiento de emprendedores alrededor del mundo. Se basa en varias ideas de administración, incluídas *lean manufacturing*, pensamiento de diseño, desarrollo de clientes, y desarrollo ágil. Representa un nuevo enfoque a la creación de innovación continua. Es llamado Lean Startup. [^snaptax-lean-startup]
+A> En el 2009, una startup decidió tratar algo realmente audaz. Querían liberar a los que pagan impuestos de las costosas tiendas de impuesto al automatizar el proceso de recolectar información tipicamente encontrada en formularios W-2 (es el resúmen de final de año que la mayoría de los empleados de USA reciben de sus empleadores, resume sus tasas de impuestos del año). La startup rápidamente se encontró con dificultades. A pesar que muchos clientes tenían acceso a impresoras/scanners en sus casas u oficinas, pocos sabían cómo usar esos dispositivos. Después de numerosas conversaciones con clientes potenciales, el equipo se iluminó con la idea de hacer que los clientes saquen fotos a los formularios directamente desde sus teléfonos. En el proceso de probar este concepto, los clientes preguntaron algo inesperado: ¿será posible terminar *el proceso entero de devolución de impuestos* desde el teléfono mismo?
+A>
+A> Esa no era una tarea fácil. La preparación tradicional de impuestos requiere que los consumidores pasen con dificultad a través de cientos de preguntas, muchos formularios y mucho papelerío. Esta startup intentó algo novedoso al decidir sacar al mercado una versión inicial del producto que podía hacer mucho menos que el paquete completo de impuestos. La versión inicial funcionó sólo para consumidores con un resultado de impuestos muy simple, y sólo funcionaba en California.
+A>
+A> En vez de hacer que los consumidores llenen un formulario complejo, permitieron que los consumidores usen la cámara del teléfono para sacar una foto de sus formularios W-2. De esa única foto, la compañía desarrolló la tecnología para compilar y entregar la mayoría del resúmen de impuestos 1040 EZ. Comparado con el trabajo penoso del resúmen de impuestos tradicional, el nuevo producto -llamado SnapTax- proveeyó una experiencia mágica. Desde sus modestos comienzos, SnapTax creció hasta ser un importante caso de éxito de startup. Su lanzamiento nacional en el 2011 mostró que los clientes lo amaban, al ritmo de mas de 350000 descargas en sus primeras tres semanas.
+A>
+A> Este es el tipo de increíble historia de innovación que esperarías de una startup nueva.
+A>
+A> Sin embargo, el nombre de la compañía te puede sorprender. SnapTax fue desarrollado por Intuit, el productor más grande de América de herramientas de finanzas, impuestos y contabilidad para individuos y empresas pequeñas. Con más de 7700 empleados y ganancias anuales en los billones, Intuit no es una startup típica.
+A>
+A> El equipo que construyó SnapTax tampoco se parece mucho a la imagen típica de emprendedores. Ellos no trabajan en un garaje o comen *ramen noodles*. A su compañía no le faltan recursos. Ellos reciben salario y beneficios. Ellos van a trabajar a la oficina todos los días. A pesar de eso ellos son emprendedores. [^snaptax-lean-startup]
 
-**Una startup es una institución, no sólo un producto, entonces requiere administración, una nueva clase de administración específicamente orientada a su contexto. [^entrepreneurship-is-management-blog]**
-
-####Emprendedores hay por todos lados: SnapTax
-Para ilustrar uno de los principios más importantes de Lean Startup, el cual es *"Emprendedores hay por todos lados"*; se va a contar la historia de una startup del área de servicios financieros personales, llamada SnapTax:
-
-En el 2009, una startup decidió tratar algo realmente audaz. Querían liberar a los que pagan impuestos de las costosas tiendas de impuesto al automatizar el proceso de recolectar información tipicamente encontrada en formularios W-2 (es el resúmen de final de año que la mayoría de los empleados de USA reciben de sus empleadores, resume sus tasas de impuestos del año). La startup rápidamente se encontró con dificultades. A pesar que muchos clientes tenían acceso a impresoras/scanners en sus casas u oficinas, pocos sabían cómo usar esos dispositivos. Después de numerosas conversaciones con clientes potenciales, el equipo se iluminó con la idea de hacer que los clientes saquen fotos a los formularios directamente desde sus teléfonos. En el proceso de probar este concepto, los clientes preguntaron algo inesperado: ¿será posible terminar *el proceso entero de devolución de impuestos* desde el teléfono mismo?
-
-Esa no era una tarea fácil. La preparación tradicional de impuestos requiere que los consumidores pasen con dificultad a través de cientos de preguntas, muchos formularios y mucho papelerío. Esta startup intentó algo novedoso al decidir sacar al mercado una versión inicial del producto que podía hacer mucho menos que el paquete completo de impuestos. La versión inicial funcionó sólo para consumidores con un resultado de impuestos muy simple, y sólo funcionaba en California.
-
-En vez de hacer que los consumidores llenen un formulario complejo, permitieron que los consumidores usen la cámara del teléfono para sacar una foto de sus formularios W-2. De esa única foto, la compañía desarrolló la tecnología para compilar y entregar la mayoría del resúmen de impuestos 1040 EZ. Comparado con el trabajo penoso del resúmen de impuestos tradicional, el nuevo producto -llamado SnapTax- proveeyó una experiencia mágica. Desde sus modestos comienzos, SnapTax creció hasta ser un importante caso de éxito de startup. Su lanzamiento nacional en el 2011 mostró que los clientes lo amaban, al ritmo de mas de 350000 descargas en sus primeras tres semanas.
-
-Este es el tipo de increíble historia de innovación que esperarías de una startup nueva.
-
-Sin embargo, el nombre de la compañía te puede sorprender. SnapTax fue desarrollado por Intuit, el productor más grande de América de herramientas de finanzas, impuestos y contabilidad para individuos y empresas pequeñas. Con más de 7700 empleados y ganancias anuales en los billones, Intuit no es una startup típica.
-
-El equipo que construyó SnapTax tampoco se parece mucho a la imagen típica de emprendedores. Ellos no trabajan en un garaje o comen *ramen noodles*. A su compañía no le faltan recursos. Ellos reciben salario y beneficios. Ellos van a trabajar a la oficina todos los días. A pesar de eso ellos son emprendedores.
-
-**No necesitás trabajar en un garaje para estar en una startup.[^entrepreneurs-are-everywhere]**
-
-####Construir-medir-aprender: Intuit
-Para ilustrar un principio muy importante de toda Lean Startup, el cual es el bucle *"Construir-medir-aprender"*, se va a contar la historia de cómo una conocida empresa americana llamada Intuit comenzó a correr cientos de experimentos para probar cada elemento de su visión.
-
-Uno de sus productos insignia es TurboTax. Porque TurboTax hace la mayoría de sus ventas en época de impuestos de USA, solía tener una cultura extremadamente conservadora. Al transcurrir el año, los equipos de marketing y producto concebían una iniciativa importante que sería puesta en marcha justo a tiempo para época de impuestos. Ahora ellos prueban mas de quinientos cambios diferentes en una época de impuestos de dos meses y medio. El equipo puede hacer un cambio en vivo en su sitio un Jueves, correrlo todo el fin de semana, leer los resultados el Lunes y llegar a conclusiones al empezar el próximo Jueves; después construyen nuevas pruebas ese mismo dia y lanzan el próximo conjunto de pruebas a la noche.
-
-Como Scott (fundador de Intuit) dijo,
-
-> "Hombre, la cantidad de aprendizaje que obtienen es inmenso ahora. Y lo que hace es desarrollar emprendedores, porque cuando tenés solo una prueba, no tenés emprendedores, tenés políticos, porque tenés que vender. A partir de cientos de buenas ideas, tenés que vender la tuya. Entonces construís una sociedad de políticos y vendedores. Cuando tenés quinientas pruebas corriendo, entonces las ideas de todos pueden correr. Y después creás emprendedores que corren y aprenden y pueden probar de vuelta y aprender nuevamente, todo lo contrario que una sociedad de políticos. Entonces estamos tratado de implementar eso a través de nuestra organización, usando ejemplos que no tienen nada que ver con tecnología de punta, como el ejemplo del sitio web. Hoy en día todo negocio tiene un sitio web. No necesitás estar en tecnología de punta para usar ciclos rápidos de testing." [^intuit-lean-startup]
-
-**Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción, medidas y analizadas.**
-
-[^snaptax-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "The snaptax story"
-
-[^entrepreneurship-is-management-blog]: http://www.startuplessonslearned.com/2011/01/why-we-need-to-teach-mbas-about-modern.html
-
-[^entrepreneurs-are-everywhere]: http://www.startuplessonslearned.com/2011/06/open-innovation-in-dc.html
-
-[^intuit-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "A seven thousand person lean startup"
+Resumiendo: **No necesitás trabajar en un garaje para estar en una startup**
 
 ###Descripción del método Lean Startup
 
-####Bucle Construir - Medir - Aprender
-![Construir-medir-aprender](images/Construir-medir-aprender.png "Bucle construir-medir-aprender")
+Después de describir Lean Startup con historias, describiré los componentes que forman la metodología: Desarrollo de Clientes + Metodologías Ágiles, Bucle Construir-Medir-Aprender y Mínimo Producto Viable.
 
-####MVP: Minimo Producto Viable
-![MVP](images/MVP.png "MVP")
+####Unión de Desarrollo de Clientes y Metodologías Ágiles
+
+El gran aporte de Lean Startup a la metodología de Desarrollo de Clientes es agregarle el desarrollo del producto utilizando Metodologías Ágiles, más específicamente Programación Extrema (XP).
+
+¿Por qué es un acierto tan grande agregar XP?
+
+Para poner en producción software más frecuentemente. [^trabajar-diferente]
+
+Enfrentar el software a los clientes es un beneficio clave. Recordemos que el objetivo del Desarrollo de Clientes es llevar el producto hacia los clientes lo más rápido posible para obtener feedback pronto. Para lograr este objetivo nada mejor que poner software en producción más seguido, para lo cual hay que usar métodos ágiles.
+
+![Lean Startup = Desarrollo de Clientes + Metodologías Ágiles](images/cust-dev-plus-agile.jpg)
+
+¿Cómo hacer encajar Desarrollo de Clientes con Programación Extrema? El ciclo iterativo que se forma se puede enumerar de la siguiente manera:
+
+1. Plantear de hipótesis
+2. Comenzar experimento
+3. Realizar iteración de XP
+4. Poner en producción producto para recolectar métricas
+5. Analizar los datos obtenidos para validar o refutar hipótesis
+6. Volver a plantear hipótesis para comenzar el ciclo de nuevo
+
+#####Programación Extrema
+
+* Programación extrema
+    * Iteraciones semanales
+    * Realizar cada actividad casi simultáneamente. Análisis, Diseño, Programación, Pruebas y hasta Puesta en Producción
+* Técnicas de programación extrema
+    * Build de diez minutos
+    * Integración continua
+    * Desarrollo guiado por pruebas
+    * Retrospectivas
+* Algo para conectar con bucle
+
+Ya mencioné que el beneficio principal de utilizar XP es entregar software más frecuentemente, pero ¿qué hay que hacer para lograr esto?
+
+La base de XP es la realización de iteraciones semanales, no mensuales como otras metodología ágiles, ni mucho menos anuales como el desarrollo en cascada; hay que iterar semanalmente. En cada iteración se realizan todas las actividades de Ingeniería de Software: Análisis, Diseño, Programación, Pruebas y hasta Puesta en Producción.
+
+Hay varias técnicas propias de la programación extrema. A continuación se enumerarán las que más beneficio proveen a una Lean Startup:
+
+* *Build* de diez minutos: Un build rápido y automatizado incrementa la productividad y reduce al mínimo los errores de producción que trae un proceso manual.
+* Integración continua: El objetivo de la integración continua es poner en producción todo excepto las últimas horas de trabajo. Esto se consigue teneniendo un servidor de integración continua que junte el código de los diferentes programadores, verifique que todo funciona corriendo las pruebas automatizadas y notifique al equipo si hay algún error.
+* Desarrollo guiado por pruebas (TDD): Escribir las pruebas antes de escribir código conlleva numerosos beneficios, como un mejor diseño, mayor cobertura de código probado y menos bugs. No es una práctica fácil de adoptar, pero vale la pena el esfuerzo.
+* Retrospectivas: Retrospectivas frecuentes son excelentes para mejorar los procesos continuamente.
+
+A continuación mostraré cómo resumir el proceso de Lean Startup en un bucle iterativo, llamado Construir-Medir-Aprender.
+
+####Bucle Construir - Medir - Aprender
+
+Un eje de toda Lean Startup es el bucle *"Construir-medir-aprender"*. El mismo consiste en un proceso iterativo que involucra construir un producto mínimo, tomar métricas clave al enfrentar el producto a clientes, aprender utilizando estas medidas para después comenzar de nuevo el ciclo.
+
+![Construir-Medir-Aprender](images/Construir-medir-aprender.png "Bucle construir-medir-aprender")
+
+El bucle es utilizado para probar las hipótesis definidas sobre la startup. La compañía tiene que ser lo suficientemente ágil para correr permanentemente estos experimentos. Para dar una idea de la agilidad con la que hay que iterar citaré a Eric Ries contar la historia de cómo una conocida empresa americana llamada Intuit comenzó a correr cientos de experimentos para probar cada elemento de su visión.
+
+A> Uno de sus productos insignia es TurboTax. Porque TurboTax hace la mayoría de sus ventas en época de impuestos de USA, solía tener una cultura extremadamente conservadora. Al transcurrir el año, los equipos de marketing y producto concebían una iniciativa importante que sería puesta en marcha justo a tiempo para época de impuestos. Ahora ellos prueban mas de quinientos cambios diferentes en una época de impuestos de dos meses y medio. El equipo puede hacer un cambio en vivo en su sitio un Jueves, correrlo todo el fin de semana, leer los resultados el Lunes y llegar a conclusiones al empezar el próximo Jueves; después construyen nuevas pruebas ese mismo dia y lanzan el próximo conjunto de pruebas a la noche.
+A>
+A> Como Scott (fundador de Intuit) dijo,
+A>
+A> > "Hombre, la cantidad de aprendizaje que obtienen es inmenso ahora. Y lo que hace es desarrollar emprendedores, porque cuando tenés solo una prueba, no tenés emprendedores, tenés políticos, porque tenés que vender. A partir de cientos de buenas ideas, tenés que vender la tuya. Entonces construís una sociedad de políticos y vendedores. Cuando tenés quinientas pruebas corriendo, entonces las ideas de todos pueden correr. Y después creás emprendedores que corren y aprenden y pueden probar de vuelta y aprender nuevamente, todo lo contrario que una sociedad de políticos. Entonces estamos tratado de implementar eso a través de nuestra organización, usando ejemplos que no tienen nada que ver con tecnología de punta, como el ejemplo del sitio web. Hoy en día todo negocio tiene un sitio web. No necesitás estar en tecnología de punta para usar ciclos rápidos de testing." [^intuit-lean-startup]
+
+**Intuit invirtió en sistemas que incrementaron la velocidad en la que las pruebas podían ser construídas, puestas en producción, medidas y analizadas.**
+
+El objetivo de cada iteración es el aprendizaje sobre la hipótesis planteada al comienzo, y mientras más rápido iteremos por el bucle más aprendizaje vamos a obtener.
+
+Para acelerar el bucle se puede optimizar la etapa de construcción. Esto se logra construyendo el producto más simple que nos provea de los datos necesarios para analizar. A continuación se verá cómo optimizar la etapa de construcción realizando productos con funcionalidad mínima.
+
+####MVP: Mínimo Producto Viable
+
+En la etapa de construcción se ensambla lo mínimo para probar las hipótesis, un Mínimo Producto Viable. Un MVP debería tener la funcionalidad exacta que pruebe la hipótesis planteada. No debe poseer funciones redundantes que causen pérdida de tiempo; y tampoco debe tener una falta de comportamiento que ocasione poco material para aprender.
+
+![MVP](images/MVP.png)
+
+En la etapa de Descubrimiento de Clientes el objetivo es validar un problema y un segmento de clientes que lo posea. No se trata de validar soluciones correctas, o canales de distribución adecuados.
+
+Por lo tanto  en esta etapa normalmente se construyen productos mínimos como una página de marketing para probar que existe un problema. Un ejemplo de esto es el servicio Dropbox. Para probar que hay un interés en su servicio se hizo un video de la funcionalidad deseada mucho antes de escribir una linea de código. Este video se viralizó, demostrando que hay un problema real y hay muchas personas interesadas en que se solucione. [^dropbox]
+
+Otros ejemplos de MVPs que se pueden llegar a utilizar en la etapa de Descubrimiento de Clientes es una simple entrevista, un prototipo de papel y lápiz o encuestas masivas. El único requisito es que tengan la capacidad de probar una hipótesis de problema o segmento de clientes.
+
+* Ejemplo de MVP en Validación de Clientes
+
+Un MVP en la etapa de Validación de Clientes puede llegar a ser mucho más complejo que en la etapa anterior debido a que si se quiere probar una solución o un canal de distribución, es necesario un esfuerzo de ingeniería mayor.
+
+Este tipo de MVP pueden ser tan simples como una aplicación sin backend que pruebe interacciones con el cliente hasta una aplicación totalmente funcional. Pero no porque haya soluciones más complejas hay que perder el foco en minimalismo del MVP, tiene que tener la funcionalidad justa para probar una hipótesis, no mas ni menos.
+
+###Conclusión
+
+Lean Startup propone una forma radical de desarrollar startups, que mejora el éxito de las mismas, la innovación generada y el aprovechamiento del tiempo.
+
+A través de casos de éxito se ejemplificaron los principios esenciales de la metodología. Luego se describió el funcionamiento de Lean Startup, cómo complementa al Desarrollo de Clientes con XP, el bucle principal que guía el avance del aprendizaje en una startup, y cómo se utilizan productos mínimos para probar las hipótesis planteadas.
+
+Después de ver tantas metodologías puede ser dificil procesar los conceptos de cada una y llevarlos a la práctica. Con el objetivo de allanar el camino desde la generación de ideas hacia la creación de una startup y sintetizar los conceptos dados realicé una guía paso a paso del proceso, ejemplificándolo con un caso hipotético. Esta guía va a ser el objeto de la próxima sección del Trabajo Final.
+
+[^snaptax-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "The snaptax story"
+
+[^entrepreneurship-management-book]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Introducción"
+
+[^intuit-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "A seven thousand person lean startup"
 
 [^benefits-lean-startup]: http://theleanstartup.com/#benefits
+
+[^definicion-wikipedia]: http://en.wikipedia.org/wiki/Agile_software_development
+
+[^trabajar-diferente]: Libro "The Art of Agile Development", capítulo 1 "Why Agile?"; por J. Shore y S. Warden
+
+[^dropbox]: http://theleanstartup.com/casestudies

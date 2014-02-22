@@ -6,3 +6,4 @@ marco-teorico/que-es-startup.txt
 marco-teorico/exito-startups.txt
 marco-teorico/modelo-negocios.txt
 marco-teorico/desarrollo-clientes.txt
+marco-teorico/lean-startup.txt
