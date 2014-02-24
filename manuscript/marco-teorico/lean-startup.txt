@@ -97,16 +97,6 @@ Enfrentar el software a los clientes es un beneficio clave. Recordemos que el ob
 
 #####Programación Extrema
 
-* Programación extrema
-    * Iteraciones semanales
-    * Realizar cada actividad casi simultáneamente. Análisis, Diseño, Programación, Pruebas y hasta Puesta en Producción
-* Técnicas de programación extrema
-    * Build de diez minutos
-    * Integración continua
-    * Desarrollo guiado por pruebas
-    * Retrospectivas
-* Algo para conectar con bucle
-
 Ya mencioné que el beneficio principal de utilizar XP es entregar software más frecuentemente, pero ¿qué hay que hacer para lograr esto?
 
 La base de XP es la realización de iteraciones semanales, no mensuales como otras metodología ágiles, ni mucho menos anuales como el desarrollo en cascada; hay que iterar semanalmente. En cada iteración se realizan todas las actividades de Ingeniería de Software: Análisis, Diseño, Programación, Pruebas y hasta Puesta en Producción.
