@@ -24,7 +24,9 @@ En la primera etapa se realiza la búsqueda de un modelo de negocios, y la segun
 
 Toda startup permanece en esta etapa de búsqueda mientras tenga incógnitas en su modelo de negocios, es decir está buscando su modelo de negocios.
 
-Consta de dos sub-etapas llamadas Descubrimiento de Clientes y Validación de Clientes, las cuales pueden sintetizarse de la siguiente manera:
+![En un comienzo lo único que tiene una startup es un conjunto de hipótesis no validadas](images/hipotesis-no-testeadas.jpg)
+
+La etapa de búsqueda consta de dos sub-etapas llamadas Descubrimiento de Clientes y Validación de Clientes, las cuales pueden sintetizarse de la siguiente manera:
 
 * Un producto soluciona un problema para un grupo de usuarios identificables (Descubrimiento de Clientes)
 * El mercado es vendible y suficientemente grande para que se pueda construir un negocio viable (Validación de Clientes) [^cust-dev]
@@ -33,52 +35,60 @@ La "graduación" de una startup hacia una compañía es cuando su objetivo pasa 
 
 #####Desarrollo de Clientes
 
-El objetivo de esta etapa es comprobar que lo que se trata de solucionar es realmente un problema, y encontrar un segmento de clientes que salga beneficiado con la solución del mismo.
-
-La forma de comprobar el problema y el segmento de clientes&mdash;como diría Steve Blank&mdash;es "saliendo del edificio". La idea es acumular conocimiento que ayude a validar problemas y clientes a través del feedback permanente con los clientes, y con el aprendizaje constante.
-
-El momento en que un servicio o producto genera más enseñanzas sobre su público es cuando el se entra en contacto con los clientes. Enfrentando un producto con su cliente lo más pronto posible evita costos de desarrollo innecesarios.
-
-El Desarrollo de Clientes es iterativo, el objetivo es iterar hasta validar las hipótesis planteadas sobre problemas y segmento de clientes. El próximo paso es la Validación de Clientes.
-
-#####Validación de Clientes
-
-La relación de la metodología de Desarrollo de Clientes con el Lienzo de Modelos de Negocios resulta evidente en esta etapa. Para explicar cómo se citará a Steve Blank:
+La relación de la metodología de Desarrollo de Clientes con el Lienzo de Modelos de Negocios resulta evidente en esta etapa. Para explicar la relación se citará a Steve Blank:
 
 C> ***Los ganadores reconocen su "visión" como una serie de hipótesis no probadas** que necesitan "prueba de clientes". Ellos buscan revelaciones implacablemente, y ajustan su camino en dias o semanas, no meses o años, para preservar dinero y eliminar el tiempo perdido construyendo funcionalidad que los clientes no necesitan.*
 C>
 C> -- Steve Blank [^hipotesis-no-probadas]
 
-![Desarrollo de Clientes utilizando Lienzo de Modelos de Negocios](images/lienzo-customer-development-process.jpg)
+**El lienzo de modelos de negocios funciona como una planilla de avance para el Desarrollo de Clientes**. Es la herramienta que se utilizará para trackear la validación de cada bloque. A medida que avance el tiempo se contará con varios lienzos, los cuales formarán una especie de crónica del desarrollo de la startup en el tiempo.
+ 
+Para validar cada bloque del lienzo hay que "salir del edificio", realizar experimentos que prueben cada hipótesis y enfrentarlos a los clientes. Sólo entrando en contacto con los clientes se puede construir un producto que solucione problemas reales. Por eso es necesario "salir del edificio", los problemas no se resuelven dentro de oficinas o garajes, se resuelven con clientes satisfechos.
 
-El Lienzo de Modelos de Negocios es la herramienta que se utilizará para trackear la validación de cada bloque. Hay que "salir del edificio", realizar experimentos que prueben cada hipótesis y enfrentarlos a los clientes para validar cada bloque.
+A> #####Pivot
+A>
+A> *¿Qué hacer si se descubren hipótesis completamente equivocadas?*
+A> 
+A> Es normal tener suposiciones erradas, ningún plan de negocios comienza siendo perfecto. A diferencia de una empresa&mdash;donde no hay que cometer errores&mdash; el objetivo de una startup es equivocarse para poder **aprender de los errores**.
+A>
+A> Por ejemplo, en el lienzo inicial la hipótesis de Segmento de Clientes puede ser "adolescentes de sexo masculino que vivan en zonas rurales". A la hora de recolectar datos sobre los usuarios del producto si descubrís que los usuarios son en su mayoría madres solteras entre 30 y 40 años que viven en zonas urbanas. En este caso es lógico tomar la desición de enfocarse en este segmento, entender el valor que el producto les ofrece y hacer los ajustes necesarios.
+A>
+A> **Un cambio drástico a uno de los bloques del modelo de negocios es llamado pivot**.
 
-![En un comienzo lo único que tiene una startup es un conjunto de hipótesis no validadas](images/hipotesis-no-testeadas.jpg)
+Se logra el éxito en esta etapa **validando qué tan bien se entendió el problema**. El objetivo del Descubrimiento de Clientes NO es vender, las hipótesis de venta se validarán en la próxima etapa de Búsqueda, llamada Validación de Clientes.
 
-![Una startup se "gradúa" en una compañía una vez que tiene certeza sobre cada aspecto de su modelo de negocios](images/hipotesis-testeadas.jpg)
+#####Validación de Clientes
 
-#####Pivot
+El único objetivo de esta etapa es plantear y validar las hipótesis de:
 
-¿Qué hacer si los experimentos fallan continuamente?
+* Quién va a comprar
+* Por qué
+* A qué precio
 
-Si la solución encontrada luego de realizar experimentos no es vendible o suficientemente grande para construir un negocio es necesario volver a la etapa anterior de la metodología. Hay que realizar un nuevo Desarrollo de Clientes planteando nuevas hipótesis de problema y segmento de clientes. Este cambio rotundo en el curso de acción de una startup se llama **Pivot**.
+¿Cómo validar los intentos de compra? Construyendo un MVP de alta fidelidad, y consiguiendo que los clientes paguen por este producto mínimo. El concepto de compra depende del producto o servicio que se esté desarrollando; puede ser dinero, una descarga, una registración o un click.
 
-Luego de iterar sobre la validación de cada bloque del modelo de negocios, y contar con un modelo de negocios validado hay que pasar a la siguiente etapa del Desarrollo de Clientes: la etapa de Ejecución.
+Hay que hacer experimentos sobre el lienzo de modelo de negocios en su totalidad, a diferencia de la etapa anterior en la que se testeaba cada bloque individualmente.
+
+Si la solución encontrada luego de realizar experimentos no es vendible o suficientemente grande para construir un negocio es necesario volver a la etapa anterior de la metodología. Hay que realizar un nuevo Desarrollo de Clientes planteando nuevas hipótesis de problema y segmento de clientes, en otras palabras, hay que hacer un **pivot**.
+
+![Una startup se "gradúa" en una compañía una vez que valida cada elemento de su modelo de negocios](images/hipotesis-testeadas.jpg)
+
+Luego de contar con un modelo de negocios validado, y tener certeza de que hay un mercado vendible y suficientemente grande hay que pasar a la siguiente etapa del Desarrollo de Clientes: la etapa de Ejecución.
 
 ####Ejecución
-
-![Etapa de Ejecución](images/ejecucion.jpg)
 
 En esta etapa la startup ya se ha convertido en una compañía, y cuenta con dos subetapas: Creación de Compañía y Construcción de Compañía:
 
 * El negocio es escalable a través de ventas repetibles y una hoja de ruta de marketing (Creación de Compañía)
 * Departamentos de la compañía y procesos operacionales son creados para posibilitar escala (Construcción de Compañía) [^cust-dev-2]
 
-Lamentablemente el desarrollo de esta etapa está fuera del alcance del presente Trabajo Final.
+Lamentablemente el desarrollo de esta etapa está fuera del alcance del presente Trabajo Final. Afortunadamente hay incontables libros de Administración a los cuales se puede recurrir para ejecutar sobre un modelo de negocios validado.
 
-###Resumen
+###Resúmen
 
-Este capítulo trató la metodología de Desarrollo de Clientes creada por Steve Blank. El origen de la misma fue la creación de un patrón para tener éxito en startups. Consta de dos etapas, búsqueda y creación. El objetivo de la primera etapa es buscar un modelo de negocios, y el mismo se consigue realizando experimentos y enfrentando el producto con los clientes lo más temprano posible.
+Este capítulo trató la metodología de Desarrollo de Clientes creada por Steve Blank. El origen de la misma fue la creación de un patrón para tener éxito en startups. Consta de dos etapas, búsqueda y ejecución.
+
+El objetivo de la primera etapa es buscar un modelo de negocios, y el mismo se consigue realizando experimentos y enfrentando el producto con los clientes lo más temprano posible. El objetivo de la segunda etapa es desarrollar una compañía a partir de un modelo de negocios validado. 
 
 Nadie mejor que el creador de la metodología para resumirla en pocas palabras:
 
