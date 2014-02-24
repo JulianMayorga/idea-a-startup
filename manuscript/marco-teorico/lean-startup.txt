@@ -88,7 +88,7 @@ Enfrentar el software a los clientes es un beneficio clave. Recordemos que el ob
 
 ¿Cómo hacer encajar Desarrollo de Clientes con Programación Extrema? El ciclo iterativo que se forma se puede enumerar de la siguiente manera:
 
-1. Plantear de hipótesis
+1. Plantear hipótesis
 2. Comenzar experimento
 3. Realizar iteración de XP
 4. Poner en producción producto para recolectar métricas
