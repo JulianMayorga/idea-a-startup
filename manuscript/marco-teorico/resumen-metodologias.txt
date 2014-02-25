@@ -1,0 +1,109 @@
+##Síntesis: Cómo transformar una idea en una startup
+
+En el transcurso del Trabajo Final presenté muchas herramientas para emprendedores que se interconectan entre sí: lienzo de modelos de negocios, desarrollo de clientes y lean startup. Debido a que estos métodos tienen conceptos relacionados puede ser difícil comprenderlos en su totalidad.
+
+Para simplificar el proceso creación de startups voy a resumirlo en dos grandes etapas: descubrimiento de clientes y validación de clientes. En esta última sección del Trabajo Final explicaré la motivación de cada etapa, cómo realizarla y qué componentes integran a cada una.
+
+###Descubrimiento de Clientes
+
+La primer etapa a completar a la hora de comenzar camino de idea hacia startup se llama Descubrimiento de Clientes. Resumiré la etapa gráficamente con un diagrama, después explicaré la motivación de la etapa&mdash;su objetivo principal&mdash;, luego detallaré cómo realizarla, y finalizaré con una descripción de cada componente que la integra.
+
+####Diagrama
+
+El siguiente gráfico sintetiza con simpleza la primera mitad de la creación de startups. Es esencial saber el punto de partida y de llegada en el Descubrimiento de Clientes, por eso destaco la atención en la visión inicial y el lienzo validado al finalizar la etapa.
+
+![Síntesis Descubrimiento de Clientes](images/resumen-descubrimiento-clientes.jpg)
+
+####¿Por qué seguir estos pasos?
+
+**Porque queremos resolver problemas específicos de personas reales**. Este objetivo contrasta con suponer que existe un problema, lo cual puede llevar a miles de horas de trabajo perdidas en productos o servicios que no le interesan a nadie, que significaría un rotundo fracaso.
+
+####Metodología
+
+La forma de desarrollar el Descubrimiento de Clientes es:
+
+* Elaborando hipótesis sobre elementos del lienzo de modelos de negocios
+* Construyendo Productos Mínimos Viables, que tengan la funcionalidad justa y necesaria para probar una hipótesis
+* Iterando semanalmente utilizando Programación Extrema
+* Saliendo del edificio, juntando feedback de los clientes desde la primer semana
+* Realizando pivots si fuera necesario, para aclarar las suposiciones sobre el modelo de negocios
+
+####Elementos
+
+#####Comienzo: Visión
+
+La innovación comienza formulando una visión a partir de una idea. Una visión es una imagen mental de cómo va a ser el futuro o cómo podría ser; tener visión es la habilidad de pensar acerca del futuro con imaginación o sabiduría [^vision-definicion]. Este es el tipo de pensamiento a gran escala requerido para innovar, y el punto de partida sugerido para toda startup.
+
+Es fundamental buscar un problema específico de un segmento de clientes bien definido. Las dos primeras hipótesis a definir tienen como objetivo validar el Segmento de Clientes y Propuesta de Valor de una startup.
+
+#####Primer experimento
+
+La primera iteración del bucle construir-medir-aprender siempre debe tener como objetivo validar la suposición realizada sobre el Segmento de Clientes al que va a apuntar la startup.
+
+Si se confirma la hipótesis sobre los clientes se puede pasar al segundo experiment, sino hay que continuar iterando hasta encontrar un Segmento de Clientes.
+
+#####Segundo experimento
+
+La segunda hipótesis a validar es la hipótesis de Propuesta de Valor. En este momento se cuenta con un grupo de personas con un problema concreto, y el objetivo es encontrar una solución adecuada para el mismo.
+
+#####Experimentos intermedios
+
+El objetivo es validar **todas** las suposiciones del modelo de negocios planteado, por lo tanto hay que iterar hasta contar con un modelo de negocios probado.
+
+#####Final: Lienzo de modelo de negocios validado
+
+Un modelo de negocios con cada bloque validado marca el fin de la etapa de Descubrimiento de Clientes. Recordemos que una startup es una organización que busca su modelo de negocios, la primer parada hasta encontrar un modelo de negocios es validar cada bloque del lienzo de modelo de negocios. El próximo paso en la vida de una startup es la Validación de Clientes.
+
+###Validación de Clientes
+
+La segunda etapa a realizar en la creación de startups es la Validación de Clientes. El análisis de esta etapa será equivalente al realizado con Descubrimiento de Clientes: resumiré el proceso en un diagrama, explicaré la motivación de la etapa, cómo realizarla y finalizaré con los componentes de la misma.
+
+####Diagrama
+
+Este diagrama determina con simpleza los pasos a seguir en la etapa de Validación de Clientes. El mismo comienzo con clientes determinados, gracias al resultado del Desarrollo de Clientes. La etapa de Validación de Clientes culmina al poseer un mercado vendible y lo suficientemente grande para ser el objetivo de una compañía sustentable.
+
+![Síntesis Validación de Clientes](images/resumen-validacion-clientes.jpg)
+
+####¿Por qué seguir estos pasos?
+
+**Porque hay productos que no generan ganancias, aunque solucionen problemas específicos de personas reales**. Tener un producto útil, pero que no puede sustentar una compañía es una situación que&mdash;lamentablemente&mdash;no es sostenible en el tiempo, por eso en esta etapa el objetivo es encontrar una estrategia de ventas escalable y repetible.
+
+####Metodología
+
+Una estrategia de ventas escalable y repetible se encuentra de la siguiente manera:
+
+* Elaborando hipótesis de crecimiento
+* Construyendo Productos Mínimos Viables, más cercanos al producto final que los MVP de la etapa anterior porque ahora se cuenta con un mejor entendimiento de las necesidades del cliente
+* Iterando semanalmente utilizando Programación Extrema
+* Saliendo del edificio: Haciendo "ventas de prueba", tratando que los clientes paguen por nuestro producto/servicio
+* Realizando pivots si fuera necesario, para aclarar las suposiciones sobre el modelo de negocios
+
+####Elementos
+
+#####Comienzo: Clientes - Modelo negocios validado
+
+El punto de partida es un producto que soluciona el problema de un grupo de clientes, gracias a un modelo de negocios validado.
+
+#####Iteraciones
+
+Las iteraciones en la Validación de Clientes tienen que comenzar con una hipótesis sobre la estrategia de ventas, porque el objetivo de esta etapa es encontrar el motor de crecimiento de la startup.
+
+Las etapas de construcción, medición y aprendizaje dependen de las suposiciones sobre las hipótesis de crecimiento planteadas. Las métricas son especialmente importantes, qué tipo de métricas se plantea depende específicamente del motor de crecimiento buscado [^metricas-crecimiento].
+
+#####Final: Mercado vendible y grande
+
+El fin de la Validación de Clientes se consigue luego de realizar las iteraciones sobre la estrategia de ventas, y validar el funcionamiento de un motor de crecimiento.
+
+###Próximos pasos
+
+El fin de la Validación de Clientes marca el fin de la vida de una startup. También marca la conclusión del objetivo propuesto por este Trabajo Final&mdash;detallar cómo transformar una idea en una startup&mdash;.
+
+Completar la Validación de Clientes además determina el momento en que una startup entra en la etapa de ejecución, para convertirse en una compañía. Como ya mencioné previamente, la etapa de ejecución está fuera del alcance del presente Trabajo Final. Recomiendo al lector interesado en esta etapa referirse al libro "The Four Steps to the Epiphany" de Steve Blank, el cual es una excelente referencia para la etapa de Ejecución.
+
+Para mejorar el entendimiento sobre la transformación de ideas en startups presentaré un caso práctico. La idea sobre la cual trabajaré en el Desarrollo de Ingeniería del Trabajo Final es:
+
+C> *Revolucionar el entendimiento del código fuente*
+
+[^vision-definicion]: http://www.oxforddictionaries.com/definition/english/vision
+
+[^metricas-crecimiento]: Libro "The Lean Startup", capítulo 10: Grow por Eric Ries

@@ -87,6 +87,8 @@ Si la solución encontrada luego de realizar experimentos no es vendible o sufic
 
 Luego de contar con un modelo de negocios validado, y tener certeza de que hay un mercado vendible y suficientemente grande hay que pasar a la siguiente etapa del Desarrollo de Clientes: la etapa de Ejecución.
 
+A> El término venta es usado en un sentido amplio, no necesariamente una venta involucra dinero. Una venta en una startup web/mobile puede ser un click, un registro de usuario, una descarga o dinero.
+
 ####Ejecución
 
 En esta etapa la startup ya se ha convertido en una compañía, y cuenta con dos subetapas: Creación de Compañía y Construcción de Compañía:

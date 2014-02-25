@@ -154,7 +154,7 @@ Lean Startup propone una forma radical de desarrollar startups, que mejora el é
 
 A través de casos de éxito se ejemplificaron los principios esenciales de la metodología. Luego se describió el funcionamiento de Lean Startup, cómo complementa al Desarrollo de Clientes con XP, el bucle principal que guía el avance del aprendizaje en una startup, y cómo se utilizan productos mínimos para probar las hipótesis planteadas.
 
-Después de ver tantas metodologías puede ser dificil procesar los conceptos de cada una y llevarlos a la práctica. Con el objetivo de allanar el camino desde la generación de ideas hacia la creación de una startup y sintetizar los conceptos dados realicé una guía paso a paso del proceso, ejemplificándolo con un caso hipotético. Esta guía va a ser el objeto de la próxima sección del Trabajo Final.
+Después de ver tantas metodologías puede ser dificil procesar los conceptos de cada una y llevarlos a la práctica. Con el objetivo de allanar el camino desde la generación de ideas hacia la creación de una startup y sintetizar los conceptos dados realicé una guía paso a paso del proceso, ejemplificándolo con un caso hipotético. Este resúmen será el objeto de la próxima sección del Trabajo Final.
 
 [^snaptax-lean-startup]: "The Lean Startup (Crown Business). Copyright 2011 Eric Ries, 0307887898". Sección "The snaptax story"
 
