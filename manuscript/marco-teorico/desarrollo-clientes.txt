@@ -69,6 +69,18 @@ El único objetivo de esta etapa es plantear y validar las hipótesis de:
 
 Hay que hacer experimentos sobre el lienzo de modelo de negocios en su totalidad, a diferencia de la etapa anterior en la que se testeaba cada bloque individualmente.
 
+En esta etapa hay que plantear **hipótesis de crecimiento**, e iterar hasta encontrar el "motor de crecimiento"[^hipotesis-crecimiento] de nuestra startup. Una startup puede tener tres posibles motores de crecimiento, los cuales son:
+
+* Crecimiento viral
+    * Diseñado para esparcirse rápidamente de persona a persona
+    * Cada usuario nuevo trae más de un usuario adicional
+* Crecimiento "sticky"
+    * Diseñado para atraer y retener clientes a largo plazo
+    * El crecimiento orgánico es mayor a la tasa de clientes perdidos
+* Crecimiento pago
+    * Diseñado para crear fondos destinados a publicidad
+    * El valor de por vida de cada usuario es mayor al costo de adquisición por usuario
+
 Si la solución encontrada luego de realizar experimentos no es vendible o suficientemente grande para construir un negocio es necesario volver a la etapa anterior de la metodología. Hay que realizar un nuevo Desarrollo de Clientes planteando nuevas hipótesis de problema y segmento de clientes, en otras palabras, hay que hacer un **pivot**.
 
 ![Una startup se "gradúa" en una compañía una vez que valida cada elemento de su modelo de negocios](images/hipotesis-testeadas.jpg)
@@ -105,3 +117,5 @@ El próximo capitulo es sobre la técnica llamada Lean Startup, que muestra cóm
 [^definicion-simple]: Libro "The Startup Owner's Manual", capítulo "Introduction", sección "The Four Steps: A New Path" por Steve Blank
 
 [^hipotesis-no-probadas]: Libro "The Startup Owner's Manual", capítulo "Introduction", sección "A Repeatable Path" por Steve Blank
+
+[^hipotesis-crecimiento]: Libro "The Lean Startup", capítulo 10: Grow por Eric Ries
