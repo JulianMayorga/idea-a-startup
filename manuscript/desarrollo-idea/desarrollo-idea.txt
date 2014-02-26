@@ -1,4 +1,13 @@
-#Desarrollo de Idea
+#Desarrollo de Ingeniería
 
-* Proceso a seguir concordará con sintesis planteada en marco teorico
-* Conectar con Visión inicial: *Revolucionar el entendimiento del código fuente*
+Para completar los conceptos sintetizados en la sección anterior, en las siguientes hojas detallaré cómo usar técnicas de Programación Extrema y de Desarrollo de Clientes para transformar una idea inicial en una startup.
+
+Utilizaré el proceso descripto en la síntesis del Marco Teórico, aclarando con ejemplos cómo conseguir los objetivos de las dos grandes etapas de una startup: Descubrimiento de Clientes y Validación de Clientes.
+
+El esfuerzo de ingeniería de software es grande para llevar adelante una startup innovadora. El equipo de ingeniería debe desarrollar y mantener una infraestructura que lograr dos objetivos: lograr una fácil adaptación a los cambios y realizar entregas frecuentes del producto/servicio. Para lograr la capacidad de adaptarse a cambios utilizaré una **arquitectura modular, orientada a servicios**; y para realizar entregas frecuentes del producto usaré **Programación Extrema**.
+
+Diseñaré una arquitectura orientada a servicios para lograr un bajo acoplamiento entre cliente y servidor, y así mejorar la capacidad de adaptación del producto desarrollado. Utilizaré la arquitectura cliente-servidor, con una API REST como servidor y una aplicación con tecnologías modernas como cliente.
+
+Para lograr las entregas frecuentes que requiere una startup utilizaré técnicas de XP. Configuraré el desarrollo para posibilitar una puesta en producción continua, y utilizaré Desarrollo Guiado por Pruebas (TDD en inglés), escribiendo pruebas automatizadas tanto unitarias como de aplicación. 
+
+El Desarrollo de Ingeniería comienzará con el desarrollo práctico de la etapa Descubrimiento de Clientes.
