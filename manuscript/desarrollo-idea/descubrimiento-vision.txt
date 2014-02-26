@@ -1,44 +1,69 @@
 ###Visión
 
-* Comienzo de todo: idea
-* Idea != Visión
-* Objetivo
-    * Plantear visión
-    * Definir problema a partir de visión
-    * Proponer solución ideal a problema
-* Conexión con lienzo
-
 ![Vision](images/descubrimiento-1-vision.jpg)
 
-(Tiene que ser amplia, porque todavía no hay definido nada del modelo de negocios, y si definimos un objetivo muy específico seguramente el mismo va a cambiar)
+En este capítulo determinaré la visión que guiará el camino de la startup a partir de una idea. Empezaré por el planteo del problema a resolver, después construiré una visión a partir de lo planteado y sólo al final propondré una solución.
 
-"Yo creo que los programadores web van a dedicar 25 minutos por dia a [nombre-startup] porque consideran esencial invertir tiempo a su crecimiento profesional"
+El proceso de planteo de visión propuesto contrasta con la forma de pensar que tienen en su mayoría los ingenieros. Al ser personas encargadas de crear soluciones, generalmente empezamos la creación de startups con una solución ideal en nuestra mente. El problema con este método es, irónicamente, que no haya problema que se ajuste a nuestra solución.
+
+A continuación describiré el problema a resolver.
 
 ####Problema
 
-(Hay que empezar por un objetivo más alcanzable que la visión propuesta)
+Siempre he pensado que para ser un buen programador no sólo hay que escribir mucho código, sino también leer mucho código. Los buenos escritores se forjan tanto escribiendo obras propias como leyendo obras ajenas, entonces ¿por qué no forjar buenos programadores de la misma manera? Pienso que leer código de calidad es una parte importante del proceso de aprendizaje de programación.
 
-Un subconjunto de la visión "es esencial invertir tiempo al crecimiento profesional de programadores" es "los programadores van a leer código en [nombre-startup]  porque deberian aprender a escribir código de la forma que se aprende a escribir Español: leyendo buenos ejemplos". Un problema asociado a esta subvisión es **Leer código es dificil**.
+Creo que mejorar la forma de leer código puede significar beneficios en ámbitos laborales, no sólo de aprendizaje. Si bien es cierto que es raro que un programador lea código ajeno en sus momentos ociosos con el único objetivo de leer código de calidad, hay muchas situaciones laborales que pueden ser beneficiadas por herramientas que faciliten la lectura, como por ejemplo:
+
+* Aprender sobre librerías ajenas, lo cual puede ser necesario debido a mala documentación de las mismas
+* Encontrar bugs, debido que todos usamos código escrito por terceros en nuestros proyectos
+* Agregar features a proyectos ajenos
+* Volver a trabajar sobre proyectos propios antiguos, debido a que al pasar el tiempo puede ser dificil comprender hasta el código propio
+* Hacer Code Review
+* Buscar material para reusar en código ajeno
+
+Sin embargo, una cosa es segura: **Leer código es dificil**. Por eso voy a encarar este problema como inicio para la startup que detallaré en este Trabajo Final.
+
+####Visión
+
+Una visión tiene que ser amplia porque todavía no hay nada definido en el modelo de negocios. Si definimos un objetivo muy específico seguramente el mismo va a cambiar en el ciclo de vida de una startup, sin embargo una visión a largo plazo seguirá vigente.
+
+La visión que tengo es la siguiente:
+
+A> C> *Aumentar la capacidad de entender código*
+
+Hay que empezar por un objetivo más alcanzable que la visión propuesta debido a la magnitud de la visión y al carácter iterativo de la metodología de Desarrollo de Clientes. Por este motivo a continuación mostraré cómo deconstruir la visión en una solución al problema de lectura de código.
 
 ####Solución
 
-Una solución propuesta al problema planteado es:
+En el planteo de problema enumeré motivos por el cuál leer código. Para proponer una solución al problema planteado voy a pensar en cómo se lee código actualmente. Finalmente enumeraré los features que la solución ideal debería tener.
 
-App en la que se pueda:
+A la hora de pensar cómo leer codigo, se puede armar una extensa lista de posibilidades. Siempre depende del objetivo que cada uno tenga para leer código, pero a nivel general algunas formas de leer son:
 
-* Seleccionar código y hacer preguntas sobre él
-* Subrayar código
-* Tomar notas sobre fragmentos de código, visibles para todo el mundo
+* Empezar la exploración por el punto de partida del programa, por ejemplo un archivo main
+* Pensar en qué se quiere aprender, buscarlo con herramienta tipo grep y usarlo como punto de partida de la exploración del código
+* Buscar palabras clave del lenguaje en el que el código está escrito
+* Buscar declaraciones de funciones u objetos interesantes
+* Ver estructura del código
+* Encontrar comentarios que ayuden a entender fragmentos
+* Analizar el código con un profiler y ver donde tarda mas, y usarlo como punto de partida
+
+Teniendo en cuenta la forma en la que se lee el código actualmente, a continuación daré una lista de historias de usuario para la solución propuesta.
+
+Como usuario, quiero:
+
+* Seleccionar código y hacer preguntas sobre él en stack overflow
+* Subrayar código que me parezca importante
+* Tomar notas sobre fragmentos de código y hacerlas visibles para los otros usuarios
 * Hacer diagramas sobre fragmentos de código
-* Conectar fragmentos de código con ejemplos del mismo en jsFiddle o afines
-* Buscar uso en el código de palabras clave
-* Ver rápidamente documentación de palabras
-* Hacer walkthroughs sobre el código para que otros lo vean
-* Escribir tests para codigo
-* Refactorear fragmentos de código (¿igual a feature jsFiddle?)
+* Correr fragmentos de código en intérpretes del mismo y ver el resultado
+* Buscar el uso de palabra clave en el código
+* Seleccionar código y ver la documentación asociada
+* Hacer guías paso a paso sobre el código para que otros vean
+* Escribir tests para fragmentos del código
+* Refactorizar fragmentos de código
 * Armar versiones simplificadas del código
 * Remover una implementación y reimplementarla hasta que los tests pasen de nuevo
 
-[Aplicar innovators dna a esta idea]
+Es oportuno aclarar que las previas historias de usuario son para la versión ideal de la aplicación. Esta solución ideal se plasmará en la sección de Propuesta de Valor del Lienzo de Modelos de Negocios que se construirá en la próxima sección, para después ser validada o rechazada a través del feedback de clientes.
 
-[Elegir un feature a probar]
+Una vez que esté determinada la visión, problema y solución de la startup hay que realizar la construcción del Lienzo de Modelos de Negocios, lo cual es el objetivo del siguiente capítulo.

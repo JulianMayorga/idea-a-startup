@@ -1,4 +1,3 @@
-marco-teorico/resumen-metodologias.txt
 desarrollo-idea/desarrollo-idea.txt
 desarrollo-idea/descubrimiento-clientes.txt
 desarrollo-idea/descubrimiento-vision.txt
