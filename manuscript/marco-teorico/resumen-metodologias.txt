@@ -102,7 +102,7 @@ Completar la Validación de Clientes además determina el momento en que una sta
 
 Para mejorar el entendimiento sobre la transformación de ideas en startups presentaré un caso práctico. La idea sobre la cual trabajaré en el Desarrollo de Ingeniería del Trabajo Final es:
 
-C> *Revolucionar el entendimiento del código fuente*
+C> *Aumentar la capacidad de entender código*
 
 [^vision-definicion]: http://www.oxforddictionaries.com/definition/english/vision
 
