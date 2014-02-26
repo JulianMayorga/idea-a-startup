@@ -142,8 +142,6 @@ Por lo tanto  en esta etapa normalmente se construyen productos mínimos como un
 
 Otros ejemplos de MVPs que se pueden llegar a utilizar en la etapa de Descubrimiento de Clientes es una simple entrevista, un prototipo de papel y lápiz o encuestas masivas. El único requisito es que tengan la capacidad de probar una hipótesis de problema o segmento de clientes.
 
-* Ejemplo de MVP en Validación de Clientes
-
 Un MVP en la etapa de Validación de Clientes puede llegar a ser mucho más complejo que en la etapa anterior debido a que si se quiere probar una solución o un canal de distribución, es necesario un esfuerzo de ingeniería mayor.
 
 Este tipo de MVP pueden ser tan simples como una aplicación sin backend que pruebe interacciones con el cliente hasta una aplicación totalmente funcional. Pero no porque haya soluciones más complejas hay que perder el foco en minimalismo del MVP, tiene que tener la funcionalidad justa para probar una hipótesis, no mas ni menos.
