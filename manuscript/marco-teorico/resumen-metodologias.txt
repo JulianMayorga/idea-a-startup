@@ -1,6 +1,6 @@
 ##Síntesis: Cómo transformar una idea en una startup
 
-En el transcurso del Trabajo Final presenté muchas herramientas para emprendedores que se interconectan entre sí: lienzo de modelos de negocios, desarrollo de clientes y lean startup. Debido a que estos métodos tienen conceptos relacionados puede ser difícil comprenderlos en su totalidad.
+En el transcurso del Trabajo Final presenté muchas herramientas para emprendedores que se interconectan entre sí: lienzo de modelos de negocios, desarrollo de clientes y lean startup. Debido a que estos métodos tienen muchos conceptos interrelacionados puede ser difícil comprenderlos en su totalidad.
 
 Para simplificar el proceso creación de startups voy a resumirlo en dos grandes etapas: descubrimiento de clientes y validación de clientes. En esta última sección del Trabajo Final explicaré la motivación de cada etapa, cómo realizarla y qué componentes integran a cada una.
 
