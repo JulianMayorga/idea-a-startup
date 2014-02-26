@@ -1,6 +1,7 @@
 ##Descubrimiento de Clientes
 
-* Proceso que busca tener un modelo de negocios validado
-* Hay que hacer experimentos hasta validarlo por completo
-* Voy a realizar sólo dos experimentos para mostrar metodología. Correr una startup en la realidad puede tomar años de iteraciones y experimentos
-* Conectar con inicio: visión
+Ahora comienza la etapa de Descubrimiento de Clientes, en la que se busca validar un modelo de negocios. En esta fase hay que realizar experimento tras experimento hasta llevar a cero la gran lista de incógnitas con la que comienzan todas las startups.
+
+Por cuestiones de tiempo y alcance del presente trabajo realizaré dos iteraciones de Descubrimiento de Clientes, las suficientes para aclarar cada elemento del proceso de creación de startups. En la realidad pueden llegar a ser necesarios meses o años llevar a cabo los experimentos necesarios para conseguir un modelo de negocios estable.
+
+A continuación introduciré la idea sobre la cual construir una startup, y formularé una visión a partir de ella.
