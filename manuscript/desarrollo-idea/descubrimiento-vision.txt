@@ -1,0 +1,36 @@
+###Visión
+
+![Vision](images/descubrimiento-1-vision.jpg)
+
+(Tiene que ser amplia, porque todavía no hay definido nada del modelo de negocios, y si definimos un objetivo muy específico seguramente el mismo va a cambiar)
+
+"Yo creo que los programadores web van a dedicar 25 minutos por dia a [nombre-startup] porque consideran esencial invertir tiempo a su crecimiento profesional"
+
+####Problema
+
+(Hay que empezar por un objetivo más alcanzable que la visión propuesta)
+
+Un subconjunto de la visión "es esencial invertir tiempo al crecimiento profesional de programadores" es "los programadores van a leer código en [nombre-startup]  porque deberian aprender a escribir código de la forma que se aprende a escribir Español: leyendo buenos ejemplos". Un problema asociado a esta subvisión es **Leer código es dificil**.
+
+####Solución
+
+Una solución propuesta al problema planteado es:
+
+App en la que se pueda:
+
+* Seleccionar código y hacer preguntas sobre él
+* Subrayar código
+* Tomar notas sobre fragmentos de código, visibles para todo el mundo
+* Hacer diagramas sobre fragmentos de código
+* Conectar fragmentos de código con ejemplos del mismo en jsFiddle o afines
+* Buscar uso en el código de palabras clave
+* Ver rápidamente documentación de palabras
+* Hacer walkthroughs sobre el código para que otros lo vean
+* Escribir tests para codigo
+* Refactorear fragmentos de código (¿igual a feature jsFiddle?)
+* Armar versiones simplificadas del código
+* Remover una implementación y reimplementarla hasta que los tests pasen de nuevo
+
+[Aplicar innovators dna a esta idea]
+
+[Elegir un feature a probar]

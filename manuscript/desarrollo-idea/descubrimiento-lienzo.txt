@@ -1,0 +1,24 @@
+###Lienzo
+
+![Lienzo](images/descubrimiento-2-lienzo.jpg)
+
+####Hipótesis
+
+Armado de hipótesis
+
+1. Definir entidades que participan: [Desarrolladores entre 18 y 50 años que quieran aprender código de calidad leyendo]
+2. Definir valor dado a cada entidad: [Mejorar como programadores? Aprender sobre librerias open source q usan en el trabajo? Contribuir al entendimiento de códigos libres]
+3. Definir MVP final: [Ya descrito en solución]
+4. ¿Dónde hay riesgo?: [Al usuario puede no interesarle leer código. Puede preferir leer código en github. Puede preferir leer código de una manera menos estructurada.]
+
+#####Hipótesis de valor
+
+**Mejorar entendimiento del código libre que usan**
+
+#####Hipótesis de crecimiento
+
+Crecimiento pago: Costo de adquisición por usuario < Valor de vida por usuario. La suma positiva de ingresos crea fondos para publicidad.
+
+#####Canvas de hipótesis no testeadas
+
+![Hipótesis no testeadas](images/canvas-daily-tdd.jpg "Canvas")

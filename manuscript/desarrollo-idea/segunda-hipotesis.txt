@@ -1,7 +1,0 @@
-##Segunda hipótesis
-
-Propuesta de valor
-
-* Hacer prototipo con papel y lapiz?
-* Juntarse en persona y hacer tdd con jsfiddle?
-* Clickable prototype?
