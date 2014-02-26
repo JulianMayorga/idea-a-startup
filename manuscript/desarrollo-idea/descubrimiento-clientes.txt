@@ -1,1 +1,10 @@
 ##Descubrimiento de Clientes
+
+* Proceso que busca tener un modelo de negocios validado
+* Hay que hacer experimentos hasta validarlo por completo
+* Voy a realizar sólo dos experimentos para mostrar metodología. Correr una startup en la realidad puede tomar años de iteraciones y experimentos
+* Experimentos realizados con XP
+    * TDD
+    * Integración y Deployment continuo
+    * Arquitectura orientada a servicios (modular es bueno, se adapta al cambio) (van a haber cambios, xq es una startup)
+* Conectar con inicio: visión

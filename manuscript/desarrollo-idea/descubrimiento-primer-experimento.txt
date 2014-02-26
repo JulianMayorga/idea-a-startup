@@ -1,3 +1,13 @@
 ###Primer Experimento
 
+* Comienza proceso de validación. Puede llegar a ser muy largo.
+* Hipótesis: Customer Segment
+* Build
+    * Qué haré
+    * Cómo: XP
+    * Qué otras opciones hay
+* Measure
+* Learn
+* Conexión con segundo experimento
+
 ![Primer experimento](images/descubrimiento-3-primer-experimento.jpg)

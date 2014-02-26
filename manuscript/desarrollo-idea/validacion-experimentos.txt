@@ -1,3 +1,10 @@
 ###Experimentos
 
+* Hay que hacer experimentos de ventas hasta tener estrategia
+* Voy a mostrar ejemplos de estrategias posibles
+    * Qué construir
+    * Qué medir
+    * Aprender
+* Conexión con mercado
+
 ![Experimentos](images/validacion-2-experimentos.jpg)

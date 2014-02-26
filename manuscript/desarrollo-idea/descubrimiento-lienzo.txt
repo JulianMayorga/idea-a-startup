@@ -1,5 +1,10 @@
 ###Lienzo
 
+* Deconstruir visión en lienzo
+* Escribiré brief de cada elemento del modelo de negocios
+* Son suposiciones hasta validarlas
+* Conexión con experimento uno: por fin codear!
+
 ![Lienzo](images/descubrimiento-2-lienzo.jpg)
 
 ####Hipótesis

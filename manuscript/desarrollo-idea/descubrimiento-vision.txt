@@ -1,5 +1,13 @@
 ###Visión
 
+* Comienzo de todo: idea
+* Idea != Visión
+* Objetivo
+    * Plantear visión
+    * Definir problema a partir de visión
+    * Proponer solución ideal a problema
+* Conexión con lienzo
+
 ![Vision](images/descubrimiento-1-vision.jpg)
 
 (Tiene que ser amplia, porque todavía no hay definido nada del modelo de negocios, y si definimos un objetivo muy específico seguramente el mismo va a cambiar)

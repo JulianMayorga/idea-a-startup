@@ -1,3 +1,7 @@
 ###Experimentos intermedios
 
+* Podemos iterar muchas veces
+* Recordar minimalidad de MVPs
+* Conexión lienzo validado
+
 ![Experimentos intermedios](images/descubrimiento-5-experimentos-intermedios.jpg)

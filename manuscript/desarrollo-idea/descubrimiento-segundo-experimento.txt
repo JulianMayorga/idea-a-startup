@@ -1,3 +1,13 @@
 ###Segundo Experimento
 
+* Segundo paso de validación
+* Hipótesis: Value Proposition
+* Build
+    * Qué haré: implementar feature mas riesgoso?
+    * Cómo: XP
+    * Qué otras opciones hay
+* Measure
+* Learn
+* Conexión con proximos experimentos
+
 ![Segundo experimento](images/descubrimiento-4-segundo-experimento.jpg)

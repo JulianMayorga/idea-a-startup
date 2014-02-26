@@ -1,1 +1,6 @@
 ##Validación de Clientes
+
+* Proceso que busca tener estrategia de ventas repetible y escalable
+* Hay que hacer experimentos de ventas hasta tener estrategia
+* Voy a mostrar ejemplos de estrategias posibles
+* Finalizar con mercado grande y vendible

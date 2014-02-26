@@ -1,1 +1,4 @@
 #Desarrollo de Idea
+
+* Proceso a seguir concordará con sintesis planteada en marco teorico
+* Conectar con Visión inicial: *Revolucionar el entendimiento del código fuente*

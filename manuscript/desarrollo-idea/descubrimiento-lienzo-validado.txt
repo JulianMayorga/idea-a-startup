@@ -1,3 +1,8 @@
 ###Lienzo Validado
 
+* Final de Customer Developmnent
+* Hablar sobre estado actual de startup
+    * Cómo quedó el producto (hipotéticamente)
+* Conexión con Validación
+
 ![Lienzo validado](images/descubrimiento-6-lienzo-validado.jpg)

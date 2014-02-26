@@ -1,3 +1,6 @@
 ###Clientes iniciales
 
+* Ya hay clientes, ahora hay que conseguir más y hacer que entregen $
+* Conexión con experimentos
+
 ![Clientes iniciales](images/validacion-1-clientes.jpg)
