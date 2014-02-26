@@ -36,7 +36,7 @@ No sólo hay bajos costos iniciales y alta escalabilidad gracias a Cloud Computi
 
 Para desarrollar el Trabajo Final realicé un estudio bibliográfico de diferentes ideologías en el ámbito de la innovación y la ingeniería de software.
 
-Sintetizé los conocimientos adquiridos en una guía práctica que indica cómo avanzar cuando se quiere transformar una idea en una startup exitosa.
+Sinteticé los conocimientos adquiridos en una guía práctica que indica cómo avanzar cuando se quiere transformar una idea en una startup exitosa.
 
 Para ejemplificar el camino que se puede recorrer para desarrollar una idea hice un caso práctico, el cual reúne tanto las metodologías de administración como las técnicas de Ingeniería de Software esenciales para un proyecto innovador.
 
