@@ -27,9 +27,15 @@ Sin embargo, una cosa es segura: **Leer código es dificil**. Por eso voy a enca
 
 Una visión tiene que ser amplia porque todavía no hay nada definido en el modelo de negocios. Si definimos un objetivo muy específico seguramente el mismo va a cambiar en el ciclo de vida de una startup, sin embargo una visión a largo plazo seguirá vigente.
 
-La visión que tengo es la siguiente:
+La visión es la siguiente:
 
 A> C> *Aumentar la capacidad de entender código*
+
+También, después de incontables semanas de brainstroming, elegí el nombre de la startup que trataré por el resto del Trabajo Final:
+
+[sonido de redoble de tambor]
+
+A> C> **DIP**
 
 Hay que empezar por un objetivo más alcanzable que la visión propuesta debido a la magnitud de la visión y al carácter iterativo de la metodología de Desarrollo de Clientes. Por este motivo a continuación mostraré cómo deconstruir la visión en una solución al problema de lectura de código.
 

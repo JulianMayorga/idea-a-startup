@@ -1,29 +1,77 @@
 ###Lienzo
 
-* Deconstruir visión en lienzo
-* Escribiré brief de cada elemento del modelo de negocios
-* Son suposiciones hasta validarlas
-* Conexión con experimento uno: por fin codear!
-
 ![Lienzo](images/descubrimiento-2-lienzo.jpg)
 
-####Hipótesis
+Después de hablar sobre el Lienzo de Modelos de Negocios finalmente llegó la hora de dar un ejemplo de construcción de lienzo. En este capítulo deconstruiré la solución planteada anteriormente en un modelo de negocios, descripto en las próximas páginas a través de sumario sobre cada elemento que lo compone.
 
-Armado de hipótesis
+Diseñaré el modelo de negocios partiendo del público objetivo. Para esto usaré una herramienta llamada Empathy Map, desarrollado por la compañía XPLANE [^empathy-map] y referenciada en el libro "Business Model Generation" [^business-model]. Partir del público objetivo permite construir un modelo de negocios mas fuerte porque el perfil del cliente guía el diseño de mejores Propuestas de Valor, Canales para llegar a él, y mejores Relaciones con Cliente.
 
-1. Definir entidades que participan: [Desarrolladores entre 18 y 50 años que quieran aprender código de calidad leyendo]
-2. Definir valor dado a cada entidad: [Mejorar como programadores? Aprender sobre librerias open source q usan en el trabajo? Contribuir al entendimiento de códigos libres]
-3. Definir MVP final: [Ya descrito en solución]
-4. ¿Dónde hay riesgo?: [Al usuario puede no interesarle leer código. Puede preferir leer código en github. Puede preferir leer código de una manera menos estructurada.]
+La forma de diseñar el mapa de empatía de nuestro cliente objetivo es la siguiente:
 
-#####Hipótesis de valor
+1. Dar al cliente un nombre y características demográficas, como salario, estado civil, etc.
+2. Refiriéndose al siguiente diagrama, usar un pizarrón o cartulina para construir un perfil del cliente recientemente nombrado preguntando y respondiendo las preguntas del diagrama.
 
-**Mejorar entendimiento del código libre que usan**
+![Mapa de Empatía](images/mapa-empatia.jpg)
 
-#####Hipótesis de crecimiento
+####Mapa de empatía de DIP
 
-Crecimiento pago: Costo de adquisición por usuario < Valor de vida por usuario. La suma positiva de ingresos crea fondos para publicidad.
+El mapa de empatía realizado para DIP quedó asi:
 
-#####Canvas de hipótesis no testeadas
+![Mapa de Empatía DIP](images/mapa-empatia-dip.jpg)
 
-![Hipótesis no testeadas](images/canvas-daily-tdd.jpg "Canvas")
+A> ####Conocé tus usuarios como a vos mismo
+A>
+A> Lo mejor que puede pasar a la hora de diseñar partiendo del público objetivo es ser parte del mismo. Por este y muchos otros motivos es fácil darse cuenta por qué es beneficioso construir una startup y a la vez ser el usuario objetivo de la misma.
+
+Llegó el momento de describir los nueve bloques del modelo de negocios de DIP.
+
+####Segmento de Clientes
+
+DIP está orientado a programadores web, entre 18 y 30 años que quieran mejorar continuamente como profesionales. La mayoría de las personas a las que apunto son solteros, están trabajando y ganan 5 veces el salario mínimo.
+
+####Propuesta de Valor
+
+Usando DIP van a comprender fácilmente proyectos open source, así pueden contribuir a los mismos. Ofreceremos este entendimiento a través de guías digitales llamados "dips" que analizan código fuente de proyectos open source, y guían al usuario a través del código.
+
+####Canales
+
+La forma de distribución del servicio es a través de apps para smartphones y tablets, y a través del sitio dip.io.
+
+####Relaciones con Clientes
+
+Mantendremos la relación con nuestros clientes a través de un blog técnico que sea de interés para ellos, y también con la creación de comunidades de contribuidores de proyectos libres.
+
+####Flujos de Ganancias
+
+Utilizaré un modelo de suscripciones mensuales, el cual dará a los usuarios acceso completo a todos los dips.
+
+####Recursos Clave
+
+Los elementos claves que hacen funcionar al negocio son tres: los usuarios, los dips que les proveen valor y el hecho de que todo el software utilizado por la startup sea código libre.
+
+####Actividades Clave
+
+El armado de dips por especialistas, idealmente expertos en el código; y el desarrollo de las apps son las actividades clave.
+
+####Sociedades Clave
+
+Github es un socio clave porque prácticamente todo proyecto open source está hosteado allí, y proveen una API para interactuar con ellos.
+
+####Estructura de Costos
+
+La startup cuenta con costos típicos de una empresa web/mobile: servidores, suscripción a la Play Store de Google y a iTunes de Apple. También hay que incluir a los salarios de personas y suscripciones a servicios y herramientas de desarrollo.
+
+####Lienzo de DIP
+
+Sintetizando el modelo de negocios de DIP en una sola imagen:
+
+![Lienzo dip](images/lienzo-dip.jpg)
+
+Es importante recordar que este modelo de negocios es solo una primera aproximación llena de suposiciones, que pueden ser acertadas o erradas, y sólo sabremos eso con el Desarrollo de Clientes.
+
+####Resúmen
+
+Con una visión formada y un lienzo de modelo de negocios listo, no queda nada que impida el comienzo de la parte mas emocionante: armar el producto y salir del edificio. En el próximo capítulo comenzaré con la primera fase de construcción.
+
+[^empathy-map]: http://xplane.com/
+[^business-model]: http://www.businessmodelgeneration.com/
