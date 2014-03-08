@@ -1,3 +1,13 @@
+resumen.txt
+introduccion.txt
+marco-teorico/marco-teorico.txt
+marco-teorico/ideas-innovadoras.txt
+marco-teorico/que-es-startup.txt
+marco-teorico/exito-startups.txt
+marco-teorico/modelo-negocios.txt
+marco-teorico/desarrollo-clientes.txt
+marco-teorico/lean-startup.txt
+marco-teorico/resumen-metodologias.txt
 desarrollo-idea/desarrollo-idea.txt
 desarrollo-idea/descubrimiento-clientes.txt
 desarrollo-idea/descubrimiento-vision.txt
