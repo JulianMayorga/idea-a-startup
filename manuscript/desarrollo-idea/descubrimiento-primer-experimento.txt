@@ -8,7 +8,7 @@ Finalmente llegó el momento de empezar la validación del modelo de negocios, y
 
 ¿Por dónde empezar? Tenemos un lienzo de negocio lleno de hipótesis sin validar, sin embargo generalmente el punto de partida será siempre el mismo: hay que tener certeza que la startup encara un problema real de los clientes.
 
-Por lo tanto la primer hipótesis en la que trabajaré va a ser la del Segmento de Clientes:
+Por lo tanto la primer hipótesis en la que trabajaré es la del Segmento de Clientes:
 
 A> A los programadores web les resulta difícil comprender código.
 
@@ -16,9 +16,9 @@ A> A los programadores web les resulta difícil comprender código.
 
 ¿Cómo validar esta hipótesis? Llegó la hora de construir un producto que valide la hipótesis planteada. Pero es importante tener en cuenta que se construirá un MVP&mdash;un producto que tenga la funcionalidad mínima y necesaria para probar la hipótesis&mdash;no hay que desperdiciar recursos en productos con funcionalidad innecesaria por ahora.
 
-Generalmente los ingenieros tenemos la tendencia de construir soluciones y que éstas sean perfectas hasta el más mínimo detalle. Esta forma de pensar nos puede llevar a construir soluciones perfectas que nadie usa porque no solucionan ningún problema real.
+Generalmente los ingenieros tenemos la tendencia de construir soluciones y perfeccionarlas hasta el más mínimo detalle. Esta forma de pensar nos puede llevar a construir soluciones perfectas, pero que desafortunadamente nadie usa porque no solucionan ningún problema real.
 
-Sin embargo no todo es programar, es posible que haya etapas de Construcción que no involucren código, por ejemplo:
+Es bueno saber programar no es la única opción, podemos construir soluciones que no involucren código y también nos provean datos para validar o rechazar hipótesis, por ejemplo:
 
 * podríamos armar un video que plantee el problema a solucionar y después medir su éxito
 * podríamos relizar entrevistas con posibles usuarios y detectar si realmente cuentan con el problema planteado en la hipótesis
@@ -32,7 +32,7 @@ Construiré una página que despierte el interés del público objetivo y recole
 
 ![Landing page de dip](images/dip-landing-page.png)
 
-La arquitectura de la página es Cliente Servidor. Utilicé un solo lenguaje, javascript, para la construcción de cliente, servidor y base de datos.
+La página cuenta con un cliente y un servidor. Utilicé un solo lenguaje para la construcción de todos los componentes de la misma&mdash;cliente, servidor y base de datos&mdash; javascript.
 
 * Cliente: desarrollado con el framework AngularJS
 * Servidor: API hecha en NodeJS
@@ -48,7 +48,7 @@ Probaré la funcionalidad de la aplicación con dos tipos de pruebas, pruebas de
 
 ######Pruebas E2E
 
-La página cuenta con un elemento en el que el usuario ingresa su email y un botón que lo envía. Hay que verificar que la página muestra una confirmación al usuario cuando ingrese su email correctamente.
+La página cuenta con un elemento en el que el usuario ingresa su email y un botón que lo envía al servidor. Para verificar que la página muestra una confirmación al usuario cuando ingrese su email correctamente realizaré una prueba E2E.
 
 Para probar esto utilizaré Selenium como herramienta de automatización, la cual puede realizar las mismas acciones que una persona a la hora de navegar sitios web. A continuación muestro cómo ingresar un email y apretar el botón "Vamos" a través de Selenium.
 
@@ -75,7 +75,7 @@ Con esta prueba queda verificada la funcionalidad desde el punto de vista del us
 
 ######Pruebas unitarias
 
-Un controlador bien diseñado tiene como responsabilidad ser el "pegamento" entre la vista y los modelos, es un mero intermediario. Por lo tanto una prueba unitaria de controlador debe verificar que el mismo llama de manera correcta a los modelos, y esto se puede verificar tranquilamente utilizando "mocks"&mdash;objetos temporales que tienen la funcionalidad de objetos reales&mdash;no hay necesidad de usar a los objetos reales porque queremos verificar el comportamiento de una unidad a la vez.
+En una arquitectura modelo-vista-controlador un controlador tiene como responsabilidad ser el "pegamento" entre la vista y los modelos, es un mero intermediario. Por lo tanto una prueba unitaria de controlador debe verificar que el mismo llama de manera correcta a los modelos, y esto se puede verificar tranquilamente utilizando "mocks"&mdash;objetos temporales que tienen la funcionalidad de objetos reales&mdash;no hay necesidad de usar a los objetos reales porque queremos verificar el comportamiento de una unidad a la vez.
 
 La prueba unitaria del controlador es la siguiente:
 
@@ -104,7 +104,7 @@ describe('Controller: MainCtrl', function () {
   });
 });
 ```
-Para probar que el modelo de la aplicación&mdash;el servicio email&mdash;funciona voy a utilizar una nueva especie de objeto temporal, un backend falso. El mismo evita que se hagan pedidos HTTP innecesarios, los cuales pueden ralentizar innecesariamente nuestras pruebas.
+Para probar que el modelo de la aplicación&mdash;el servicio email&mdash;funciona voy a utilizar una nueva especie de objeto temporal, un backend falso. El mismo evita que la aplicación, al ser probada, haga pedidos HTTP innecesarios al servidor que ralenticen innecesariamente nuestras pruebas.
 
 La forma de utilizar este backend falso para probar que el servicio email funciona correctamente es la siguiente:
 
@@ -147,7 +147,7 @@ describe('Service: ServicioEmail', function () {
 
 ```
 
-El resto del código del frontend está hosteado en GitHub en la siguiente dirección:
+El resto del código del frontend se puede ver en la siguiente dirección:
 
 [Frontend en github](https://github.com/JulianMayorga/dip-primer-mvp-frontend)
 
@@ -155,7 +155,7 @@ El resto del código del frontend está hosteado en GitHub en la siguiente direc
 
 El servidor está hosteado en un dominio diferente al cliente por motivos de modularidad. Al hacer esto hay un desacoplamiento entre cliente y servidor, y una interfaz REST definida para la comunicación entre ambos.
 
-La API REST cuenta con sólo dos funciones:
+La API REST es muy simple, y cuenta con sólo dos funciones:
 
 1. responder a los pedidos realizados a "/email" con un código de confirmación
 2. guardar en la base de datos el correo que viene en el cuerpo del pedido.
@@ -204,15 +204,15 @@ describe('POST /email', function () {
 });
 ```
 
-La API completa, al igual que el cliente, se encuentra hosteada en github. La dirección de la misma es la siguiente:
+El código fuente completo de la API, al igual que el del cliente, se encuentra hosteado en github. La dirección del mismo es la siguiente:
 
 [API en github](https://github.com/JulianMayorga/dip-primer-mvp-api)
 
 ####Medir
 
-Una vez que se libera el MVP al mundo hay que analizar los resultados del experimento. Puede ser tentador medir cantidad de visitas al mes, tiempo total en la aplicación, tiempos de respuesta, etc. Trackear estás métricas es divertido, pero no es el objetivo del experimento, lo único que interesa son la cantidad de personas que mostraron interés en la solución al dar sus emails.
+Una vez que se libera el MVP al mundo hay que analizar los resultados del experimento. Puede ser tentador medir cantidad de visitas al mes, tiempo total en la aplicación, tiempos de respuesta, etc. Trackear estás métricas puede ser divertido, pero no es el objetivo del experimento, lo único que interesa son la cantidad de personas que mostraron interés en la solución al dar sus emails.
 
-En esta etapa hay que plantearse la pregunta ¿cuántos emails consideramos un éxito? ¿10 emails? ¿50? ¿1000? Estos números, obviamente, dependen de muchos factores pero es importante definir un número. Éste número va a ser la vara que tildará de éxito o fracaso al experimento.
+En la etapa de medición hay que plantearse la pregunta ¿cuántos emails consideramos un éxito? ¿10 emails? ¿50? ¿1000? Estos números, obviamente, dependen de muchos factores propios de cada experimento pero es importante definir un número. Éste número va a ser la vara que tildará de éxito o fracaso al experimento.
 
 ####Aprender
 
@@ -220,4 +220,6 @@ En esta etapa hay que analizar los datos que surgieron del experimento y tomar u
 
 ####Paso siguiente
 
-Para ejemplificar el proceso de Desarrollo de Clientes, vamos a suponer que la página de marketing fué todo un éxito. Ahora que sabemos que hay programadores interesados en la lectura de código vamos a armar una solución real: **Un editor de HTML, CSS y JavaScript con enfoque en generar código "legible".**
+Para ejemplificar el proceso de Desarrollo de Clientes, vamos a suponer que la página de marketing fue todo un éxito.
+
+Ahora que sabemos que hay programadores interesados en la lectura de código vamos a armar una solución real: **Un editor de HTML, CSS y JavaScript con enfoque en generar código "legible".**
