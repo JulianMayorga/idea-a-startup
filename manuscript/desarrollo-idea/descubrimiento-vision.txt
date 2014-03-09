@@ -35,7 +35,7 @@ También, después de incontables semanas de brainstroming, elegí el nombre de 
 
 [sonido de redoble de tambor]
 
-A> C> **DIP**
+!["dip"](images/logo-dip.png)
 
 Hay que empezar por un objetivo más alcanzable que la visión propuesta debido a la magnitud de la visión y al carácter iterativo de la metodología de Desarrollo de Clientes. Por este motivo a continuación mostraré cómo deconstruir la visión en una solución al problema de lectura de código.
 

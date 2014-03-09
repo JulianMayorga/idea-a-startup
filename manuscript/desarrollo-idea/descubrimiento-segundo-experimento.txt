@@ -1,13 +1,108 @@
 ###Segundo Experimento
 
-* Segundo paso de validación
-* Hipótesis: Value Proposition
-* Build
-    * Qué haré: implementar feature mas riesgoso?
-    * Cómo: XP
-    * Qué otras opciones hay
-* Measure
-* Learn
-* Conexión con proximos experimentos
-
 ![Segundo experimento](images/descubrimiento-4-segundo-experimento.jpg)
+
+El paso que le sigue a la validación del problema es la validación de la solución. En el experimento anterior definí un experimento y validamos el interés del segmento de clientes, ahora voy a diseñar un producto mínimo viable para validar la solución propuesta. Este es sólo el principio de un largo proceso de descubrimiento, en el que construiré y deconstruiré numerosas soluciones hasta encontrar una que encaje con las necesidades del cliente.
+
+Los detalles de la hipótesis, construcción, medición y aprendizaje de este experimento están detallados a continuación.
+
+####Hipótesis
+
+Así como en el experimento anterior definí una hipótesis relacionada al Segmento de Clientes, en esta etapa voy a definir una hipótesis relacionada a otro bloque del Lienzo de modelos de negocio: la Propuesta de Valor.
+
+Hay una hipótesis de propuesta de valor definida en el lienzo, pero en esta etapa voy a elegir un subconjunto de la misma para tener más precisión a la hora de validarla. La hipótesis actual es "El valor que ofrece la startup es comprender proyectos open source para constribuir a ellos", y la misma puede deconstruirse en tres hipótesis de valor independientes:
+
+1. Comprender proyectos representa valor para programadores web
+2. Programadores web tienen interés en open source
+3. Contribuir a proyectos open source les da valor a programadores web
+
+La primer sub-hipótesis que voy a validar a través de una solución es la primera.
+
+A> Comprender proyectos representa valor para programadores web
+
+####Construcción
+
+Código bien comentado es código de calidad, y unos buenos comentarios ayudan a entender código; pero la forma de encarar código, ya sea de calidad o no, varía dependiendo de la experiencia y habilidad de cada programador. No hay forma que los comentarios den información útil a todo el tipo de personas que pueden leerlo. ¿O si hay forma?
+
+La solución que voy a construir es una capa adicional al código, que tenga comentarios creados por y para la comunidad para comprender mejor el código: preguntas, aclaraciones, enlaces, etc.
+
+Dicen que una imagen vale más que mil palabras, asi que espero que con cuatro imágenes se entienda perfectamente la idea de la aplicación:
+
+!["Pagina inicial de la app: Lista de código fuente"](images/segundo-mvp-1.png)
+
+!["El usuario selecciona el contenido a comentar"](images/segundo-mvp-2.png)
+
+!["El usuario comenta el código"](images/segundo-mvp-3.png)
+
+!["Al tocar el texto seleccionado se muestra el comentario"](images/segundo-mvp-4.png)
+
+La forma de construir el MVP actual es escribiendo las pruebas automatizadas antes que el código. Por motivos de espacio sólo voy a mostrar las pruebas a nivel de usuario, o E2E. El código fuente completo de la aplicación se encuentra [aquí](https://github.com/JulianMayorga/dip-segundo-mvp).
+
+#####Tests E2E
+
+La página inicial de la app debería mostrar tres dips inicialmente y debería pasar a la vista de dip al cliquear uno, y eso es exactamente lo que voy a automatizar con el siguiente código:
+
+```javascript
+describe('App', function() {
+  beforeEach(function () {
+    browser.get('/#/');
+  });
+
+  describe('Pagina inicial', function () {
+    it('deberia mostrar tres dips inicialmente', function () {
+      var dips = element.all(by.css('.dips a'));
+      expect(dips.count()).toBe(3);
+    });
+
+    it('deberia pasar a la vista de dip al cliquear uno', function () {
+      var primerDip = element(by.repeater('dip in dips').row(0).column('{{dip.nombre}}'));
+      primerDip.click();
+      expect(browser.getCurrentUrl()).toContain('/dip/1');
+    });
+  });
+```
+
+En la vista de dip se debería poder hacer anotaciones sobre el código; debería tener tabs para HTML, CSS y JavaScript; y debería mostrar el código fuente de cada dip. El código para probar eso es el siguiente:
+
+```javascript
+  describe('Pagina de dip', function () {
+    var primerDip;
+
+    beforeEach(function () {
+      primerDip = element(by.repeater('dip in dips').row(0).column('{{dip.nombre}}'));
+      primerDip.click();
+    });
+
+    it('deberia inicializar las anotaciones en la vista de dip', function() {
+      var wrapper = element(by.css('.annotator-wrapper'));
+      expect(wrapper.isPresent()).toBe(true);
+    });
+
+    it('deberia tener tabs en la vista de cada dip', function () {
+      var dips = element(by.css('.nav-tabs'));
+      expect(dips.isPresent()).toBe(true);
+    });
+
+    it('deberia mostrar contenido del dip', function () {
+      var js = element(by.css('.js .hljs'));
+      expect(js.getText()).not.toBe('');
+    });
+  });
+});
+```
+
+####Medir
+
+El objetivo del experimento es medir la comprensión del código fuente, la cual es una métrica no tan exacta como el número de inscriptos, pero igualmente es medible. La forma que elegí para medir esto es a través de una simple pregunta hecha a cada usuario, la cual es ¿qué hace el código fuente que acabas de leer?
+
+**Quiero resaltar la importancia de hablar cara a cara con los usuarios para aprender sobre ellos.** Para obtener respuestas a la pregunta sobre el código fuente que van a leer los usuarios podría hacer un simple formulario que envíe las respuestas al servidor, analizarlas una por una y llegar a una conclusión al final del experimento. Pero la forma de medir la comprensión de los clientes va a ser preguntándoles cara a cara, ya sea en persona o por skype. Haciendo esto no sólo voy a salir con una idea clara de la efectividad de la solución que estoy probando, sino que voy a sentir si la experiencia del usuario es la que yo deseo.
+
+Hablando con los usuario en etapas tempranas del producto es una muy buena forma de ganar aprendizajes clave que ayuden a darle forma al producto que se desarrolle.
+
+####Aprender
+
+Luego de realizar suficientes entrevistas con usuarios interesados y medir qué tanto la solución los ayuda a comprender mejor el código, es la hora de aprender sobre la hipótesis planteada. Más allá de la conclusión a la que llegue en este experimento, hay mucha funcionalidad posible que puede ayudar a programadores a comprender mejor el código. Por eso hay que seguir experimentando, planteando hipótesis y construyendo la funcionalidad mínima que provea aprendizajes clave.
+
+####Paso siguiente
+
+Es necesario seguir iterando hasta encontrar una solución adecuada al problema planteado. Luego de eso hay que validar el resto de los bloques del lienzo de modelo de negocios, el cual es el objeto de la próxima sección.

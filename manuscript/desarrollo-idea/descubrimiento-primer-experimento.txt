@@ -222,4 +222,4 @@ En esta etapa hay que analizar los datos que surgieron del experimento y tomar u
 
 Para ejemplificar el proceso de Desarrollo de Clientes, vamos a suponer que la página de marketing fue todo un éxito.
 
-Ahora que sabemos que hay programadores interesados en la lectura de código vamos a armar una solución real: **Un editor de HTML, CSS y JavaScript con enfoque en generar código "legible".**
+Ahora que sabemos que hay programadores interesados en la lectura de código vamos a armar una solución real: **Un editor de HTML, CSS y JavaScript con enfoque en lectura de código".**

@@ -13,3 +13,4 @@ desarrollo-idea/descubrimiento-clientes.txt
 desarrollo-idea/descubrimiento-vision.txt
 desarrollo-idea/descubrimiento-lienzo.txt
 desarrollo-idea/descubrimiento-primer-experimento.txt
+desarrollo-idea/descubrimiento-segundo-experimento.txt
