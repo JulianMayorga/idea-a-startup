@@ -1,8 +1,7 @@
 ###Lienzo Validado
 
-* Final de Customer Developmnent
-* Hablar sobre estado actual de startup
-    * Cómo quedó el producto (hipotéticamente)
-* Conexión con Validación
-
 ![Lienzo validado](images/descubrimiento-6-lienzo-validado.jpg)
+
+Encontrar un modelo de negocios que funcione es un logro importante en la vida de una startup, ya que marca el final de la etapa de Descubrimiento de Clientes.
+
+Tener usuarios que encuentran valor en el producto ofrecido es algo que no todas las startups pueden tener, por lo tanto hay que aprovechar esto y trabajar sobre ellos en la próxima etapa: la Validación de Clientes, en la cual hay que iterar hasta encontrar una estrategia de ventas que permita obtener ganacias de estos usuarios satisfechos.

@@ -1,6 +1,6 @@
 #Cómo pasar de una idea a una startup
 
-Tesis de la carrera Ingeniería en Informática.
+Trabajo Final de la carrera Ingeniería en Informática.
 
 ##Resúmen
 
