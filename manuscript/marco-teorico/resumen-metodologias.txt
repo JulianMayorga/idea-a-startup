@@ -40,7 +40,7 @@ Es fundamental buscar un problema específico de un segmento de clientes bien de
 
 La primera iteración del bucle construir-medir-aprender siempre debe tener como objetivo validar la suposición realizada sobre el Segmento de Clientes al que va a apuntar la startup.
 
-Si se confirma la hipótesis sobre los clientes se puede pasar al segundo experiment, sino hay que continuar iterando hasta encontrar un Segmento de Clientes.
+Cuando se confirme la hipótesis sobre los clientes hay que pasar al segundo experimento, sino hay que continuar iterando hasta encontrar un Segmento de Clientes.
 
 #####Segundo experimento
 
@@ -56,7 +56,7 @@ Un modelo de negocios con cada bloque validado marca el fin de la etapa de Descu
 
 ###Validación de Clientes
 
-La segunda etapa a realizar en la creación de startups es la Validación de Clientes. El análisis de esta etapa será equivalente al realizado con Descubrimiento de Clientes: resumiré el proceso en un diagrama, explicaré la motivación de la etapa, cómo realizarla y finalizaré con los componentes de la misma.
+La segunda etapa en la creación de startups es la Validación de Clientes. El análisis de esta etapa será equivalente al realizado con Descubrimiento de Clientes: resumiré el proceso en un diagrama, explicaré la motivación de la etapa, cómo realizarla y finalizaré con los componentes de la misma.
 
 ####Diagrama
 
