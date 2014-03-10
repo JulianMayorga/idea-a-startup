@@ -1,7 +1,10 @@
 ###Mercado
 
-* Ya hay mercado vendible y grande
+![Mercado](images/validacion-3-mercado.jpg)
+
+* Ya hay mercado vendible y grande. Sabemos:
+    * Quién va a comprar
+    * Por qué
+    * A qué precio
 * Final vida de startup
 * Después ejecución
-
-![Mercado](images/validacion-3-mercado.jpg)

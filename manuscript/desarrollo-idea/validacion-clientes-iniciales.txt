@@ -1,6 +1,13 @@
 ###Clientes iniciales
 
-* Ya hay clientes, ahora hay que conseguir más y hacer que entregen $
-* Conexión con experimentos
-
 ![Clientes iniciales](images/validacion-1-clientes.jpg)
+
+Partimos esta etapa con el resultado de la anterior: un conjunto de clientes satisfechos por un modelo de negocios validado. Ahora el objetivo es **crecer la startup**, ya sea con una o muchas de las siguientes opciones:
+
+* consiguiendo más clientes
+* haciendo que paguen más
+* reteniéndolos mejor
+* bajando costos de adquisición
+
+Hay que plantear **hipótesis de crecimiento** y validarlas a través de experimentos, voy a describir la forma de realizar esto a continuación.
+

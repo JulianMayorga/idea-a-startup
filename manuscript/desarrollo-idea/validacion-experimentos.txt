@@ -1,10 +1,20 @@
 ###Experimentos
 
+![Experimentos](images/validacion-2-experimentos.jpg)
+
 * Hay que hacer experimentos de ventas hasta tener estrategia
+    * Escalable y repetible, a diferencia de cosas que dan crecimiento por motivos que pasan una sola vez (dinero de inversores, etc)
+* Queremos saber:
+    * Quién va a comprar
+    * Por qué
+    * A qué precio
 * Voy a mostrar ejemplos de estrategias posibles
-    * Qué construir
-    * Qué medir
+    * Hipótesis de crecimiento: 3 engines
+    * Qué construir: MVP Alta fidelidad
+    * Ventas de prueba
+    * Qué medir!!!
+        * Coeficiente de cada engine
     * Aprender
+* Pivot de engine
 * Conexión con mercado
 
-![Experimentos](images/validacion-2-experimentos.jpg)

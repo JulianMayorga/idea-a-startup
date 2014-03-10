@@ -1,6 +1,7 @@
 ##Validación de Clientes
 
-* Proceso que busca tener estrategia de ventas repetible y escalable
-* Hay que hacer experimentos de ventas hasta tener estrategia
-* Voy a mostrar ejemplos de estrategias posibles
-* Finalizar con mercado grande y vendible
+En la Validación de Clientes se realiza el proceso que busca tener una estrategia de ventas repetible y escalable. Esto significa que no sólo hay que encontrar la forma correcta de vender el producto/servicio a los clientes, sino que hay que asegurarse que ésta venta se pueda hacer a gran escala a futuro, cuando la startup sea una compañía.
+
+La manera de encontrar esta estrategia de ventas es la misma que se utilizó para encontrar un modelo de negocios: planteando hipótesis, realizando experimentos y saliendo del edificio para validar las suposiciones.
+
+En las próximas secciones voy a mostrar con ejemplos las estrategias de venta posibles para startups. Al finalizar la etapa de Validación de Clientes finaliza el ciclo de vida de una startup, la cual se transforma en una compañía con procesos aceitados, lista para ser llevada adelante a través de técnicas de management tradicionales.
