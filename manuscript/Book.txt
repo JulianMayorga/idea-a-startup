@@ -21,7 +21,6 @@ desarrollo-idea/validacion-clientes.txt
 desarrollo-idea/validacion-clientes-iniciales.txt
 desarrollo-idea/validacion-experimentos.txt
 desarrollo-idea/validacion-mercado.txt
-desarrollo-idea/mvp.txt
 desarrollo-idea/proximos-pasos.txt
 conclusion.txt
 bibliografia.txt

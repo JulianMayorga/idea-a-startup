@@ -1,7 +1,71 @@
 ###Experimentos intermedios
 
-* Podemos iterar muchas veces
-* Recordar minimalidad de MVPs
-* Conexión lienzo validado
-
 ![Experimentos intermedios](images/descubrimiento-5-experimentos-intermedios.jpg)
+
+Hay que hacer numerosos experimentos e iteraciones en la etapa de Descubrimiento de Clientes, siempre recordando que el objetivo no sólo es construir un servicio/producto, sino **encontrar un modelo de negocios.**
+
+Iterar sobre cada bloque&mdash;realizar hipótesis, MVPs y mediciones&mdash;ayuda a mantener un ciclo de feedback con clientes permanente. Hay que *salir del edificio* para optimizar el uso de recursos y aprender más sobre los usuarios.
+
+Para clarificar la búsqueda de modelo de negocios, voy a ejemplificar los aspectos del lienzo de dip que habría que validar.
+
+####Hipótesis a validar
+
+#####Segmento de clientes
+
+La primera iteración de dip estuvo enfocada en validar un problema del segmento de clientes, por lo tanto este aspecto debería estar validado.
+
+#####Propuesta de valor
+
+La segunda iteración ejemplificada en el trabajo tuvo como objetivo encontrar una solución que se adecúe al problema del segmento de clientes, pero sólo validó una parte de ella, es necesario continuar experimentando hasta encontrar un producto que encaje perfectamente con el problema encontrado.
+
+Las hipótesis que falta validar son:
+
+* Programadores quieren comprender proyectos completos, no sólo fragmentos de código
+* Programadores quieren explorar issues de proyectos open source, armar dips para comprender el código a modificar y una vez comprendido contribuir al proyecto con pull requests        
+
+#####Canales
+
+Con respecto a los canales de distribución la principal suposición a validar es:
+
+* Aplicaciones móviles y web son útiles para consumir contenido
+
+#####Relaciones con clientes
+
+Hay diferentes formas de conectarse con programadores web, las suposiciones que planteé en el lienzo de dip y hay que validar son:
+
+* Un blog técnico serviría para potenciar el armado de comunidad de desarrolladores que pretende dip
+* Crear comunidades alrededor de proyectos open source ayudaría a conectarse con usuarios de dip
+
+#####Flujos de ganancias
+
+Las suscripciones mensuales planteadas en el lienzo inicial son lo más adecuado? Es necesario probar que eso es cierto, y explorar otras opciones si fuese necesario.
+
+* Quizas es mejor usar una estrategia de publicidad para generar ingresos
+* O quizás armar un mercado de desarrolladores y personas que ofrecen trabajo seria mejor
+
+#####Recursos clave
+
+A medida que vamos validando otras partes del negocio 
+vamos a identificar y rechazar diferentes recursos clave. Hay que estar atentos a estos cambios para identificar que elementos le dan a la startup una ventaja competitiva.
+
+#####Actividades clave
+
+El desarrollo de aplicaciones es una actividad clave debido a la naturaleza de las startups web/mobile, pero es necesario contemplar otras actividades esenciales.
+
+* Armar dips que ayuden a entender proyectos es una forma de incentivar a la comunidad a crear sus dips propios
+* Armar exploraciones de proyectos open source y venderlos como libros quizás sea una actividad clave, hay que probar esto
+
+#####Sociedades clave
+
+* Integrar con github o no?
+* Alguna otra sociedad seria buena?
+
+#####Estructura de costos
+    
+* Que servicios desarrollar como propios y que servicios alquilar?
+* Utilizar servidores propios o la nube?
+* Utilizar un backend propio o un servicio como firebase, para poder concentrarse sólo en la experiencia de usuario?
+
+####Próximos pasos
+
+Una vez que haya certezas sobre cada bloque del modelo de negocios es el momento de analizar el lienzo completo y validado, lo que trataré en la próxima sección.

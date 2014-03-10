@@ -97,7 +97,7 @@ El objetivo del experimento es medir la comprensión del código fuente, la cual
 
 **Quiero resaltar la importancia de hablar cara a cara con los usuarios para aprender sobre ellos.** Para obtener respuestas a la pregunta sobre el código fuente que van a leer los usuarios podría hacer un simple formulario que envíe las respuestas al servidor, analizarlas una por una y llegar a una conclusión al final del experimento. Pero la forma de medir la comprensión de los clientes va a ser preguntándoles cara a cara, ya sea en persona o por skype. Haciendo esto no sólo voy a salir con una idea clara de la efectividad de la solución que estoy probando, sino que voy a sentir si la experiencia del usuario es la que yo deseo.
 
-Hablando con los usuario en etapas tempranas del producto es una muy buena forma de ganar aprendizajes clave que ayuden a darle forma al producto que se desarrolle.
+Hablando con los usuario en etapas tempranas del producto es una muy buena forma de ganar aprendizajes clave que ayuden a darle forma al producto en desarrollo.
 
 ####Aprender
 
