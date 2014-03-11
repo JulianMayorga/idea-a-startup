@@ -2,19 +2,86 @@
 
 ![Experimentos](images/validacion-2-experimentos.jpg)
 
-* Hay que hacer experimentos de ventas hasta tener estrategia
-    * Escalable y repetible, a diferencia de cosas que dan crecimiento por motivos que pasan una sola vez (dinero de inversores, etc)
-* Queremos saber:
-    * Quién va a comprar
-    * Por qué
-    * A qué precio
-* Voy a mostrar ejemplos de estrategias posibles
-    * Hipótesis de crecimiento: 3 engines
-    * Qué construir: MVP Alta fidelidad
-    * Ventas de prueba
-    * Qué medir!!!
-        * Coeficiente de cada engine
-    * Aprender
-* Pivot de engine
-* Conexión con mercado
+Hay que hacer experimentos enfocados en la venta del producto o servicio ofrecido, y seguir experimentando todo lo que sea necesario hasta finalmente encontrar una estrategia de ventas definida.
 
+La estrategia de venta debe ser escalable y repetible, esto es importante debido a que hay cierto tipo de acciones que generan crecimiento temporal, el cual no aporta a la sustentabilidad del negocio. Por ejemplo comprar publicidad gracias a dinero de inversores seguramente proveerá un aumento de usuarios, pero si los usuarios no pueden pagar los próximos avisos publicitarios eventualmente no va a haber más dinero para continuar creciendo con publicidad.
+
+Específicamente el objetivo de esta etapa es saber:
+
+* Cuál es el motor de crecimiento que hace avanzar a la startup
+* Quién va a comprar
+* Por qué
+* A qué precio
+
+A continuación voy a mostrar diferentes elementos para incluir en los experimentos de venta:
+
+####Experimentos de venta
+
+Así como en la etapa de Descubrimiento de Clientes había que plantear hipótesis sobre el modelo de negocios, la hipótesis clave a plantear en la Validación de Clientes es sobre el motor de crecimiento de la startup.
+
+#####Hipótesis de crecimiento
+
+Como mencioné en el marco teórico, Eric Ries menciona que hay tres motores de crecimiento posibles para una startup: crecimiento pegajozo, crecimiento viral y crecimiento pago. Por lo tanto hay que elegir uno de estos motores de crecimientos, adaptarlos al funcionamiento y procesos de la startup y realizar experimentos para verificar si el modelo elegido produce crecimiento o no.
+
+#####Qué construir: MVPs de alta fidelidad
+
+En el Descubrimiento de Clientes se construyen prototipos como MVPs, productos con la funcionalidad mínima para probar hipótesis; en la Validación de Clientes también se construirán MVPs, la diferencia es que estos son mucho más que prototipos por dos motivos principalmente:
+
+1. Hay un modelo de negocios validado, el cual dicta la funcionalidad esperada por los clientes, por lo tanto va a haber un producto mucho más aceitado en esta etapa
+2. Un producto mínimo para obtener ventas tiene que ser mucho más robusto que un producto mínimo para probar una hipótesis de negocio
+
+#####Cómo medir: Ventas de prueba
+
+Los intentos de compra de los clientes son medidos a través de las llamadas "ventas de prueba". La forma de realizar una de estas ventas depende del modelo de negocios de cada startup. Un intento de ventas puede ser un cliente entregando dinero a través de un producto, o consiguiendo muchos clientes para que un anunciante pague por estar en el producto/servicio.
+
+#####Qué medir: Coeficientes de crecimiento
+
+Las llamadas "métricas de vanidad" pueden dar información errada sobre estado actual de startup, por ejemplo puede darse el caso que una empresa tenga un 40% de nuevos clientes cada mes, pero esté en un estado de caída porque pierde 50% de los clientes a medida que pasan los meses.
+
+Por este motivo hay que concentrarse en las métricas adecuadas para cada startup, y las mismas dependen del motor de crecimiento de cada una. Dependiendo del motor de crecimiento elegido hay que concentrarse en medir y optimizar un conjunto diferente de métricas, a continuación se enumera las mismas:
+
+#####Métricas de motor sticky
+
+En este tipo de motor de crecimiento es clave la capacidad de retener clientes, mientras la cantidad de clientes perdidos sea menor que la cantidad de clientes nuevos por mes, se produce crecimiento.
+
+A> Tasa de crecimiento = Clientes nuevos por mes - Clientes perdidos por mes
+
+!["Motor de crecimiento sticky"](images/motor-sticky.jpg)
+
+Este es un caso en el que se muestra con claridad la importancia de enfocarse en medir lo correcto, debido a que hay otros números que pueden dar información erronea. Hay métricas de "vanidad" que no indican con certeza el estado actual de una startup con motor sticky:
+
+* Número de clientes
+* Tasa de activacion (usuarios que se transforman en clientes)
+* Ganancia por cliente
+
+Una startup puede tener gran cantidad de clientes, puede tener una gran estructura para transformar visitantes en usuarios, o ganar mucho por cliente; pero igual estará destinada a la desaparición si tiene una tasa de crecimiento estancada o negativa.
+
+El enfoque en este tipo de empresas tiene que ser en mejorar retención de clientes, no en ventas o marketing como generalmente sucede.
+
+#####Métricas de motor viral
+
+Muchas startups conocidas actualmente crecen debido a un motor viral, como Facebook, Twitter o LinkedIn. El concepto de crecimiento es simple, mientras cada cliente nuevo traiga a uno o mas amigos, entonces va a haber crecimiento.
+
+A> Coeficiente viral = Clientes nuevos como consecuencia de cada cliente que se registra
+
+!["Motor de crecimiento viral"](images/motor-viral.jpg)
+
+#####Métricas de motor pago
+
+El motor de crecimiento pago se logra cuando un cliente significa más dinero que el costo de adquirir uno, el margen de ganancias es utilizado para generar fondos de publicidad, los cuales realimentan el ciclo de adquisición de clientes.
+
+A> Crecimiento = Valor de vida del cliente - Costo por adquisición
+
+!["Motor de crecimiento pago"](images/motor-pago.jpg)
+
+####Pivots de motor de crecimiento
+
+Los pivots de motor de crecimiento pueden ser necesarios, después de todo hay que recordar que todo comienza como una suposición, y sólo se convierte en certeza al validarlo con experimentos y saliendo del edificio.
+
+¿Qué pasa si una startup puede utilizar varios motores de crecimiento? La recomendación de Eric Ries es elegir un sólo motor de crecimiento y optimizarlo, debido a que es muy complejo trackear y optimizar efectivamente varios modelo de crecimiento. [^recomendacion-ries]
+
+####Paso siguiente
+
+Una vez que la startup encuentre cómo crecer sustentablemente, la misma tiene acceso a un mercado grande y vendible, lo cual es el objeto de la próxima sección.
+
+[^recomendacion-ries]: Libro "The Lean Startup", capítulo 10: Grow, sección "A Technical Caveat" por Eric Ries
