@@ -48,6 +48,23 @@ C> -- Dave McClure, 500 Startups
 
 ![Lean canvas](images/lean-canvas.jpg)
 
+Este canvas intercambia cajas del lienzo de modelo de negocios, a continuación describo los elementos adicionados y removidos al igual que los motivos de cada cambio[^lean-canvas-explicacion]:
+
+#####Elementos agregados
+
+* Problema: Lean canvas tiene una caja especial para problema para resaltar su importancia. Muchas startups fallan porque no entienden en problema de sus clientes
+* Solución: Tiene una caja pequeña para enfatizar que la solución es algo sobre lo que hay que iterar, porque muchos emprendedores se ensañan con la primer solución construída
+* Métricas clave: Hay que enfocarse en pocas métricas, y asegurarse que sean importantes. Muchas startups se ahogan en métricas insignificantes, desperdiciando el recurso más preciado con el que cuentan: su tiempo
+* Ventaja especial: También llamada ventaja competitiva o barrera de entrada. El objetivo de esta caja es que comience en blanco al inicio de la vida de una startup, e ir llenándola a medida que genera algo que no pueda ser fácilmente copiado, lo cual pasa a ser su ventaja competitiva
+
+#####Elementos removidos
+
+Al trabajar en una startup web/mobile, el emprendedor notará que los siguientes elementos no cambian seguido, o tienen dentro certezas, no hipótesis a probar. Lo cual significa espacio dentro del lienzo que es mejor ocupado por los elementos adicionados en el Lean Canvas.
+
+* Actividades clave y recursos clave: Generalmente tiene valores como desarrollo de software, desarrollo de clientes, desarrolladores o diseñadores
+* Relaciones con clientes: La metodología de Desarrollo de Clientes recomienda tener contacto directo con clientes desde el día cero, y luego encontrar un canal para llegarles
+* Red de asociados: En un comienzo puede ser difícil o improductivo conseguir socios en etapas tempranas de una startup, si bien es cierto que a futuro pueden haber sociedades clave importantes
+
 ###Cómo utilizarlo
 
 En el siguiente capítulo se explorará la técnica de Desarrollo de Clientes, metodología que demuestra cómo utilizar el lienzo de modelos de negocios para encontrar un problema que valga la pena solucionar.
@@ -55,3 +72,4 @@ En el siguiente capítulo se explorará la técnica de Desarrollo de Clientes, m
 
 [^definicion]: Libro "Business Model Generation", capítulo "Canvas", sección "Definition of a Business Model"; de Alexander Osterwalder
 [^lean-canvas]: Libro "Running Lean", capítulo "Step 1: Document Your Plan A", sección "Capture Your Business Model Hypotheses"; de Ash Maurya
+[^lean-canvas-explicacion]: http://practicetrumpstheory.com/2012/02/why-lean-canvas/
