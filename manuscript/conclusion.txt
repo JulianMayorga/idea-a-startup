@@ -1,3 +1,22 @@
 #Conclusión
 
-[Contenido]
+* Dos observaciones
+    * Una
+    * Dos
+* Antes
+* Ahora
+* Después
+
+* Ingenieros pierden tiempo y recursos
+* Planes de negocio raramente sobreviven contacto con clientes
+* Aprender continuamente de clientes
+* Rol de ingeniero en innovacion
+* Ingenieros enfocados a métricas -> Aplicar esto a innovacion
+* Ingeniero es mucho mas que codigo
+* Startups requieren cambio de mentalidad respecto a management tradicional enseñado en universidades
+
+* Orientar personas que comienzan startup, que sepan donde buscar info
+* Motivar ingenieros a empezar startups, y que empiecen con el pie derecho
+
+* ¿qué metodología utilizar cuando tanto el problema como la solución son desconocidas?
+* Los Ingenieros no sólo resuelven problemas correctamente, **los Ingenieros tienen que descubrir los problemas correctos** y resolverlos correctamente

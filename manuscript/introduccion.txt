@@ -14,7 +14,7 @@ En el mundo de la programación existen muchas metodologías para manejar proyec
 
 ![](images/metodologia-cascada.jpg)
 
-El modelo en cascada es un proceso secuencial que se ajusta muy bien a situaciones en las que se cuenta con un problema conocido y una solución conocida. Un ejemplo en el que el modelo en cascada es adecuado es en el desarrollo de una nueva versión de un producto ya existente, por ejemplo el desarrollo de una nueva versión de Microsoft Word, o el desarrollo de una nueva versión del juego de fútbol FIFA.
+El modelo en cascada es un proceso secuencial que se ajusta muy bien a situaciones en las que se cuenta con un problema conocido y una solución conocida. Un ejemplo en el cual el modelo en cascada es adecuado es el desarrollo de nuevas versiones de productos existentes, por ejemplo el desarrollo de una nueva versión de Microsoft Word, o el desarrollo de una nueva versión del juego de fútbol FIFA.
 
 ![](images/metodologia-agil.jpg)
 
@@ -22,7 +22,7 @@ Las metodologías ágiles son métodos iterativos e incrementales que se ajustan
 
 ![](images/metodologia-lean.jpg)
 
-La pregunta es ¿qué metodología utilizar cuando tanto el problema como la solución son desconocidas? En proyectos innovadores no se conocen de entrada estas dos variables, por lo tanto la respuesta a la pregunta inicial es relevante en ámbitos de innovación. El objetivo del presente trabajo final es responder a esta pregunta.
+La pregunta es ¿qué metodología utilizar cuando tanto el problema como la solución son desconocidas? En proyectos innovadores no se conocen de entrada estas dos variables, por lo tanto la respuesta a la pregunta inicial es relevante en ámbitos de innovación. El objetivo del presente trabajo final es responder esta pregunta.
 
 ##Contexto del trabajo final
 
@@ -44,7 +44,7 @@ Para ejemplificar el camino que se puede recorrer para desarrollar una idea hice
 
 Este trabajo final se limita al proceso de creación de startups, no a la administración de empresas. Una startup no es lo mismo que una empresa, una startup se convierte en una empresa cuando tiene aceitados todos sus procesos.
 
-En el trabajo se define una metodología de trabajo que reduce la probabilidad de fallar en una startup, pero es necesario aclarar que el uso de ninguna metodología **no** garantiza el éxito en el desarrollo de startups, debido a que entran en juego muchos factores, como habilidades de personas, comunicación de equipo, etc.
+En el trabajo se define una metodología de trabajo que reduce la probabilidad de fallar en una startup, pero es necesario aclarar que el uso de cualquier metodología **no** garantiza el éxito en el desarrollo de startups, debido a que entran en juego muchos otros factores, como habilidades de personas, comunicación de equipo, etc.
 
 ##Que pretendo dejar al lector
 
