@@ -1,22 +1,9 @@
 #Conclusión
 
-* Dos observaciones
-    * Una
-    * Dos
-* Antes
-* Ahora
-* Después
+En conclusión, en proyectos innovadores&mdash;en donde el problema y la solución son desconocidos&mdash;hay que cambiar el enfoque tradicional de manejo de proyectos debido a los altos niveles de incertidumbre. Hay que maximizar la experimentación y aprendizaje, reduciendo la planificación y ejecución.
 
-* Ingenieros pierden tiempo y recursos
-* Planes de negocio raramente sobreviven contacto con clientes
-* Aprender continuamente de clientes
-* Rol de ingeniero en innovacion
-* Ingenieros enfocados a métricas -> Aplicar esto a innovacion
-* Ingeniero es mucho mas que codigo
-* Startups requieren cambio de mentalidad respecto a management tradicional enseñado en universidades
+La metodología a utilizar en innovación está compuesta por dos etapas, llamadas Desarrollo de Clientes y Validación de Clientes. El objetivo de la primera es buscar un modelo de negocios, y el de la segunda es buscar cómo acelerar el crecimiento.
 
-* Orientar personas que comienzan startup, que sepan donde buscar info
-* Motivar ingenieros a empezar startups, y que empiecen con el pie derecho
+Hay que plantear las preguntas correctas en las etapas adecuadas. ¿Tengo un problema que vale la pena solucionar? ¿He construído algo que va a solucionar ese problema? ¿Cómo acelero el crecimiento? La respuesta a estas preguntas se logra iterando sobre un ciclo de planteo de hipótesis, construcción de productos, medición de resultados y aprendizaje sobre la hipótesis.
 
-* ¿qué metodología utilizar cuando tanto el problema como la solución son desconocidas?
-* Los Ingenieros no sólo resuelven problemas correctamente, **los Ingenieros tienen que descubrir los problemas correctos** y resolverlos correctamente
+Encarar las numerosas oportunidades de innovar que presenta la actualidad con procesos enfocados en la experimentación y aprendizaje constante va a incrementar la cantidad de startups exitosa, lo cual beneficiará a la sociedad con productos y servicios novedosos. El rol de los ingenieros en esta revolución innovadora es mucho más que simplemente construir soluciones, su tarea es **descubrir problemas y construir soluciones.**
