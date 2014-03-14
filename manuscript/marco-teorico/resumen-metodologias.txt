@@ -42,9 +42,13 @@ La primera iteración del bucle construir-medir-aprender siempre debe tener como
 
 Cuando se confirme la hipótesis sobre los clientes hay que pasar al segundo experimento, sino hay que continuar iterando hasta encontrar un Segmento de Clientes.
 
+Q> ##¿Tengo un problema que merece solución?
+
 #####Segundo experimento
 
 La segunda hipótesis a validar es la hipótesis de Propuesta de Valor. En este momento se cuenta con un grupo de personas con un problema concreto, y el objetivo es encontrar una solución adecuada para el mismo.
+
+Q> ##¿He construído algo que soluciona el problema?
 
 #####Experimentos intermedios
 
@@ -89,6 +93,8 @@ El punto de partida es un producto que soluciona el problema de un grupo de clie
 Las iteraciones en la Validación de Clientes tienen que comenzar con una hipótesis sobre la estrategia de ventas, porque el objetivo de esta etapa es encontrar el motor de crecimiento de la startup.
 
 Las etapas de construcción, medición y aprendizaje dependen de las suposiciones sobre las hipótesis de crecimiento planteadas. Las métricas son especialmente importantes, qué tipo de métricas se plantea depende específicamente del motor de crecimiento buscado [^metricas-crecimiento].
+
+Q> ##¿Cómo acelero el crecimiento?
 
 #####Final: Mercado vendible y grande
 
