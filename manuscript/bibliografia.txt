@@ -1,1 +1,36 @@
 #Bibliografía
+
+A> ## *"The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators"*
+A> Jeff Dyer, Hal B. Gregersen, Clayton M. Christensen
+A>
+A> Harvard Business Press, 2011.
+
+A> ## *"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"*
+A> Eric Ries
+A>
+A> Crown Business, 2011.
+
+A> ## *"Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers"*
+A> Alexander Osterwalder, Yves Pigneur
+A>
+A> John Wiley & Sons, Jul 23, 2010.
+
+A> ## *"Running Lean: Iterate from Plan A to a Plan That Works"*
+A> Ash Maurya
+A>
+A> O'Reilly Media, Inc., Feb 28, 2012.
+
+A> ## *"The Entrepreneur's Guide to Customer Development: A "cheat Sheet" to The Four Steps to the Epiphany"*
+A> Brant Cooper, Patrick Vlaskovits
+A>
+A> CustDev, 2010.
+
+A> ## *"The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company"*
+A> Steven G. Blank, Bob Dorf
+A>
+A> K&S Ranch Publishing LLC, 2012.
+
+A> ## *"The Art of Agile Development"*
+A> James Shore, Chromatic
+A>
+A> O'Reilly Media, Inc., Oct 26, 2007.
