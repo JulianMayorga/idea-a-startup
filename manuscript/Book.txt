@@ -1,4 +1,3 @@
-agradecimientos.txt
 resumen.txt
 introduccion.txt
 marco-teorico/marco-teorico.txt
